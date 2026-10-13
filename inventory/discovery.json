@@ -147,7 +147,15 @@
       "json_item_count_returned": 12,
       "json_item_count_reported": 15,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/blog.md"
+      "markdown_path": "raw/markdown/blog.md",
+      "content_path": "content/pages/blog.md",
+      "word_count": 458,
+      "content_type_kind": "page",
+      "title": "Blog",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Blog — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace": {
       "url": "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
@@ -255,7 +263,16 @@
       "show_cart": false,
       "json_body_chars": 14246,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace.md"
+      "markdown_path": "raw/markdown/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace.md",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace.md",
+      "word_count": 1429,
+      "content_type_kind": "post",
+      "title": "Book Review: Aziz Abu Sarah and Maoz Inon – The Future is Peace",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "This review was published at The Englewood Review of Books at  https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/     A Powerful Witness Through Unlikely Friendship      A Feature Review of       The Future is Peace: A Shared Journey Across the Holy Land",
+      "seo_title": "Book Review: Aziz Abu Sarah and Maoz Inon – The Future is Peace — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences": {
       "url": "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
@@ -363,7 +380,17 @@
       "show_cart": false,
       "json_body_chars": 3820,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences.md"
+      "markdown_path": "raw/markdown/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences.md",
+      "render_crosscheck": "firecrawl",
+      "dropped_content": true,
+      "content_path": "content/posts/blog--announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences.md",
+      "word_count": 172,
+      "content_type_kind": "post",
+      "title": "Announcing a New Collaboration with Brigham Young University to Advance Trust Amid Deep Differences",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "We’re pleased to announce that the Foundation for Religious Diplomacy has begun a new collaboration with Brigham Young University’s Social Science and AI Lab (SAIL) to develop the  Rivaltrust Builder —an AI-guided formation experience designed to prepare people for meaningful engagement across deep",
+      "seo_title": "Announcing a New Collaboration with Brigham Young University to Advance Trust Amid Deep Differences — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed": {
       "url": "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed",
@@ -473,7 +500,16 @@
       "json_body_chars": 7120,
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/blog/leonard-swidler-has-passed.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 9s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 9s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--leonard-swidler-has-passed.md",
+      "word_count": 540,
+      "content_type_kind": "post",
+      "title": "Leonard Swidler has passed",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "Leonard Swidler passed away on March 23. He was was Professor of Catholic Thought and Interreligious Dialogue at Temple University, Philadelphia, Pennsylvania, where he taught from 1966 to 2022. He was the co-founder (in 1964, with Arlene Swidler) and editor of the  Journal of Ecumenical Studies . H",
+      "seo_title": "Leonard Swidler has passed — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement": {
       "url": "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement",
@@ -589,7 +625,16 @@
       "json_body_chars": 8862,
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/blog/when-proclamation-is-really-identity-reinforcement.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 15, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 4s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 15, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 4s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--when-proclamation-is-really-identity-reinforcement.md",
+      "word_count": 916,
+      "content_type_kind": "post",
+      "title": "When Proclamation is Really Identity Reinforcement",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "A couple of religion in the news items were of special interest to me over the last week or so. Both came to my attention through Pagan social media groups that I’m a part of. (I’ve had a special interest in the study of Paganism and dialogue with Pagans.) And both items were reported in The Wild Hu",
+      "seo_title": "When Proclamation is Really Identity Reinforcement — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow": {
       "url": "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow",
@@ -702,7 +747,16 @@
       "json_body_chars": 4880,
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/blog/outraged-by-kurt-gray-frd-senior-fellow.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 14, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 7s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 14, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 7s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--outraged-by-kurt-gray-frd-senior-fellow.md",
+      "word_count": 376,
+      "content_type_kind": "post",
+      "title": "OUTRAGED! by Kurt Gray, FRD senior fellow",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "Kurt Gray, one of FRD’s senior fellows, has a new book out:   OUTRAGED! Why We Fight About Morality and Politics and How to Find Common Ground  . I have followed Gray’s work for a while, and had a  podcast conversation  with him before this book was written. In this volume he goes into detail and pr",
+      "seo_title": "OUTRAGED! by Kurt Gray, FRD senior fellow — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition": {
       "url": "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition",
@@ -813,7 +867,16 @@
       "json_body_chars": 4154,
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/blog/evangelical-zen-second-edition.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 15s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 15s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--evangelical-zen-second-edition.md",
+      "word_count": 261,
+      "content_type_kind": "post",
+      "title": "Evangelical Zen, second edition",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "FRD Senior Fellow and Evangelical chapter collaborator, Paul Louis Metzger, has worked to produce the second edition of the book  Evangelical Zen , where he reflects on his journey with the late Kyogen Carlson, who headed up FRD’s Buddhist chapter. The description at the  publisher’s  website reads:",
+      "seo_title": "Evangelical Zen, second edition — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn": {
       "url": "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
@@ -924,7 +987,16 @@
       "json_body_chars": 3457,
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/blog/idl8whemo48ua7touxqjdx4n5ihvvn.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 12s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 12s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--idl8whemo48ua7touxqjdx4n5ihvvn.md",
+      "word_count": 195,
+      "content_type_kind": "post",
+      "title": "PBS Frontline and “A Year of War”",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "I recently watched an edition of  PBS Frontline  titled “A Year of War: Israelis and Palestinians.” I went into the program expecting political analysis, but instead watched the gut-wrenching and graphic stories of Israelis who lost loved ones when Hamas attacked on October 7, 2023, and Palestinians who lost loved ones in the Israeli response in the bombing and devastation of Gaza.",
+      "seo_title": "PBS Frontline and “A Year of War” — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here",
@@ -1033,7 +1105,16 @@
       "show_cart": false,
       "json_body_chars": 2846,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-who-blogs-here.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-who-blogs-here.md",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--2024--july-19-post-who-blogs-here.md",
+      "word_count": 103,
+      "content_type_kind": "post",
+      "title": "Who Blogs Here?",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "For the most part the leadership team at FRD will blog here.",
+      "seo_title": "Who Blogs Here? — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-1": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1",
@@ -1142,7 +1223,17 @@
       "show_cart": false,
       "json_body_chars": 2600,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-1.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-1.md",
+      "render_crosscheck": "firecrawl",
+      "dropped_content": true,
+      "content_path": "content/posts/blog--2024--july-19-post-1.md",
+      "word_count": 63,
+      "content_type_kind": "post",
+      "title": "Welcome to Our First Blog!",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "Welcome to the Blog!",
+      "seo_title": "Welcome to Our First Blog! — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists",
@@ -1254,7 +1345,16 @@
       "show_cart": false,
       "json_body_chars": 4011,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-what-about-extremists.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-what-about-extremists.md",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--2024--july-19-post-what-about-extremists.md",
+      "word_count": 170,
+      "content_type_kind": "post",
+      "title": "What About Extremists?",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "As we debate the best ways in which to address deep polarization people often have their limits for how far we should go, and which groups and individuals are beyond hope. One example is Nazis.",
+      "seo_title": "What About Extremists? — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal",
@@ -1365,7 +1465,16 @@
       "show_cart": false,
       "json_body_chars": 3888,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-power-shared-meal.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-power-shared-meal.md",
+      "render_crosscheck": "firecrawl",
+      "content_path": "content/posts/blog--2024--july-19-post-power-shared-meal.md",
+      "word_count": 170,
+      "content_type_kind": "post",
+      "title": "The Power of a Shared Meal",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "There’s something incredible that happens when people sit down together and break bread.",
+      "seo_title": "The Power of a Shared Meal — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted",
@@ -1473,7 +1582,17 @@
       "show_cart": false,
       "json_body_chars": 6329,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-friendship-and-trusted.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-friendship-and-trusted.md",
+      "render_crosscheck": "firecrawl",
+      "dropped_content": true,
+      "content_path": "content/posts/blog--2024--july-19-post-friendship-and-trusted.md",
+      "word_count": 142,
+      "content_type_kind": "post",
+      "title": "Friendship and Trusted Rivals",
+      "parent": "/blog",
+      "source": "both",
+      "seo_description": "One of the big ideas of religious diplomacy is that we must move beyond suspicion and contempt regarding those we strongly disagree with in the area of values, worldviews, politics, and religion.",
+      "seo_title": "Friendship and Trusted Rivals — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/home": {
       "url": "https://www.frdiplomacy.org/home",
@@ -1609,7 +1728,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/home.md"
+      "markdown_path": "raw/markdown/home.md",
+      "content_path": "content/pages/home.md",
+      "word_count": 1619,
+      "content_type_kind": "page",
+      "title": "Home",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": "FRD’s trust-building conversation protocol allows for mutually persuasive contestation between critics, opponents or rivals that desire to live together in peaceful co-resistance.",
+      "seo_title": "Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/frd-services": {
       "url": "https://www.frdiplomacy.org/frd-services",
@@ -1715,7 +1842,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/frd-services.md"
+      "markdown_path": "raw/markdown/frd-services.md",
+      "content_path": "content/pages/frd-services.md",
+      "word_count": 1086,
+      "content_type_kind": "page",
+      "title": "Services",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Services — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/about": {
       "url": "https://www.frdiplomacy.org/about",
@@ -1830,7 +1965,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/about.md"
+      "markdown_path": "raw/markdown/about.md",
+      "content_path": "content/pages/about.md",
+      "word_count": 841,
+      "content_type_kind": "page",
+      "title": "About Us",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "About Us — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/practicing-diplomacy": {
       "url": "https://www.frdiplomacy.org/practicing-diplomacy",
@@ -1970,7 +2113,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/practicing-diplomacy.md"
+      "markdown_path": "raw/markdown/practicing-diplomacy.md",
+      "content_path": "content/pages/practicing-diplomacy.md",
+      "word_count": 419,
+      "content_type_kind": "page",
+      "title": "Practicing Diplomacy",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "General 2 — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/contact": {
       "url": "https://www.frdiplomacy.org/contact",
@@ -2052,7 +2203,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/contact.md"
+      "markdown_path": "raw/markdown/contact.md",
+      "content_path": "content/pages/contact.md",
+      "word_count": 50,
+      "content_type_kind": "page",
+      "title": "Contact",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Contact — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/team": {
       "url": "https://www.frdiplomacy.org/team",
@@ -2153,7 +2312,15 @@
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/team.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 10s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 10s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n",
+      "content_path": "content/pages/team.md",
+      "word_count": 512,
+      "content_type_kind": "page",
+      "title": "Meet the Team",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Meet the Team — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/senior-fellows": {
       "url": "https://www.frdiplomacy.org/senior-fellows",
@@ -2441,7 +2608,15 @@
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/senior-fellows.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 16s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 16s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n",
+      "content_path": "content/pages/senior-fellows.md",
+      "word_count": 4160,
+      "content_type_kind": "page",
+      "title": "Senior Fellows",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "General 6 — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/lds-chapter": {
       "url": "https://www.frdiplomacy.org/lds-chapter",
@@ -2525,7 +2700,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/lds-chapter.md"
+      "markdown_path": "raw/markdown/lds-chapter.md",
+      "content_path": "content/pages/lds-chapter.md",
+      "word_count": 795,
+      "content_type_kind": "page",
+      "title": "LDS",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "LDS — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/evangelical-chapter": {
       "url": "https://www.frdiplomacy.org/evangelical-chapter",
@@ -2618,7 +2801,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/evangelical-chapter.md"
+      "markdown_path": "raw/markdown/evangelical-chapter.md",
+      "content_path": "content/pages/evangelical-chapter.md",
+      "word_count": 716,
+      "content_type_kind": "page",
+      "title": "Evangelical Chapter",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Evangelical Chapter — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/nones-chapter": {
       "url": "https://www.frdiplomacy.org/nones-chapter",
@@ -2701,7 +2892,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/nones-chapter.md"
+      "markdown_path": "raw/markdown/nones-chapter.md",
+      "content_path": "content/pages/nones-chapter.md",
+      "word_count": 690,
+      "content_type_kind": "page",
+      "title": "Nones Chapter",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Nones Chapter — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/pagan-chapter": {
       "url": "https://www.frdiplomacy.org/pagan-chapter",
@@ -2784,7 +2983,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/pagan-chapter.md"
+      "markdown_path": "raw/markdown/pagan-chapter.md",
+      "content_path": "content/pages/pagan-chapter.md",
+      "word_count": 356,
+      "content_type_kind": "page",
+      "title": "Pagan Chapter",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Pagan Chapter — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/sunni-chapter": {
       "url": "https://www.frdiplomacy.org/sunni-chapter",
@@ -2880,7 +3087,15 @@
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/sunni-chapter.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 13s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 13s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n",
+      "content_path": "content/pages/sunni-chapter.md",
+      "word_count": 281,
+      "content_type_kind": "page",
+      "title": "Sunni Muslim Chapter",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Sunni Muslim Chapter — Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/": {
       "url": "https://www.frdiplomacy.org/",
@@ -2991,7 +3206,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/index.md"
+      "markdown_path": "raw/markdown/index.md",
+      "content_path": "content/pages/index.md",
+      "word_count": 1619,
+      "content_type_kind": "page",
+      "title": "Home",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": "FRD’s trust-building conversation protocol allows for mutually persuasive contestation between critics, opponents or rivals that desire to live together in peaceful co-resistance.",
+      "seo_title": "Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/cart": {
       "url": "https://www.frdiplomacy.org/cart",
@@ -3063,7 +3286,15 @@
       "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
       "render_source": "firecrawl",
       "markdown_path": "raw/markdown/cart.md",
-      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 16, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 1s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 16, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 1s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n",
+      "content_path": "content/pages/cart.md",
+      "word_count": 14,
+      "content_type_kind": "page",
+      "title": "Foundation for Religious Diplomacy",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/frd-method": {
       "url": "https://www.frdiplomacy.org/frd-method",
@@ -3337,7 +3568,15 @@
       "show_cart": false,
       "json_main_text_chars": 0,
       "render_source": "html",
-      "markdown_path": "raw/markdown/home/index.md"
+      "markdown_path": "raw/markdown/home/index.md",
+      "content_path": "content/pages/home--slash.md",
+      "word_count": 1620,
+      "content_type_kind": "page",
+      "title": "Home",
+      "parent": null,
+      "source": "html",
+      "seo_description": "FRD’s trust-building conversation protocol allows for mutually persuasive contestation between critics, opponents or rivals that desire to live together in peaceful co-resistance.",
+      "seo_title": "Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/search": {
       "url": "https://www.frdiplomacy.org/search",
@@ -3409,7 +3648,15 @@
       "json_ok": false,
       "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
       "render_source": "firecrawl",
-      "markdown_path": "raw/markdown/search.md"
+      "markdown_path": "raw/markdown/search.md",
+      "content_path": "content/pages/search.md",
+      "word_count": 5,
+      "content_type_kind": "page",
+      "title": "Foundation for Religious Diplomacy",
+      "parent": null,
+      "source": "firecrawl",
+      "seo_description": null,
+      "seo_title": "Foundation for Religious Diplomacy"
     },
     "https://www.frdiplomacy.org/method": {
       "url": "https://www.frdiplomacy.org/method",
@@ -5021,7 +5268,15 @@
         "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/index.md"
+      "markdown_path": "raw/markdown/blog/index.md",
+      "content_path": "content/pages/blog--slash.md",
+      "word_count": 491,
+      "content_type_kind": "page",
+      "title": "Blog",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Blog — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog": {
       "url": "https://frdiplomacy.org/blog",
@@ -5185,7 +5440,16 @@
         "https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace/index.md"
+      "markdown_path": "raw/markdown/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace--slash.md",
+      "word_count": 1429,
+      "content_type_kind": "post",
+      "title": "Book Review: Aziz Abu Sarah and Maoz Inon – The Future is Peace",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "This review was published at The Englewood Review of Books at  https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/     A Powerful Witness Through Unlikely Friendship      A Feature Review of       The Future is Peace: A Shared Journey Across the Holy Land",
+      "seo_title": "Book Review: Aziz Abu Sarah and Maoz Inon – The Future is Peace — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace": {
       "url": "https://frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
@@ -5347,7 +5611,16 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences/index.md"
+      "markdown_path": "raw/markdown/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences--slash.md",
+      "word_count": 172,
+      "content_type_kind": "post",
+      "title": "Announcing a New Collaboration with Brigham Young University to Advance Trust Amid Deep Differences",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "We’re pleased to announce that the Foundation for Religious Diplomacy has begun a new collaboration with Brigham Young University’s Social Science and AI Lab (SAIL) to develop the  Rivaltrust Builder —an AI-guided formation experience designed to prepare people for meaningful engagement across deep",
+      "seo_title": "Announcing a New Collaboration with Brigham Young University to Advance Trust Amid Deep Differences — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences": {
       "url": "https://frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
@@ -5511,7 +5784,16 @@
         "https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/leonard-swidler-has-passed/index.md"
+      "markdown_path": "raw/markdown/blog/leonard-swidler-has-passed/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--leonard-swidler-has-passed--slash.md",
+      "word_count": 540,
+      "content_type_kind": "post",
+      "title": "Leonard Swidler has passed",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "Leonard Swidler passed away on March 23. He was was Professor of Catholic Thought and Interreligious Dialogue at Temple University, Philadelphia, Pennsylvania, where he taught from 1966 to 2022. He was the co-founder (in 1964, with Arlene Swidler) and editor of the  Journal of Ecumenical Studies . H",
+      "seo_title": "Leonard Swidler has passed — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/leonard-swidler-has-passed": {
       "url": "https://frdiplomacy.org/blog/leonard-swidler-has-passed",
@@ -5680,7 +5962,16 @@
         "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/when-proclamation-is-really-identity-reinforcement/index.md"
+      "markdown_path": "raw/markdown/blog/when-proclamation-is-really-identity-reinforcement/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--when-proclamation-is-really-identity-reinforcement--slash.md",
+      "word_count": 916,
+      "content_type_kind": "post",
+      "title": "When Proclamation is Really Identity Reinforcement",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "A couple of religion in the news items were of special interest to me over the last week or so. Both came to my attention through Pagan social media groups that I’m a part of. (I’ve had a special interest in the study of Paganism and dialogue with Pagans.) And both items were reported in The Wild Hu",
+      "seo_title": "When Proclamation is Really Identity Reinforcement — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement": {
       "url": "https://frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement",
@@ -5846,7 +6137,16 @@
         "https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/outraged-by-kurt-gray-frd-senior-fellow/index.md"
+      "markdown_path": "raw/markdown/blog/outraged-by-kurt-gray-frd-senior-fellow/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--outraged-by-kurt-gray-frd-senior-fellow--slash.md",
+      "word_count": 376,
+      "content_type_kind": "post",
+      "title": "OUTRAGED! by Kurt Gray, FRD senior fellow",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "Kurt Gray, one of FRD’s senior fellows, has a new book out:   OUTRAGED! Why We Fight About Morality and Politics and How to Find Common Ground  . I have followed Gray’s work for a while, and had a  podcast conversation  with him before this book was written. In this volume he goes into detail and pr",
+      "seo_title": "OUTRAGED! by Kurt Gray, FRD senior fellow — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow": {
       "url": "https://frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow",
@@ -6010,7 +6310,16 @@
         "https://wipfandstock.com/9781666768411/evangelical-zen-second-edition/?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/evangelical-zen-second-edition/index.md"
+      "markdown_path": "raw/markdown/blog/evangelical-zen-second-edition/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--evangelical-zen-second-edition--slash.md",
+      "word_count": 261,
+      "content_type_kind": "post",
+      "title": "Evangelical Zen, second edition",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "FRD Senior Fellow and Evangelical chapter collaborator, Paul Louis Metzger, has worked to produce the second edition of the book  Evangelical Zen , where he reflects on his journey with the late Kyogen Carlson, who headed up FRD’s Buddhist chapter. The description at the  publisher’s  website reads:",
+      "seo_title": "Evangelical Zen, second edition — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/evangelical-zen-second-edition": {
       "url": "https://frdiplomacy.org/blog/evangelical-zen-second-edition",
@@ -6174,7 +6483,16 @@
         "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/idl8whemo48ua7touxqjdx4n5ihvvn/index.md"
+      "markdown_path": "raw/markdown/blog/idl8whemo48ua7touxqjdx4n5ihvvn/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--idl8whemo48ua7touxqjdx4n5ihvvn--slash.md",
+      "word_count": 195,
+      "content_type_kind": "post",
+      "title": "PBS Frontline and “A Year of War”",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "I recently watched an edition of  PBS Frontline  titled “A Year of War: Israelis and Palestinians.” I went into the program expecting political analysis, but instead watched the gut-wrenching and graphic stories of Israelis who lost loved ones when Hamas attacked on October 7, 2023, and Palestinians who lost loved ones in the Israeli response in the bombing and devastation of Gaza.",
+      "seo_title": "PBS Frontline and “A Year of War” — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn": {
       "url": "https://frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
@@ -6336,7 +6654,16 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-who-blogs-here/index.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-who-blogs-here/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--2024--july-19-post-who-blogs-here--slash.md",
+      "word_count": 103,
+      "content_type_kind": "post",
+      "title": "Who Blogs Here?",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "For the most part the leadership team at FRD will blog here.",
+      "seo_title": "Who Blogs Here? — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-who-blogs-here": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-who-blogs-here",
@@ -6531,7 +6858,16 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-1/index.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-1/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--2024--july-19-post-1--slash.md",
+      "word_count": 63,
+      "content_type_kind": "post",
+      "title": "Welcome to Our First Blog!",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "Welcome to the Blog!",
+      "seo_title": "Welcome to Our First Blog! — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-1": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-1",
@@ -6730,7 +7066,16 @@
         "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-what-about-extremists/index.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-what-about-extremists/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--2024--july-19-post-what-about-extremists--slash.md",
+      "word_count": 170,
+      "content_type_kind": "post",
+      "title": "What About Extremists?",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "As we debate the best ways in which to address deep polarization people often have their limits for how far we should go, and which groups and individuals are beyond hope. One example is Nazis.",
+      "seo_title": "What About Extremists? — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-what-about-extremists": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-what-about-extremists",
@@ -6928,7 +7273,16 @@
         "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html"
       ],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-power-shared-meal/index.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-power-shared-meal/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--2024--july-19-post-power-shared-meal--slash.md",
+      "word_count": 170,
+      "content_type_kind": "post",
+      "title": "The Power of a Shared Meal",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "There’s something incredible that happens when people sit down together and break bread.",
+      "seo_title": "The Power of a Shared Meal — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-power-shared-meal": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-power-shared-meal",
@@ -7123,7 +7477,16 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/blog/2024/july-19-post-friendship-and-trusted/index.md"
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-friendship-and-trusted/index.md",
+      "render_crosscheck": "html",
+      "content_path": "content/posts/blog--2024--july-19-post-friendship-and-trusted--slash.md",
+      "word_count": 142,
+      "content_type_kind": "post",
+      "title": "Friendship and Trusted Rivals",
+      "parent": "/blog",
+      "source": "json",
+      "seo_description": "One of the big ideas of religious diplomacy is that we must move beyond suspicion and contempt regarding those we strongly disagree with in the area of values, worldviews, politics, and religion.",
+      "seo_title": "Friendship and Trusted Rivals — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted",
@@ -7383,7 +7746,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/frd-services/index.md"
+      "markdown_path": "raw/markdown/frd-services/index.md",
+      "content_path": "content/pages/frd-services--slash.md",
+      "word_count": 1083,
+      "content_type_kind": "page",
+      "title": "Services",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Services — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/frd-services": {
       "url": "https://frdiplomacy.org/frd-services",
@@ -7520,7 +7891,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/about/index.md"
+      "markdown_path": "raw/markdown/about/index.md",
+      "content_path": "content/pages/about--slash.md",
+      "word_count": 838,
+      "content_type_kind": "page",
+      "title": "About Us",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "About Us — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/about": {
       "url": "https://frdiplomacy.org/about",
@@ -7657,7 +8036,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/practicing-diplomacy/index.md"
+      "markdown_path": "raw/markdown/practicing-diplomacy/index.md",
+      "content_path": "content/pages/practicing-diplomacy--slash.md",
+      "word_count": 422,
+      "content_type_kind": "page",
+      "title": "Practicing Diplomacy",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "General 2 — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/practicing-diplomacy": {
       "url": "https://frdiplomacy.org/practicing-diplomacy",
@@ -7794,7 +8181,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/contact/index.md"
+      "markdown_path": "raw/markdown/contact/index.md",
+      "content_path": "content/pages/contact--slash.md",
+      "word_count": 25,
+      "content_type_kind": "page",
+      "title": "Contact",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Contact — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/contact": {
       "url": "https://frdiplomacy.org/contact",
@@ -7931,7 +8326,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/team/index.md"
+      "markdown_path": "raw/markdown/team/index.md",
+      "content_path": "content/pages/team--slash.md",
+      "word_count": 509,
+      "content_type_kind": "page",
+      "title": "Meet the Team",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Meet the Team — Foundation for Religious Diplomacy"
     },
     "http://www.frdiplomacy.org/team": {
       "url": "http://www.frdiplomacy.org/team",
@@ -8038,7 +8441,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/senior-fellows/index.md"
+      "markdown_path": "raw/markdown/senior-fellows/index.md",
+      "content_path": "content/pages/senior-fellows--slash.md",
+      "word_count": 4143,
+      "content_type_kind": "page",
+      "title": "Senior Fellows",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "General 6 — Foundation for Religious Diplomacy"
     },
     "http://www.frdiplomacy.org/senior-fellows": {
       "url": "http://www.frdiplomacy.org/senior-fellows",
@@ -8145,7 +8556,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/lds-chapter/index.md"
+      "markdown_path": "raw/markdown/lds-chapter/index.md",
+      "content_path": "content/pages/lds-chapter--slash.md",
+      "word_count": 792,
+      "content_type_kind": "page",
+      "title": "LDS",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "LDS — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/lds-chapter": {
       "url": "https://frdiplomacy.org/lds-chapter",
@@ -8282,7 +8701,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/evangelical-chapter/index.md"
+      "markdown_path": "raw/markdown/evangelical-chapter/index.md",
+      "content_path": "content/pages/evangelical-chapter--slash.md",
+      "word_count": 709,
+      "content_type_kind": "page",
+      "title": "Evangelical Chapter",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Evangelical Chapter — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/evangelical-chapter": {
       "url": "https://frdiplomacy.org/evangelical-chapter",
@@ -8419,7 +8846,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/nones-chapter/index.md"
+      "markdown_path": "raw/markdown/nones-chapter/index.md",
+      "content_path": "content/pages/nones-chapter--slash.md",
+      "word_count": 684,
+      "content_type_kind": "page",
+      "title": "Nones Chapter",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Nones Chapter — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/nones-chapter": {
       "url": "https://frdiplomacy.org/nones-chapter",
@@ -8556,7 +8991,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/pagan-chapter/index.md"
+      "markdown_path": "raw/markdown/pagan-chapter/index.md",
+      "content_path": "content/pages/pagan-chapter--slash.md",
+      "word_count": 353,
+      "content_type_kind": "page",
+      "title": "Pagan Chapter",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Pagan Chapter — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/pagan-chapter": {
       "url": "https://frdiplomacy.org/pagan-chapter",
@@ -8693,7 +9136,15 @@
       "outbound_internal": [],
       "outbound_external": [],
       "render_source": "html",
-      "markdown_path": "raw/markdown/sunni-chapter/index.md"
+      "markdown_path": "raw/markdown/sunni-chapter/index.md",
+      "content_path": "content/pages/sunni-chapter--slash.md",
+      "word_count": 278,
+      "content_type_kind": "page",
+      "title": "Sunni Muslim Chapter",
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Sunni Muslim Chapter — Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/sunni-chapter": {
       "url": "https://frdiplomacy.org/sunni-chapter",
@@ -8819,7 +9270,15 @@
       "json_ok": false,
       "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
       "render_source": "html",
-      "markdown_path": "raw/markdown/cart/index.md"
+      "markdown_path": "raw/markdown/cart/index.md",
+      "content_path": "content/pages/cart--slash.md",
+      "word_count": 0,
+      "content_type_kind": "page",
+      "title": null,
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/cart": {
       "url": "https://frdiplomacy.org/cart",
@@ -9158,7 +9617,15 @@
       "json_ok": false,
       "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
       "render_source": "html",
-      "markdown_path": "raw/markdown/search/index.md"
+      "markdown_path": "raw/markdown/search/index.md",
+      "content_path": "content/pages/search--slash.md",
+      "word_count": 2,
+      "content_type_kind": "page",
+      "title": null,
+      "parent": null,
+      "source": "html",
+      "seo_description": null,
+      "seo_title": "Foundation for Religious Diplomacy"
     },
     "https://frdiplomacy.org/search": {
       "url": "https://frdiplomacy.org/search",
@@ -12325,6 +12792,6 @@
     }
   ],
   "nav_source_url": "https://www.frdiplomacy.org/",
-  "updated_at": "2026-10-13T18:34:55.737419+00:00",
+  "updated_at": "2026-10-13T18:36:40.341299+00:00",
   "firecrawl_authenticated": true
 }

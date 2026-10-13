@@ -305,8 +305,11 @@ def path_of(url: str) -> str:
 def is_asset_url(url: str) -> bool:
     parts = urllib.parse.urlsplit(url)
     host = (parts.hostname or "").lower()
-    ext = Path(urllib.parse.unquote(parts.path)).suffix.lower()
-    if host in CONTENT_ASSET_HOSTS:
+    path = urllib.parse.unquote(parts.path or "")
+    if path in {"", "/"}:
+        return False
+    ext = Path(path).suffix.lower()
+    if host in CONTENT_ASSET_HOSTS and ext:
         return True
     if is_internal(url) and ext in ASSET_EXT:
         return True
@@ -1064,16 +1067,24 @@ def render_node(node, base: str) -> str:
     if name == "img":
         return render_image(node, base)
     if name in {"strong", "b"}:
-        text = render_children(node, base).strip()
-        return f"**{text}**" if text else ""
+        return wrap_inline(node, base, "**")
     if name in {"em", "i"}:
-        text = render_children(node, base).strip()
-        return f"*{text}*" if text else ""
+        return wrap_inline(node, base, "*")
     if name == "hr":
         return "\n\n---\n\n"
     if "accordion-item__dropdown" in classes:
         return render_children(node, base)
     return render_children(node, base)
+
+
+def wrap_inline(node: Tag, base: str, marker: str) -> str:
+    text = render_children(node, base)
+    core = text.strip()
+    if not core:
+        return text
+    lead = text[: len(text) - len(text.lstrip())]
+    trail = text[len(text.rstrip()) :]
+    return f"{lead}{marker}{core}{marker}{trail}"
 
 
 def render_children(node: Tag, base: str) -> str:
@@ -1478,7 +1489,7 @@ def normalize() -> None:
             og_image = norm_url(og_image, url)
         asset_urls = []
         for ref in entry.get("asset_refs") or []:
-            if ref.get("url") and ref["url"] not in asset_urls:
+            if ref.get("url") and is_asset_url(ref["url"]) and ref["url"] not in asset_urls:
                 asset_urls.append(ref["url"])
         # Also images that survived into the markdown body.
         for found in re.findall(r"!\[[^\]]*\]\(([^)]+)\)", body):
@@ -1550,6 +1561,8 @@ def assets() -> None:
     refs: dict[str, dict] = {}
     for page_url, entry in data["urls"].items():
         for ref in entry.get("asset_refs") or []:
+            if not ref.get("url") or not is_asset_url(ref["url"]):
+                continue
             asset_url = canonical_asset_url(ref["url"])
             bucket = refs.setdefault(asset_url, {"alts": [], "pages": []})
             if page_url not in bucket["pages"]:
