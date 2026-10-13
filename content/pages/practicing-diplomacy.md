@@ -13,18 +13,19 @@ seo_title: General 2 — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/7d98de1c-e8fa-40ff-8c70-2f79df39a00f/levi-arnold-4kC4m9w0YIU-unsplash.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/579da6d6-79e6-4e26-98fc-db2a4eb81173/Screenshot+2024-03-29+at+11.45.04+AM.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/e82f42d9-6b9d-4598-9c90-f5d3054825d4/Screenshot+2024-03-28+at+7.45.29+PM.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/d4862d09-5bfd-4dd3-87b8-5aea26002a01/Screenshot+2024-03-28+at+7.46.49+PM.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/c05e642c-48ca-4e06-ac2b-e8dbc25a9973/Screenshot+2024-03-28+at+7.48.57+PM.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/3c68a298-c554-472a-9cfc-85c7eb37e36c/Screenshot+2024-03-28+at+7.47.51+PM.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/96c3026f-09a4-4459-af4c-5b7ef1874f46/iStock-1136746527.jpg
-- https://www.frdiplomacy.org/s/FRD-Commitment-to-Ethical-Persuasion.pdf
-- https://www.frdiplomacy.org/s/Guide-for-Developing-Religious-Diplomacy-Chapters-52t2.pdf
+- assets/FRD Updated Logo@2x-7d4bdccc.png
+- assets/levi-arnold-4kC4m9w0YIU-unsplash.jpg
+- assets/Screenshot 2024-03-29 at 11.45.04 AM.png
+- assets/Screenshot 2024-03-28 at 7.45.29 PM.png
+- assets/Screenshot 2024-03-28 at 7.46.49 PM.png
+- assets/Screenshot 2024-03-28 at 7.48.57 PM.png
+- assets/Screenshot 2024-03-28 at 7.47.51 PM.png
+- assets/iStock-1136746527.jpg
+- assets/FRD-Commitment-to-Ethical-Persuasion.pdf
+- assets/Guide-for-Developing-Religious-Diplomacy-Chapters-52t2.pdf
 source: firecrawl
 ---
+
 
 [0](https://www.frdiplomacy.org/cart)
 

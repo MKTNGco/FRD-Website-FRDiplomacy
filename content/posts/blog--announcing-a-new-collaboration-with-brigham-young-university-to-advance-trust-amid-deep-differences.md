@@ -13,9 +13,10 @@ seo_title: Announcing a New Collaboration with Brigham Young University to Advan
 seo_description: We’re pleased to announce that the Foundation for Religious Diplomacy has begun a new collaboration with Brigham Young University’s Social Science and AI Lab (SAIL) to develop the  Rivaltrust Builder —an AI-guided formation experience designed to prepare people for meaningful engagement across deep
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
+- assets/FRD Updated Logo@2x-7d4bdccc.png
 source: both
 ---
+
 
 We’re pleased to announce that the Foundation for Religious Diplomacy has begun a new collaboration with Brigham Young University’s Social Science and AI Lab (SAIL) to develop the **Rivaltrust Builder**—an AI-guided formation experience designed to prepare people for meaningful engagement across deep and enduring disagreements.
 

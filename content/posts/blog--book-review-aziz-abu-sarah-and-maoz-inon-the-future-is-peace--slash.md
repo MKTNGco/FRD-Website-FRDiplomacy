@@ -16,6 +16,7 @@ assets: []
 source: json
 ---
 
+
 This review was published at The Englewood Review of Books at [https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/](https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/)
 
 ### A Powerful Witness Through Unlikely Friendship

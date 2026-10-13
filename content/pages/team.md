@@ -13,12 +13,13 @@ seo_title: Meet the Team — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/aaf89a42-e78a-4ff1-a86b-6b96824eb42b/iStock-507794443.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/053f395f-02bb-406c-9f06-3293a431d4f5/CRP+1.jpeg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/de8d6421-1748-4fdd-a462-81173dd69cd8/john.jpeg
+- assets/FRD Updated Logo@2x-7d4bdccc.png
+- assets/iStock-507794443.jpg
+- assets/CRP 1.jpeg
+- assets/john.jpeg
 source: firecrawl
 ---
+
 
 [0](https://www.frdiplomacy.org/cart)
 

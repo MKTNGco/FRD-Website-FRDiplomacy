@@ -16,6 +16,7 @@ assets: []
 source: html
 ---
 
+
 ## Church of Jesus Christ of Latter-day Saints
 
 #### Chapter Director: Charles Randall Paul

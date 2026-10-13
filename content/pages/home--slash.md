@@ -13,16 +13,17 @@ seo_title: Foundation for Religious Diplomacy
 seo_description: FRD’s trust-building conversation protocol allows for mutually persuasive contestation between critics, opponents or rivals that desire to live together in peaceful co-resistance.
 og_image: http://static1.squarespace.com/static/65b6cd82bf2e7e0c166f50a5/t/669a857f8c88372eddc5d237/1721402752054/FRD+Updated+Logo%402x.png?format=1500w
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/fa1d05b5-ef94-45b4-9331-ad8a543a4c23/iStock-1136746527.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1de5e978-158f-490d-a845-ae984da403c1/Resetting+the+Table.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/f0237567-d979-488d-9a8f-1ada74e3aa55/One+America+Movement.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/cd92ec24-ee15-474e-95f6-52cf7bf0896b/Braver+Angels.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/061d14c7-5dba-45fb-8d2b-a12479e2d386/deepest-beliefs-lab-logo.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/8c586e1b-51d7-4633-ba99-4b8f21d767cc/Baskerville-Logo-8.png
-- https://www.frdiplomacy.org/s/FAQs.pdf
+- assets/FRD Updated Logo@2x-7d4bdccc.png
+- assets/iStock-1136746527-85c3d8f8.jpg
+- assets/Resetting the Table.jpg
+- assets/One America Movement.png
+- assets/Braver Angels.png
+- assets/deepest-beliefs-lab-logo.png
+- assets/Baskerville-Logo-8.png
+- assets/FAQs.pdf
 source: html
 ---
+
 
 ## Where conviction meets conflict - and trust goes deeper through Heart & Mind Conversations ® .
 

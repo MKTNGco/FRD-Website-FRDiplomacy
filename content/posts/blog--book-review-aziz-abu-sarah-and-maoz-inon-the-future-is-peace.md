@@ -13,9 +13,10 @@ seo_title: 'Book Review: Aziz Abu Sarah and Maoz Inon â€“ The Future is Peace â€
 seo_description: 'This review was published at The Englewood Review of Books at  https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/     A Powerful Witness Through Unlikely Friendship      A Feature Review of       The Future is Peace: A Shared Journey Across the Holy Land'
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
+- assets/FRD Updated Logo@2x-7d4bdccc.png
 source: both
 ---
+
 
 This review was published at The Englewood Review of Books at [https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/](https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/)
 

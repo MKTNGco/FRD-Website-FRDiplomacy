@@ -13,28 +13,29 @@ seo_title: General 6 — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/23708c42-751e-4356-a4c5-a83cf17b0273/neom-g6Me5mUQQIQ-unsplash.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/adb228e6-cfda-4e2a-a027-baa9fff1e619/K01haHVEQXdZYi92VGI3VE9DODBjQT09.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/dc359078-e238-45e7-a402-0b3e0097073b/Brill+headshot.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1b558903-183b-4d35-aaf5-dd0379a79529/Mohammed+DajaniSrFellow.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/6e4620e3-707f-4240-b446-914a47bd095c/Gus+diZeregaSrFellow.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/13642652-2558-4727-883f-4dba2a8cf54d/Kurt+GraySrFellow.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/c9038676-4347-42b5-8607-747efd308deb/thumbnail_Joseph+Headshot+1.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/b723ad5f-0f81-40b0-86cd-adf3936dbc3e/James+pic.jpeg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/8186644a-8af3-4699-90ac-5342b0410c46/14fin14mb.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/04bdc48b-a27c-4e57-a6be-3b89fd4f35cc/Paul+Louis+MetzgerSrFellow.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/c1f0feba-134a-4e68-8ed7-952c0aab9072/thumbnail_img_1_1731499005432.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/9d31bfc0-d171-4ad0-b9f9-92023f4f23af/Parviz+M.jpeg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/4bc9cc2e-e657-4c16-9d04-f3f246a1ebe9/Terry+MuckSrFellow.jpeg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/9a7275d7-0471-46b6-a846-f4be482e1c37/Daniel_Peterson.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/140cf2b3-7643-48dd-a1c7-fc2c4a68694e/AngelaSabatesSrFellow.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1611513b-a4c0-4ca0-b044-61458a71ecdb/61SXZlBaf%2BL.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/f42cd507-b338-452f-9aab-404ea35d7ffc/Screenshot+2024-09-20+at+5.58.44+PM.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/2c1ee6da-6fee-4880-9d43-fe9cb9fc0943/Yehuda_stolov.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/eb11bcbe-4ba2-41a1-b6af-479614d43938/Screenshot+2024-09-20+at+6.08.04+PM.png
+- assets/FRD Updated Logo@2x-7d4bdccc.png
+- assets/neom-g6Me5mUQQIQ-unsplash.jpg
+- assets/K01haHVEQXdZYi92VGI3VE9DODBjQT09.jpg
+- assets/Brill headshot.jpg
+- assets/Mohammed DajaniSrFellow.png
+- assets/Gus diZeregaSrFellow.jpg
+- assets/Kurt GraySrFellow.jpg
+- assets/thumbnail_Joseph Headshot 1.jpg
+- assets/James pic.jpeg
+- assets/14fin14mb.jpg
+- assets/Paul Louis MetzgerSrFellow.jpg
+- assets/thumbnail_img_1_1731499005432.jpg
+- assets/Parviz M.jpeg
+- assets/Terry MuckSrFellow.jpeg
+- assets/Daniel_Peterson.jpg
+- assets/AngelaSabatesSrFellow.jpg
+- assets/61SXZlBaf L.jpg
+- assets/Screenshot 2024-09-20 at 5.58.44 PM.png
+- assets/Yehuda_stolov.jpg
+- assets/Screenshot 2024-09-20 at 6.08.04 PM.png
 source: firecrawl
 ---
+
 
 [0](https://www.frdiplomacy.org/cart)
 

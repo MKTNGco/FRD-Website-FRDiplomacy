@@ -13,9 +13,10 @@ seo_title: Contact — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/501836d2-dcbc-4245-a389-bfca135a3916/almos-bechtold-Sp7-SbM1EtQ-unsplash.jpg
+- assets/almos-bechtold-Sp7-SbM1EtQ-unsplash.jpg
 source: html
 ---
+
 
 ## Dive Deep with Us into Religious Diplomacy
 

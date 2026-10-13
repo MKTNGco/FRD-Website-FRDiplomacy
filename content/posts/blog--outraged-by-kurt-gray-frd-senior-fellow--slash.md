@@ -16,6 +16,7 @@ assets: []
 source: json
 ---
 
+
 Kurt Gray, one of FRD’s senior fellows, has a new book out: [OUTRAGED! Why We Fight About Morality and Politics and How to Find Common Ground](https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/). I have followed Gray’s work for a while, and had a [podcast conversation](https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5) with him before this book was written. In this volume he goes into detail and provides a multifaceted argument for harm-based morality that lies at the heart of our political and religious differences. In the past I accepted the moral foundations theory of Jonathan Haidt as seminal, but Gray’s research and argumentation made me a convert to his ideas about ingroup moral concerns related to outgroups and their competing ideologies, beliefs, and sacred values. Be sure to visit Gray’s [website](https://outragedbook.com/) for the volume for additional reader information. Here’s a description of the volume:
 
 It’s easy to assume that liberals and conservatives have radically different moral foundations. In Outraged, Kurt Gray showcases the latest science to demonstrate that we all have the same moral mind—that everyone’s moral judgments stem from feeling threatened or vulnerable to harm.

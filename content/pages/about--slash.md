@@ -13,11 +13,12 @@ seo_title: About Us — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/543dbc6b-af6d-4741-a15f-1517d60a3557/AI+Divers+rising.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/47fe1e97-c6ae-4efd-8ab2-b8fed525930b/AboutUsResponse.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1715840970531-JFZF7BE4IJV23OOH441Y/image-asset.jpeg
+- assets/AI Divers rising.jpg
+- assets/AboutUsResponse.jpg
+- assets/image-asset-9c79f971.jpeg
 source: html
 ---
+
 
 ![](https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/543dbc6b-af6d-4741-a15f-1517d60a3557/AI+Divers+rising.jpg)
 

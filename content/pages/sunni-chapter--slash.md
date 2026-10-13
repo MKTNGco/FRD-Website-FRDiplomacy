@@ -13,9 +13,10 @@ seo_title: Sunni Muslim Chapter — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1a988634-4891-46d5-bded-716b45910bbc/Sunni+Muslim+chapter.png
+- assets/Sunni Muslim chapter.png
 source: html
 ---
+
 
 ## Sunni Muslim Chapter
 

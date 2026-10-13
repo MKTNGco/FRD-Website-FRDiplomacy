@@ -13,9 +13,10 @@ seo_title: When Proclamation is Really Identity Reinforcement — Foundation for
 seo_description: A couple of religion in the news items were of special interest to me over the last week or so. Both came to my attention through Pagan social media groups that I’m a part of. (I’ve had a special interest in the study of Paganism and dialogue with Pagans.) And both items were reported in The Wild Hu
 og_image: http://static1.squarespace.com/static/65b6cd82bf2e7e0c166f50a5/65b6d151e8708d22bf7c2ae1/67d3233cd6bd596617469eaa/1741892951367/Jesus-Saves-5.jpg?format=1500w
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
+- assets/FRD Updated Logo@2x-7d4bdccc.png
 source: both
 ---
+
 
 A couple of religion in the news items were of special interest to me over the last week or so. Both came to my attention through Pagan social media groups that I’m a part of. (I’ve had a special interest in the study of Paganism and dialogue with Pagans.) And both items were reported in The Wild Hunt website. These incidents, and a similar one from a different religious tradition, provide insights into the need for critical self-reflection in that what we think we are doing in relation to others is actually perceive as something quite different by others.
 

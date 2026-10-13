@@ -13,18 +13,19 @@ seo_title: Blog — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1741892940178-PILD8VYUFI9RI1MPLEBA/Jesus-Saves-5.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1738008712297-XHI4MU1NV3SKLERVGFL6/Gray_HeadshotBlue.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1738008094569-UJJGI0GL9MNPP9SX9IVE/images.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1730160178986-CMSNNGDG4U9BQDSQTY9S/hq720.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1721407744095-U90XGUFATN4Y7BHWG2YT/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1721407397305-1BE0BXHPMPVB72HG9AXT/angele-kamp-poH6OvcEeXE-unsplash.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1721408424652-2A4RCWBM1ERNBLP3369J/Screenshot%2B2024-07-19%2Bat%2B9.57.17%2BAM.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1721408145475-Y57CYIOW8MMOH21TABGT/Screenshot+2024-07-19+at+9.55.30+AM.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1721407876774-ONXX8RZUXHYKQYHNHY45/naassom-azevedo-Q_Sei-TqSlc-unsplash.jpg
+- assets/FRD Updated Logo@2x-7d4bdccc.png
+- assets/Jesus-Saves-5.jpg
+- assets/Gray_HeadshotBlue.png
+- assets/images.jpg
+- assets/hq720.jpg
+- assets/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
+- assets/angele-kamp-poH6OvcEeXE-unsplash.jpg
+- assets/Screenshot 2024-07-19 at 9.57.17 AM.jpg
+- assets/Screenshot 2024-07-19 at 9.55.30 AM.png
+- assets/naassom-azevedo-Q_Sei-TqSlc-unsplash.jpg
 source: firecrawl
 ---
+
 
 [0](https://www.frdiplomacy.org/cart)
 

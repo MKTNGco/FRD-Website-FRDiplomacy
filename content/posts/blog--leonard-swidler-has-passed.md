@@ -13,9 +13,10 @@ seo_title: Leonard Swidler has passed — Foundation for Religious Diplomacy
 seo_description: Leonard Swidler passed away on March 23. He was was Professor of Catholic Thought and Interreligious Dialogue at Temple University, Philadelphia, Pennsylvania, where he taught from 1966 to 2022. He was the co-founder (in 1964, with Arlene Swidler) and editor of the  Journal of Ecumenical Studies . H
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
+- assets/FRD Updated Logo@2x-7d4bdccc.png
 source: both
 ---
+
 
 Leonard Swidler passed away on March 23. He was was Professor of Catholic Thought and Interreligious Dialogue at Temple University, Philadelphia, Pennsylvania, where he taught from 1966 to 2022. He was the co-founder (in 1964, with Arlene Swidler) and editor of the *Journal of Ecumenical Studies*. His work was an important influence on the Foundation for Religious Diplomacy. Swidler was best known for his “Dialogue Decalogue: Ground Rules for Interreligious, Interideological Dialogue.” They are reproduced below. You can download the entire article and discussion of these principles [here](https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf):
 

@@ -13,9 +13,10 @@ seo_title: OUTRAGED! by Kurt Gray, FRD senior fellow — Foundation for Religiou
 seo_description: 'Kurt Gray, one of FRD’s senior fellows, has a new book out:   OUTRAGED! Why We Fight About Morality and Politics and How to Find Common Ground  . I have followed Gray’s work for a while, and had a  podcast conversation  with him before this book was written. In this volume he goes into detail and pr'
 og_image: http://static1.squarespace.com/static/65b6cd82bf2e7e0c166f50a5/65b6d151e8708d22bf7c2ae1/6797e64a6f1c7375ce2881aa/1738008886415/Gray_HeadshotBlue.png?format=1500w
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
+- assets/FRD Updated Logo@2x-7d4bdccc.png
 source: both
 ---
+
 
 Kurt Gray, one of FRD’s senior fellows, has a new book out: [OUTRAGED! Why We Fight About Morality and Politics and How to Find Common Ground](https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/). I have followed Gray’s work for a while, and had a [podcast conversation](https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5) with him before this book was written. In this volume he goes into detail and provides a multifaceted argument for harm-based morality that lies at the heart of our political and religious differences. In the past I accepted the moral foundations theory of Jonathan Haidt as seminal, but Gray’s research and argumentation made me a convert to his ideas about ingroup moral concerns related to outgroups and their competing ideologies, beliefs, and sacred values. Be sure to visit Gray’s [website](https://outragedbook.com/) for the volume for additional reader information. Here’s a description of the volume:
 

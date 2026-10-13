@@ -16,6 +16,7 @@ assets: []
 source: html
 ---
 
+
 ## Pagan Chapter
 
 **Chapter Director: Rev. Ethan Stark**

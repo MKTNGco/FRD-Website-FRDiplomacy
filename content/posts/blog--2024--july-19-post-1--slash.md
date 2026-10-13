@@ -16,4 +16,5 @@ assets: []
 source: json
 ---
 
+
 With the launch of our new and updated website we are incorporating a blog. This forum provides us with an opportunity to provide ongoing and new material. Along the way we will provide our commentary on religion items in the news, as well as share our various projects with you. We hope you find this section of the website helpful and thought provoking.

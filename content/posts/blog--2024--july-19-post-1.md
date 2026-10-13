@@ -13,8 +13,9 @@ seo_title: Welcome to Our First Blog! — Foundation for Religious Diplomacy
 seo_description: Welcome to the Blog!
 og_image: http://static1.squarespace.com/static/65b6cd82bf2e7e0c166f50a5/65b6d151e8708d22bf7c2ae1/65b6d151e8708d22bf7c2aee/1730064190347/angele-kamp-poH6OvcEeXE-unsplash.jpg?format=1500w
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
+- assets/FRD Updated Logo@2x-7d4bdccc.png
 source: both
 ---
+
 
 With the launch of our new and updated website we are incorporating a blog. This forum provides us with an opportunity to provide ongoing and new material. Along the way we will provide our commentary on religion items in the news, as well as share our various projects with you. We hope you find this section of the website helpful and thought provoking.

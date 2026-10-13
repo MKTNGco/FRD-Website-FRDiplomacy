@@ -16,6 +16,7 @@ assets: []
 source: json
 ---
 
+
 Leonard Swidler passed away on March 23. He was was Professor of Catholic Thought and Interreligious Dialogue at Temple University, Philadelphia, Pennsylvania, where he taught from 1966 to 2022. He was the co-founder (in 1964, with Arlene Swidler) and editor of the *Journal of Ecumenical Studies*. His work was an important influence on the Foundation for Religious Diplomacy. Swidler was best known for his “Dialogue Decalogue: Ground Rules for Interreligious, Interideological Dialogue.” They are reproduced below. You can download the entire article and discussion of these principles [here](https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf):
 
 **FIRST PRINCIPLE**

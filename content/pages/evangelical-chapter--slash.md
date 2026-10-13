@@ -13,9 +13,10 @@ seo_title: Evangelical Chapter — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/54a75d3e-6655-4aad-9e8f-20795699bc60/EvangelicalChapterTN+Religions+for+Peace+dinner.JPG
+- assets/EvangelicalChapterTN Religions for Peace dinner.JPG
 source: html
 ---
+
 
 ## Evangelical Christian Chapter
 

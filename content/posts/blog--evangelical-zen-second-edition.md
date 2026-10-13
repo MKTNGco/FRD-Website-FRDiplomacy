@@ -13,9 +13,10 @@ seo_title: Evangelical Zen, second edition — Foundation for Religious Diplomac
 seo_description: 'FRD Senior Fellow and Evangelical chapter collaborator, Paul Louis Metzger, has worked to produce the second edition of the book  Evangelical Zen , where he reflects on his journey with the late Kyogen Carlson, who headed up FRD’s Buddhist chapter. The description at the  publisher’s  website reads:'
 og_image: http://static1.squarespace.com/static/65b6cd82bf2e7e0c166f50a5/65b6d151e8708d22bf7c2ae1/674527d440a3a96640ca14dd/1738008108491/images.jpg?format=1500w
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
+- assets/FRD Updated Logo@2x-7d4bdccc.png
 source: both
 ---
+
 
 FRD Senior Fellow and Evangelical chapter collaborator, Paul Louis Metzger, has worked to produce the second edition of the book *Evangelical Zen*, where he reflects on his journey with the late Kyogen Carlson, who headed up FRD’s Buddhist chapter. The description at the [publisher’s](https://wipfandstock.com/9781666768411/evangelical-zen-second-edition/?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow) website reads:
 

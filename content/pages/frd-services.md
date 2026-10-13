@@ -13,13 +13,14 @@ seo_title: Services — Foundation for Religious Diplomacy
 seo_description: null
 og_image: null
 assets:
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/854b49c6-8f95-4c69-9b3f-9bce9d356b8c/FRD+Updated+Logo%402x.png
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/7cc325b7-e785-483b-a45f-532ecff05c10/almos-bechtold-Sp7-SbM1EtQ-unsplash.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/a9850995-e441-4f72-a21d-b00e3ce9cc69/Heart+and+Mind+Iran+24.jpeg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/8d9fd2f5-57d1-4664-a999-fede96d06691/thumbnail_IMG_4908.jpg
-- https://images.squarespace-cdn.com/content/v1/65b6cd82bf2e7e0c166f50a5/1710629218786-ZGGZH10UU2AAGIQW6ZI9/image-asset.jpeg
+- assets/FRD Updated Logo@2x-7d4bdccc.png
+- assets/almos-bechtold-Sp7-SbM1EtQ-unsplash-c1fb89ae.jpg
+- assets/Heart and Mind Iran 24.jpeg
+- assets/thumbnail_IMG_4908.jpg
+- assets/image-asset.jpeg
 source: firecrawl
 ---
+
 
 [0](https://www.frdiplomacy.org/cart)
 
