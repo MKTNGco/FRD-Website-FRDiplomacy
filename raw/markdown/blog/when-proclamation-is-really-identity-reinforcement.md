@@ -1,0 +1,41 @@
+[0](https://www.frdiplomacy.org/cart)
+
+# When Proclamation is Really Identity Reinforcement
+
+Mar 13
+
+Written By [John Morehead](https://www.frdiplomacy.org/blog?author=58891f6a1b631b179b508ad1)
+
+A couple of religion in the news items were of special interest to me over the last week or so. Both came to my attention through Pagan social media groups that I’m a part of. (I’ve had a special interest in the study of Paganism and dialogue with Pagans.) And both items were reported in The Wild Hunt website. These incidents, and a similar one from a different religious tradition, provide insights into the need for critical self-reflection in that what we think we are doing in relation to others is actually perceive as something quite different by others.
+
+On February 25The Wild Hunt [reported](https://wildhunt.org/2025/02/concerns-over-targeting-of-pagan-community-in-pickens-sc.html?fbclid=IwY2xjawI_5WdleHRuA2FlbQIxMAABHcOxxmkuCYKffyFjylQodNN_SX7aj5RgoURhvPmtl7rYsCjjh9ELGcVq_Q_aem_zTLnHVooUY5-D3pEUX9kuw) on a clash between would-be Christian evangelists and Pagans at a public venue called The Market in Pickens, South Carolina. A small number of different Christian ministries were involved, and in the process of trying to “proclaim” the gospel as they saw it, they also used the Bible verse Exodus 22:18: “Thou shalt not suffer a witch to live.” The Pagans felt that this was an attack, possibly one that might involve violence, given the particular Bible verse that was used. By contrast, the Christians saw themselves as merely proclaiming their message, and doing so in peaceful fashion. I confirmed this in a series of text message exchanges with one of the leaders of the Christian groups. (Long story short: my attempts at a theological exchange that tried to provide an alternative perspective and approach fell on deaf ears.)
+
+But this wasn’t the only such clash between Christians and Pagans recently. Just today The Wild Hunt [reported](https://wildhunt.org/2025/03/its-certainly-escalating-evangelical-group-targets-metaphysical-stores-with-coordinated-action.html) on evangelical Christian groups targeting two metaphysical shops in Orlando, Florida. Again, an aggressive and confrontational approach was used, with the Christians seeing themselves as faithful messengers opposing evil, and the Pagans feeling like this was an escalation of attacks. (For Pagan perspectives on such encounters see my conversation with [Heron Michelle](https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0), and [Heather Greene](https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b).)
+
+This happens repeatedly. In 2021, [Heron Michelle](https://religionnews.com/2021/05/07/pagan-metaphysical-shops-navigate-threats-from-christian-critics/)’s metaphysical bookstore in Greenville, North Carolina was “evangelized” in aggressive ways similar to the stories above. And it happens with other religious communities as well. Shortly after I first moved to Utah a friend involved in ministry among Latter-day Saints invited me to the Mormon Miracle Pageant in Manti. The LDS Church used to put on outdoor pageants that involved dramatic reenactments of stories in the Book of Mormon and their church’s history. But I wasn’t able to take in much of the pageant as I was distracted by evangelical preachers who cam and stood just outside church property in a public area and held up signs and shouted “sermons”, many times including elements that would be considered derogatory in their criticism of the LDS Church, its founder, and teachings. At one point a young Latter-day Saint got so upset at the preachers that police along the perimeter had to step in.
+
+I’ve done a lot of reflecting on how Christians interact with those in other religions when its done on the sacred turf of others. I’ve written on it quite a bit, particularly on the [Moreheads Musings](https://johnwmorehead.blogspot.com/search?q=Manti) blog I started when I was in seminary. But for the purposes of this post I’ll summarize three points that I hope my fellow evangelicals will consider.
+
+1. **It’s really identity reinforcement, not proclamation.** Despite how my fellow evangelicals characterize their efforts as evangelism, it’s really a way of reinforcing their own sense of identity against what they see as an evil spiritual other. When Christians go to the sacred space of others and engage in this kind of aggressive encounter, it’s not so much an attempt at persuasion as it is a way of solidifying one’s own religious convictions by using the other as a foil. Pagans, Latter-day Saints and others don’t see this as bridge building. It’s fence or wall building that reinforces the religious structure and identity on the other side of the divide.
+
+2. **Others don’t see us as we see ourselves.** Closely related to point number 1 is that we might want to consider how other see us. The image included with this post illustrates this well. We may see ourselves as noble messengers of God sharing a life- and soul-saving message, but many times others see as as hateful bigots. We might step back in try some perspective taking as to how our efforts are perceived by those we want to persuade.
+
+3. **We are needlessly confrontational.** There are all kinds of examples in the Bible and church history that Christians can look to in order to inform the way they share their message. I’m not sure why this aggressive and confrontational way of relating to others, especially on their sacred space, is so popular with some evangelicals. Unless of course there’s an assumption that this is the best and only way to be “biblical,” and along the way they miss the point that the Bible also includes culturally-sensitive forms of engagement as well. We might ask ourselves whether this is really appropriate and effective. As I said in a past blog post on the pageant event: “Are we being needlessly confrontational, and acting in ways which make us feel good as defenders of orthodoxy, and in the process not only losing the argument but also losing the individual?”
+
+
+There’s much more that could be said, and I’d be happy to interact with anyone who wants to discuss this important topic. I hope that it at least gives some pause before the next headline making clash of religions.
+
+[John Morehead](https://www.frdiplomacy.org/blog?author=58891f6a1b631b179b508ad1) [https://multifaithmatters.org](https://multifaithmatters.org/)
+
+[Previous\\
+\\
+Previous\\
+**Leonard Swidler has passed**](https://www.frdiplomacy.org/blog/leonard-swidler-has-passed) [Next\\
+\\
+Next\\
+\\
+**OUTRAGED! by Kurt Gray, FRD senior fellow**](https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow)
+
+­
+
+­

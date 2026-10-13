@@ -145,7 +145,9 @@
       "homepage_flag": false,
       "show_cart": false,
       "json_item_count_returned": 12,
-      "json_item_count_reported": 15
+      "json_item_count_reported": 15,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog.md"
     },
     "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace": {
       "url": "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
@@ -251,7 +253,9 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 14246
+      "json_body_chars": 14246,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace.md"
     },
     "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences": {
       "url": "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
@@ -357,7 +361,9 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 3820
+      "json_body_chars": 3820,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences.md"
     },
     "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed": {
       "url": "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed",
@@ -464,7 +470,10 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 7120
+      "json_body_chars": 7120,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/leonard-swidler-has-passed.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 9s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement": {
       "url": "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement",
@@ -577,7 +586,10 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 8862
+      "json_body_chars": 8862,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/when-proclamation-is-really-identity-reinforcement.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 15, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 4s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow": {
       "url": "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow",
@@ -687,7 +699,10 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 4880
+      "json_body_chars": 4880,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/outraged-by-kurt-gray-frd-senior-fellow.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 14, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 7s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition": {
       "url": "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition",
@@ -795,7 +810,10 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 4154
+      "json_body_chars": 4154,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/evangelical-zen-second-edition.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 15s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn": {
       "url": "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
@@ -903,7 +921,10 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 3457
+      "json_body_chars": 3457,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/idl8whemo48ua7touxqjdx4n5ihvvn.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 12s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here",
@@ -1010,7 +1031,9 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 2846
+      "json_body_chars": 2846,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-who-blogs-here.md"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-1": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1",
@@ -1117,7 +1140,9 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 2600
+      "json_body_chars": 2600,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-1.md"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists",
@@ -1227,7 +1252,9 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 4011
+      "json_body_chars": 4011,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-what-about-extremists.md"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal",
@@ -1336,7 +1363,9 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 3888
+      "json_body_chars": 3888,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-power-shared-meal.md"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted",
@@ -1442,7 +1471,9 @@
       "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_body_chars": 6329
+      "json_body_chars": 6329,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-friendship-and-trusted.md"
     },
     "https://www.frdiplomacy.org/home": {
       "url": "https://www.frdiplomacy.org/home",
@@ -1576,7 +1607,9 @@
       "collection_updated_on": "2026-04-03T07:47:18.242000-07:00",
       "homepage_flag": true,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/home.md"
     },
     "https://www.frdiplomacy.org/frd-services": {
       "url": "https://www.frdiplomacy.org/frd-services",
@@ -1680,7 +1713,9 @@
       "collection_updated_on": "2026-05-09T10:19:39.974000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/frd-services.md"
     },
     "https://www.frdiplomacy.org/about": {
       "url": "https://www.frdiplomacy.org/about",
@@ -1793,7 +1828,9 @@
       "collection_updated_on": "2025-10-06T17:40:41.734000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/about.md"
     },
     "https://www.frdiplomacy.org/practicing-diplomacy": {
       "url": "https://www.frdiplomacy.org/practicing-diplomacy",
@@ -1931,7 +1968,9 @@
       "collection_updated_on": "2025-08-09T18:44:02.015000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/practicing-diplomacy.md"
     },
     "https://www.frdiplomacy.org/contact": {
       "url": "https://www.frdiplomacy.org/contact",
@@ -2011,7 +2050,9 @@
       "collection_updated_on": "2024-10-16T19:12:11.508000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/contact.md"
     },
     "https://www.frdiplomacy.org/team": {
       "url": "https://www.frdiplomacy.org/team",
@@ -2109,7 +2150,10 @@
       "collection_updated_on": "2025-06-25T18:51:09.180000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/team.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 10s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/senior-fellows": {
       "url": "https://www.frdiplomacy.org/senior-fellows",
@@ -2394,7 +2438,10 @@
       "collection_updated_on": "2025-09-15T18:31:29.294000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/senior-fellows.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 16s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/lds-chapter": {
       "url": "https://www.frdiplomacy.org/lds-chapter",
@@ -2476,7 +2523,9 @@
       "collection_updated_on": "2025-05-24T11:06:01.975000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/lds-chapter.md"
     },
     "https://www.frdiplomacy.org/evangelical-chapter": {
       "url": "https://www.frdiplomacy.org/evangelical-chapter",
@@ -2567,7 +2616,9 @@
       "collection_updated_on": "2024-09-30T17:36:48.487000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/evangelical-chapter.md"
     },
     "https://www.frdiplomacy.org/nones-chapter": {
       "url": "https://www.frdiplomacy.org/nones-chapter",
@@ -2648,7 +2699,9 @@
       "collection_updated_on": "2024-10-01T16:34:00.200000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/nones-chapter.md"
     },
     "https://www.frdiplomacy.org/pagan-chapter": {
       "url": "https://www.frdiplomacy.org/pagan-chapter",
@@ -2729,7 +2782,9 @@
       "collection_updated_on": "2024-10-01T07:19:16.073000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/pagan-chapter.md"
     },
     "https://www.frdiplomacy.org/sunni-chapter": {
       "url": "https://www.frdiplomacy.org/sunni-chapter",
@@ -2822,7 +2877,10 @@
       "collection_updated_on": "2024-10-01T07:17:52.831000-07:00",
       "homepage_flag": false,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/sunni-chapter.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 13s, resets at Tue Oct 13 2026 18:32:54 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/": {
       "url": "https://www.frdiplomacy.org/",
@@ -2931,7 +2989,9 @@
       "collection_updated_on": "2026-04-03T07:47:18.242000-07:00",
       "homepage_flag": true,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/index.md"
     },
     "https://www.frdiplomacy.org/cart": {
       "url": "https://www.frdiplomacy.org/cart",
@@ -3000,7 +3060,10 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/cart.md",
+      "render_error": "npm warn Unknown env config \"devdir\". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.\nError: Rate limit exceeded. Consumed (req/min): 16, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 1s, resets at Tue Oct 13 2026 18:31:52 GMT+0000 (Coordinated Universal Time)\n"
     },
     "https://www.frdiplomacy.org/frd-method": {
       "url": "https://www.frdiplomacy.org/frd-method",
@@ -3070,7 +3133,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/frd-method.md"
     },
     "https://frdiplomacy.org/": {
       "url": "https://frdiplomacy.org/",
@@ -3270,7 +3335,9 @@
       "collection_updated_on": "2026-04-03T07:47:18.242000-07:00",
       "homepage_flag": true,
       "show_cart": false,
-      "json_main_text_chars": 0
+      "json_main_text_chars": 0,
+      "render_source": "html",
+      "markdown_path": "raw/markdown/home/index.md"
     },
     "https://www.frdiplomacy.org/search": {
       "url": "https://www.frdiplomacy.org/search",
@@ -3340,7 +3407,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "firecrawl",
+      "markdown_path": "raw/markdown/search.md"
     },
     "https://www.frdiplomacy.org/method": {
       "url": "https://www.frdiplomacy.org/method",
@@ -3410,7 +3479,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/method.md"
     },
     "https://www.frdiplomacy.org/the-frd-method": {
       "url": "https://www.frdiplomacy.org/the-frd-method",
@@ -3480,7 +3551,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/the-frd-method.md"
     },
     "https://www.frdiplomacy.org/checkout": {
       "url": "https://www.frdiplomacy.org/checkout",
@@ -3580,7 +3653,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/commerce.md"
     },
     "https://www.frdiplomacy.org/store": {
       "url": "https://www.frdiplomacy.org/store",
@@ -3650,7 +3725,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/store.md"
     },
     "https://www.frdiplomacy.org/shop": {
       "url": "https://www.frdiplomacy.org/shop",
@@ -3720,7 +3797,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/shop.md"
     },
     "https://www.frdiplomacy.org/products": {
       "url": "https://www.frdiplomacy.org/products",
@@ -3790,7 +3869,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/products.md"
     },
     "https://www.frdiplomacy.org/donate": {
       "url": "https://www.frdiplomacy.org/donate",
@@ -3860,7 +3941,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/donate.md"
     },
     "https://www.frdiplomacy.org/faq": {
       "url": "https://www.frdiplomacy.org/faq",
@@ -3930,7 +4013,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/faq.md"
     },
     "https://www.frdiplomacy.org/faqs": {
       "url": "https://www.frdiplomacy.org/faqs",
@@ -4000,7 +4085,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/faqs.md"
     },
     "https://www.frdiplomacy.org/privacy": {
       "url": "https://www.frdiplomacy.org/privacy",
@@ -4070,7 +4157,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/privacy.md"
     },
     "https://www.frdiplomacy.org/privacy-policy": {
       "url": "https://www.frdiplomacy.org/privacy-policy",
@@ -4140,7 +4229,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/privacy-policy.md"
     },
     "https://www.frdiplomacy.org/terms": {
       "url": "https://www.frdiplomacy.org/terms",
@@ -4210,7 +4301,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/terms.md"
     },
     "https://www.frdiplomacy.org/terms-of-service": {
       "url": "https://www.frdiplomacy.org/terms-of-service",
@@ -4280,7 +4373,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/terms-of-service.md"
     },
     "https://www.frdiplomacy.org/account": {
       "url": "https://www.frdiplomacy.org/account",
@@ -4318,7 +4413,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/account.md"
     },
     "https://www.frdiplomacy.org/login": {
       "url": "https://www.frdiplomacy.org/login",
@@ -4388,7 +4485,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/login.md"
     },
     "https://www.frdiplomacy.org/news": {
       "url": "https://www.frdiplomacy.org/news",
@@ -4458,7 +4557,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/news.md"
     },
     "https://www.frdiplomacy.org/journal": {
       "url": "https://www.frdiplomacy.org/journal",
@@ -4528,7 +4629,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/journal.md"
     },
     "https://www.frdiplomacy.org/events": {
       "url": "https://www.frdiplomacy.org/events",
@@ -4598,7 +4701,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/events.md"
     },
     "https://www.frdiplomacy.org/partners": {
       "url": "https://www.frdiplomacy.org/partners",
@@ -4668,7 +4773,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/partners.md"
     },
     "https://www.frdiplomacy.org/resources": {
       "url": "https://www.frdiplomacy.org/resources",
@@ -4738,7 +4845,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/resources.md"
     },
     "https://www.frdiplomacy.org/s/FAQs.pdf": {
       "url": "https://www.frdiplomacy.org/s/FAQs.pdf",
@@ -4910,7 +5019,9 @@
         "https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0",
         "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB",
         "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/index.md"
     },
     "https://frdiplomacy.org/blog": {
       "url": "https://frdiplomacy.org/blog",
@@ -5072,7 +5183,9 @@
       "outbound_internal": [],
       "outbound_external": [
         "https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace/index.md"
     },
     "https://frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace": {
       "url": "https://frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
@@ -5232,7 +5345,9 @@
       "json_body_chars": 3820,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences/index.md"
     },
     "https://frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences": {
       "url": "https://frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
@@ -5394,7 +5509,9 @@
       "outbound_internal": [],
       "outbound_external": [
         "https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/leonard-swidler-has-passed/index.md"
     },
     "https://frdiplomacy.org/blog/leonard-swidler-has-passed": {
       "url": "https://frdiplomacy.org/blog/leonard-swidler-has-passed",
@@ -5561,7 +5678,9 @@
         "https://wildhunt.org/2025/03/its-certainly-escalating-evangelical-group-targets-metaphysical-stores-with-coordinated-action.html",
         "https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0",
         "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/when-proclamation-is-really-identity-reinforcement/index.md"
     },
     "https://frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement": {
       "url": "https://frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement",
@@ -5725,7 +5844,9 @@
         "https://outragedbook.com/",
         "https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/",
         "https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/outraged-by-kurt-gray-frd-senior-fellow/index.md"
     },
     "https://frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow": {
       "url": "https://frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow",
@@ -5887,7 +6008,9 @@
       "outbound_internal": [],
       "outbound_external": [
         "https://wipfandstock.com/9781666768411/evangelical-zen-second-edition/?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/evangelical-zen-second-edition/index.md"
     },
     "https://frdiplomacy.org/blog/evangelical-zen-second-edition": {
       "url": "https://frdiplomacy.org/blog/evangelical-zen-second-edition",
@@ -6049,7 +6172,9 @@
       "outbound_internal": [],
       "outbound_external": [
         "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/idl8whemo48ua7touxqjdx4n5ihvvn/index.md"
     },
     "https://frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn": {
       "url": "https://frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
@@ -6209,7 +6334,9 @@
       "json_body_chars": 2846,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-who-blogs-here/index.md"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-who-blogs-here": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-who-blogs-here",
@@ -6402,7 +6529,9 @@
       "json_body_chars": 2600,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-1/index.md"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-1": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-1",
@@ -6599,7 +6728,9 @@
         "https://www.cbc.ca/news/canada/edmonton/counselling-mentorship-needed-to-help-people-leave-extremist-groups-former-neo-nazi-says-1.5113407",
         "https://youtu.be/9Z-KIZKGyrA?si=gMEHMhmBCsfCZ5ct&t=120",
         "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-what-about-extremists/index.md"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-what-about-extremists": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-what-about-extremists",
@@ -6795,7 +6926,9 @@
       "outbound_external": [
         "https://vimeo.com/257502083",
         "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html"
-      ]
+      ],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-power-shared-meal/index.md"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-power-shared-meal": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-power-shared-meal",
@@ -6988,7 +7121,9 @@
       "json_body_chars": 6329,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/blog/2024/july-19-post-friendship-and-trusted/index.md"
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted",
@@ -7246,7 +7381,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/frd-services/index.md"
     },
     "https://frdiplomacy.org/frd-services": {
       "url": "https://frdiplomacy.org/frd-services",
@@ -7381,7 +7518,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/about/index.md"
     },
     "https://frdiplomacy.org/about": {
       "url": "https://frdiplomacy.org/about",
@@ -7516,7 +7655,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/practicing-diplomacy/index.md"
     },
     "https://frdiplomacy.org/practicing-diplomacy": {
       "url": "https://frdiplomacy.org/practicing-diplomacy",
@@ -7651,7 +7792,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/contact/index.md"
     },
     "https://frdiplomacy.org/contact": {
       "url": "https://frdiplomacy.org/contact",
@@ -7786,7 +7929,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/team/index.md"
     },
     "http://www.frdiplomacy.org/team": {
       "url": "http://www.frdiplomacy.org/team",
@@ -7891,7 +8036,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/senior-fellows/index.md"
     },
     "http://www.frdiplomacy.org/senior-fellows": {
       "url": "http://www.frdiplomacy.org/senior-fellows",
@@ -7996,7 +8143,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/lds-chapter/index.md"
     },
     "https://frdiplomacy.org/lds-chapter": {
       "url": "https://frdiplomacy.org/lds-chapter",
@@ -8131,7 +8280,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/evangelical-chapter/index.md"
     },
     "https://frdiplomacy.org/evangelical-chapter": {
       "url": "https://frdiplomacy.org/evangelical-chapter",
@@ -8266,7 +8417,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/nones-chapter/index.md"
     },
     "https://frdiplomacy.org/nones-chapter": {
       "url": "https://frdiplomacy.org/nones-chapter",
@@ -8401,7 +8554,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/pagan-chapter/index.md"
     },
     "https://frdiplomacy.org/pagan-chapter": {
       "url": "https://frdiplomacy.org/pagan-chapter",
@@ -8536,7 +8691,9 @@
       "json_main_text_chars": 0,
       "asset_refs": [],
       "outbound_internal": [],
-      "outbound_external": []
+      "outbound_external": [],
+      "render_source": "html",
+      "markdown_path": "raw/markdown/sunni-chapter/index.md"
     },
     "https://frdiplomacy.org/sunni-chapter": {
       "url": "https://frdiplomacy.org/sunni-chapter",
@@ -8660,7 +8817,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/cart/index.md"
     },
     "https://frdiplomacy.org/cart": {
       "url": "https://frdiplomacy.org/cart",
@@ -8997,7 +9156,9 @@
         }
       ],
       "json_ok": false,
-      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)",
+      "render_source": "html",
+      "markdown_path": "raw/markdown/search/index.md"
     },
     "https://frdiplomacy.org/search": {
       "url": "https://frdiplomacy.org/search",
@@ -12164,5 +12325,6 @@
     }
   ],
   "nav_source_url": "https://www.frdiplomacy.org/",
-  "updated_at": "2026-10-13T18:29:42.712991+00:00"
+  "updated_at": "2026-10-13T18:34:55.737419+00:00",
+  "firecrawl_authenticated": true
 }

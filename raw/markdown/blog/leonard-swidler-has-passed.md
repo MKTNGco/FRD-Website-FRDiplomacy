@@ -1,0 +1,64 @@
+[0](https://www.frdiplomacy.org/cart)
+
+# Leonard Swidler has passed
+
+Mar 28
+
+Written By [John Morehead](https://www.frdiplomacy.org/blog?author=58891f6a1b631b179b508ad1)
+
+Leonard Swidler passed away on March 23. He was was Professor of Catholic Thought and Interreligious Dialogue at Temple University, Philadelphia, Pennsylvania, where he taught from 1966 to 2022. He was the co-founder (in 1964, with Arlene Swidler) and editor of the _Journal of Ecumenical Studies_. His work was an important influence on the Foundation for Religious Diplomacy. Swidler was best known for his “Dialogue Decalogue: Ground Rules for Interreligious, Interideological Dialogue.” They are reproduced below. You can download the entire article and discussion of these principles [here](https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf):
+
+**FIRST PRINCIPLE**
+
+The essential purpose of dialogue is to learn, which entails change. At the very least, to learn that one’s dialogue partner views the world differently is to effect a change in oneself. Reciprocally, change happens for one’s partner as they learn about themself.
+
+**SECOND PRINCIPLE**
+
+Dialogue must be a two-sided project: both between religious/ideological groups, and within religious/ideological groups (inter- and intra-). Intra-religious/ideological dialogue is vital for moving one’s community toward an increasingly perceptive insight into reality.
+
+**THIRD PRINCIPLE**
+
+It is imperative that each participant comes to the dialogue with complete honesty and sincerity. This means not only describing the major and minor thrusts, as well as potential future shifts of one’s tradition, but also possible difficulties that they have with it.
+
+**FOURTH PRINCIPLE**
+
+One must compare only their ideals with their partner’s ideals and their practice with the partner’s practice, not one's ideals with one's partner’s practice.
+
+**FIFTH PRINCIPLE**
+
+Each participant needs to describe themself. For example, only a Muslim can describe what it really means to be an authentic member of the Muslim community. At the same time, when one’s partner in dialogue attempts to describe back to them what they have understood of their partner’s self-description, then such a description must be recognizable to the described party.
+
+**SIXTH PRINCIPLE**
+
+Participants must not come to the dialogue with any preconceptions as to where the points of disagreement lie. A process of agreeing with one's partner as much as possible, without violating the integrity of one's own tradition, will reveal where the real boundaries between the traditions lie: the point where they cannot agree without going against the principles of one's own tradition.
+
+**SEVENTH PRINCIPLE**
+
+Dialogue can take place only between equals, which means that partners learn from each other— _par cum pari_ according to the Second Vatican Council—and do not merely seek to teach one another.
+
+**EIGHTH PRINCIPLE**
+
+Dialogue can only take place on the basis of mutual trust. Because it is persons, and not entire communities, that enter into dialogue, it is essential for personal trust to be established. To encourage this it is important that less controversial matters are discussed before dealing with more controversial ones.
+
+**NINTH PRINCIPLE**
+
+Participants in dialogue should have a healthy level of criticism toward their own traditions. A lack of such criticism implies that one’s tradition has all the answers, thus making dialogue not only unnecessary but unfeasible. The primary purpose of dialogue is to learn, which is impossible if one’s tradition is seen as having all the answers.
+
+**TENTH PRINCIPLE**
+
+To understand another religion or ideology one must try to experience it from within, which requires a “passing over,” even if only momentarily, into another’s religious or ideological experience.
+
+[John Morehead](https://www.frdiplomacy.org/blog?author=58891f6a1b631b179b508ad1) [https://multifaithmatters.org](https://multifaithmatters.org/)
+
+[Previous\\
+\\
+Previous\\
+**Announcing a New Collaboration with Brigham Young University to Advance Trust Amid Deep Differences**](https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences) [Next\\
+\\
+Next\\
+\\
+**When Proclamation is Really Identity Reinforcement**](https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement)
+
+­
+
+­

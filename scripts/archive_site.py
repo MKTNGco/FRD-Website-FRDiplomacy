@@ -1140,7 +1140,12 @@ def firecrawl_authenticated() -> bool:
         fail("render", "firecrawl", f"status check failed: {exc}")
         return False
     text = (proc.stdout or "") + "\n" + (proc.stderr or "")
-    return "authenticated: true" in text.lower()
+    lowered = text.lower()
+    if "authenticated: false" in lowered or "not authenticated" in lowered:
+        return False
+    if "authenticated: true" in lowered or "authenticated via stored credentials" in lowered:
+        return True
+    return "authenticated" in lowered
 
 
 def render() -> None:
@@ -1154,15 +1159,26 @@ def render() -> None:
             "Firecrawl CLI is not authenticated. Rendered markdown falls back to the saved HTML.",
         )
     targets = []
-    for url, entry in data["urls"].items():
+    for url, entry in sorted(data["urls"].items()):
         if entry.get("kind") in {"asset", "feed"}:
-            continue
-        if entry.get("http_status") not in {200, 404}:
             continue
         if not entry.get("html_path"):
             continue
-        # Skip pure redirect-variant duplicates that only exist as chains.
-        if "variant" in entry.get("sources", []) and entry.get("http_status") in {301, 302, 303, 307, 308}:
+        parts = urllib.parse.urlsplit(url)
+        if parts.scheme != "https" or parts.netloc != "www.frdiplomacy.org":
+            continue
+        if parts.query:
+            continue
+        path = parts.path or "/"
+        canonical = entry.get("http_status") == 200 and (path == "/" or not path.endswith("/"))
+        known_miss = path in {"/frd-method", "/frd-method/"} and entry.get("http_status") == 404
+        if not canonical and not known_miss:
+            # Trailing-slash twins and probe 404s still get a local markdown
+            # render so the cross-check exists. Firecrawl is reserved for the
+            # canonical URL and the known broken footer target.
+            write_html_markdown(entry, url, RAW_MD / safe_rel(url, ".md"))
+            entry["render_source"] = "html"
+            entry["markdown_path"] = str((RAW_MD / safe_rel(url, ".md")).relative_to(ROOT))
             continue
         targets.append(url)
     log(f"render: {len(targets)} pages authed={authed}")
@@ -1170,8 +1186,12 @@ def render() -> None:
         entry = data["urls"][url]
         out = RAW_MD / safe_rel(url, ".md")
         out.parent.mkdir(parents=True, exist_ok=True)
+        if authed and entry.get("render_source") == "firecrawl" and out.exists() and out.stat().st_size > 0:
+            entry["markdown_path"] = str(out.relative_to(ROOT))
+            continue
         if authed:
             log(f"render: firecrawl {url}")
+            time.sleep(7)
             try:
                 proc = subprocess.run(
                     [
@@ -1197,7 +1217,9 @@ def render() -> None:
                 fail("render", url, str(exc))
                 write_html_markdown(entry, url, out)
                 entry["render_source"] = "html"
-            # Stay within the site rate limit even when Firecrawl is the client.
+                entry["render_error"] = err
+            # Stay under Firecrawl's per-minute limit. The extra sleep is
+            # in addition to the site's own one-request-per-second cap.
             time.sleep(RATE_SECONDS)
         else:
             write_html_markdown(entry, url, out)
