@@ -23,8 +23,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog",
       "html_path": "raw/html/blog.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -101,21 +101,58 @@
       ],
       "outbound_external": [
         "https://assets.squarespace.com/universal/default-favicon.ico",
+        "https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf",
         "https://donorbox.org/trust-between-rivals-1",
+        "https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/",
         "https://file.squarespace-cdn.com/",
+        "https://johnwmorehead.blogspot.com/search?q=Manti",
+        "https://outragedbook.com/",
+        "https://religionnews.com/2021/05/07/pagan-metaphysical-shops-navigate-threats-from-christian-critics/",
         "https://twitter.com/FRDiplomacy",
+        "https://vimeo.com/257502083",
+        "https://wildhunt.org/2025/02/concerns-over-targeting-of-pagan-community-in-pickens-sc.html?fbclid=IwY2xjawI_5WdleHRuA2FlbQIxMAABHcOxxmkuCYKffyFjylQodNN_SX7aj5RgoURhvPmtl7rYsCjjh9ELGcVq_Q_aem_zTLnHVooUY5-D3pEUX9kuw",
+        "https://wildhunt.org/2025/03/its-certainly-escalating-evangelical-group-targets-metaphysical-stores-with-coordinated-action.html",
+        "https://wipfandstock.com/9781666768411/evangelical-zen-second-edition/?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow",
+        "https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/",
+        "https://www.cbc.ca/news/canada/edmonton/counselling-mentorship-needed-to-help-people-leave-extremist-groups-former-neo-nazi-says-1.5113407",
         "https://www.facebook.com/profile.php?id=100070105651644",
         "https://www.instagram.com/frdiplomacy/",
-        "https://www.youtube.com/@foundationforreligiousdipl4729"
+        "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html",
+        "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/",
+        "https://www.youtube.com/@foundationforreligiousdipl4729",
+        "https://youtu.be/9Z-KIZKGyrA?si=gMEHMhmBCsfCZ5ct&t=120",
+        "https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5",
+        "https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0",
+        "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB",
+        "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b"
       ],
       "body_sha256": "72421e842c1caba431d340806af0a827504ba3c6afa81265694fdcd66b4d91d5",
-      "kind": null
+      "kind": null,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_item_count_returned": 12,
+      "json_item_count_reported": 15
     },
     "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace": {
       "url": "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2026-09-25",
@@ -131,8 +168,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
       "html_path": "raw/html/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -172,13 +209,56 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "e8cf97b335041a3594529fccd7090208491532c5fd7eaf7d3b45d5a3125d496a"
+      "body_sha256": "e8cf97b335041a3594529fccd7090208491532c5fd7eaf7d3b45d5a3125d496a",
+      "blog_item": {
+        "id": "6ab6daa71f6a3979109857a6",
+        "title": "Book Review: Aziz Abu Sarah and Maoz Inon – The Future is Peace",
+        "urlId": "book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
+        "fullUrl": "/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
+        "excerpt": null,
+        "publishOn": "2026-09-25T13:37:26.256000-07:00",
+        "updatedOn": "2026-09-25T13:37:26.584000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 14246,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 14246
     },
     "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences": {
       "url": "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2026-04-16",
@@ -194,8 +274,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
       "html_path": "raw/html/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -235,13 +315,56 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "45fa8cdfe6d637fd44b145dc1adf341a5f44ce54df9452f0527c68f3cfc24e0f"
+      "body_sha256": "45fa8cdfe6d637fd44b145dc1adf341a5f44ce54df9452f0527c68f3cfc24e0f",
+      "blog_item": {
+        "id": "69e032cc5f3d2e75d69dd02c",
+        "title": "Announcing a New Collaboration with Brigham Young University to Advance Trust Amid Deep Differences",
+        "urlId": "announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
+        "fullUrl": "/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
+        "excerpt": null,
+        "publishOn": "2026-04-15T17:53:53.576000-07:00",
+        "updatedOn": "2026-04-15T17:53:54.128000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 3820,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 3820
     },
     "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed": {
       "url": "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2026-03-28",
@@ -257,8 +380,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed",
       "html_path": "raw/html/blog/leonard-swidler-has-passed.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/leonard-swidler-has-passed.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -299,13 +422,56 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "ef27fb32ffefec6da62589e12099069c5fe5bf7f90dee826e7844af30641ead9"
+      "body_sha256": "ef27fb32ffefec6da62589e12099069c5fe5bf7f90dee826e7844af30641ead9",
+      "blog_item": {
+        "id": "69c8180d05449f363356e405",
+        "title": "Leonard Swidler has passed",
+        "urlId": "leonard-swidler-has-passed",
+        "fullUrl": "/blog/leonard-swidler-has-passed",
+        "excerpt": null,
+        "publishOn": "2026-03-28T11:12:38.857000-07:00",
+        "updatedOn": "2026-03-28T11:12:39.310000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 7120,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 7120
     },
     "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement": {
       "url": "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2025-03-13",
@@ -321,8 +487,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement",
       "html_path": "raw/html/blog/when-proclamation-is-really-identity-reinforcement.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/when-proclamation-is-really-identity-reinforcement.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -369,13 +535,56 @@
         "https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0",
         "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b"
       ],
-      "body_sha256": "54130c4e8e6c3652018b28903eb56142d1c5b757962e3161eefe3ffc5d2d2597"
+      "body_sha256": "54130c4e8e6c3652018b28903eb56142d1c5b757962e3161eefe3ffc5d2d2597",
+      "blog_item": {
+        "id": "67d3233cd6bd596617469eaa",
+        "title": "When Proclamation is Really Identity Reinforcement",
+        "urlId": "when-proclamation-is-really-identity-reinforcement",
+        "fullUrl": "/blog/when-proclamation-is-really-identity-reinforcement",
+        "excerpt": null,
+        "publishOn": "2025-03-13T12:08:29.268000-07:00",
+        "updatedOn": "2025-03-13T12:09:11.367000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 8862,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 8862
     },
     "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow": {
       "url": "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2025-01-27",
@@ -391,8 +600,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow",
       "html_path": "raw/html/blog/outraged-by-kurt-gray-frd-senior-fellow.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/outraged-by-kurt-gray-frd-senior-fellow.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -436,13 +645,56 @@
         "https://www.youtube.com/@foundationforreligiousdipl4729",
         "https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5"
       ],
-      "body_sha256": "bd51a8b67835b71184f2182d94e970fe5da4e726771d70131cd4920cb2441284"
+      "body_sha256": "bd51a8b67835b71184f2182d94e970fe5da4e726771d70131cd4920cb2441284",
+      "blog_item": {
+        "id": "6797e64a6f1c7375ce2881aa",
+        "title": "OUTRAGED! by Kurt Gray, FRD senior fellow",
+        "urlId": "outraged-by-kurt-gray-frd-senior-fellow",
+        "fullUrl": "/blog/outraged-by-kurt-gray-frd-senior-fellow",
+        "excerpt": null,
+        "publishOn": "2025-01-27T12:14:46.057000-08:00",
+        "updatedOn": "2025-01-27T12:14:46.415000-08:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 4880,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 4880
     },
     "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition": {
       "url": "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2025-01-27",
@@ -458,8 +710,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition",
       "html_path": "raw/html/blog/evangelical-zen-second-edition.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/evangelical-zen-second-edition.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -501,13 +753,56 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "daf60f8f0fce2c0f2d31d0b790b6c02e32e8480fc87395fe06048d2e374c6341"
+      "body_sha256": "daf60f8f0fce2c0f2d31d0b790b6c02e32e8480fc87395fe06048d2e374c6341",
+      "blog_item": {
+        "id": "674527d440a3a96640ca14dd",
+        "title": "Evangelical Zen, second edition",
+        "urlId": "evangelical-zen-second-edition",
+        "fullUrl": "/blog/evangelical-zen-second-edition",
+        "excerpt": null,
+        "publishOn": "2024-11-25T17:50:45.629000-08:00",
+        "updatedOn": "2025-01-27T12:01:48.491000-08:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 4154,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 4154
     },
     "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn": {
       "url": "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2024-10-29",
@@ -523,8 +818,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
       "html_path": "raw/html/blog/idl8whemo48ua7touxqjdx4n5ihvvn.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/idl8whemo48ua7touxqjdx4n5ihvvn.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -566,13 +861,56 @@
         "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "d172e0991e31d19303ce3ca27c8450772e0dd817fd6befea25fd986be86caac6"
+      "body_sha256": "d172e0991e31d19303ce3ca27c8450772e0dd817fd6befea25fd986be86caac6",
+      "blog_item": {
+        "id": "6720256fa3a92e16014474cb",
+        "title": "PBS Frontline and “A Year of War”",
+        "urlId": "idl8whemo48ua7touxqjdx4n5ihvvn",
+        "fullUrl": "/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
+        "excerpt": "<p>I recently watched an edition of <em>PBS Frontline </em>titled “A Year of War: Israelis and Palestinians.” I went into the program expecting political analysis, but instead watched the gut-wrenching and graphic stories of Israelis who lost loved ones when Hamas attacked on October 7, 2023, and Palestinians who lost loved ones in the Israeli response in the bombing and devastation of Gaza.</p>",
+        "publishOn": "2024-10-28T17:05:26.595000-07:00",
+        "updatedOn": "2024-10-28T17:07:36.825000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 3457,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 3457
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2024-10-27",
@@ -588,8 +926,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here",
       "html_path": "raw/html/blog/2024/july-19-post-who-blogs-here.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-who-blogs-here.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -630,13 +968,56 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "5ff67e1ad54fc486fbfaf39d7a5d297f9714fdcff39a77f051e43513b34933d5"
+      "body_sha256": "5ff67e1ad54fc486fbfaf39d7a5d297f9714fdcff39a77f051e43513b34933d5",
+      "blog_item": {
+        "id": "669a988ea574940d094c9fd3",
+        "title": "Who Blogs Here?",
+        "urlId": "2024/july-19-post-who-blogs-here",
+        "fullUrl": "/blog/2024/july-19-post-who-blogs-here",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">For the most part the leadership team at FRD will blog here.  </p>",
+        "publishOn": "2024-10-27T14:23:34.227000-07:00",
+        "updatedOn": "2024-10-27T14:23:34.507000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 2846,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 2846
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-1": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2024-10-27",
@@ -652,8 +1033,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1",
       "html_path": "raw/html/blog/2024/july-19-post-1.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-1.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -694,13 +1075,56 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "7c6b806a6b4661b020a141a2295e66ce30aa0e896a8733cb8bffee0985fe4569"
+      "body_sha256": "7c6b806a6b4661b020a141a2295e66ce30aa0e896a8733cb8bffee0985fe4569",
+      "blog_item": {
+        "id": "65b6d151e8708d22bf7c2aee",
+        "title": "Welcome to Our First Blog!",
+        "urlId": "2024/july-19-post-1",
+        "fullUrl": "/blog/2024/july-19-post-1",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Welcome to the Blog!</p>",
+        "publishOn": "2024-10-27T14:23:10.076000-07:00",
+        "updatedOn": "2024-10-27T14:23:10.347000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 2600,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 2600
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2024-10-27",
@@ -716,8 +1140,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists",
       "html_path": "raw/html/blog/2024/july-19-post-what-about-extremists.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-what-about-extremists.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -761,13 +1185,56 @@
         "https://youtu.be/9Z-KIZKGyrA?si=gMEHMhmBCsfCZ5ct&t=120",
         "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB"
       ],
-      "body_sha256": "82a920318efc7f98a8f359685c75c6274c34a58f6000968dc2d81a962f40ffcb"
+      "body_sha256": "82a920318efc7f98a8f359685c75c6274c34a58f6000968dc2d81a962f40ffcb",
+      "blog_item": {
+        "id": "669a9af39b4b465795b8374e",
+        "title": "What About Extremists?",
+        "urlId": "2024/july-19-post-what-about-extremists",
+        "fullUrl": "/blog/2024/july-19-post-what-about-extremists",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">As we debate the best ways in which to address deep polarization people often have their limits for how far we should go, and which groups and individuals are beyond hope. One example is Nazis.</p>",
+        "publishOn": "2024-07-19T09:59:05.411000-07:00",
+        "updatedOn": "2024-10-27T14:09:30.029000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 4011,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 4011
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2024-10-27",
@@ -783,8 +1250,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal",
       "html_path": "raw/html/blog/2024/july-19-post-power-shared-meal.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-power-shared-meal.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -827,13 +1294,56 @@
         "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "f61cd5687f2979abdceb958dd921f740f09b311c25ef017c7f63d0f8999507e6"
+      "body_sha256": "f61cd5687f2979abdceb958dd921f740f09b311c25ef017c7f63d0f8999507e6",
+      "blog_item": {
+        "id": "669a99e304b03b42eeb55495",
+        "title": "The Power of a Shared Meal",
+        "urlId": "2024/july-19-post-power-shared-meal",
+        "fullUrl": "/blog/2024/july-19-post-power-shared-meal",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">There’s something incredible that happens when people sit down together and break bread. </p>",
+        "publishOn": "2024-07-19T09:56:32.089000-07:00",
+        "updatedOn": "2024-10-27T14:10:06.825000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 3888,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 3888
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted",
       "sources": [
         "sitemap",
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": true,
       "lastmod": "2024-10-27",
@@ -849,8 +1359,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted",
       "html_path": "raw/html/blog/2024/july-19-post-friendship-and-trusted.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-friendship-and-trusted.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "monthly",
       "sitemap_priority": "0.5",
@@ -890,7 +1400,49 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "1d35bda0ec4eea8b4269040d07a2e8aef9f5248409ec1ac5a9b2838d01c73752"
+      "body_sha256": "1d35bda0ec4eea8b4269040d07a2e8aef9f5248409ec1ac5a9b2838d01c73752",
+      "blog_item": {
+        "id": "669a99446f13e734f6058ec1",
+        "title": "Friendship and Trusted Rivals",
+        "urlId": "2024/july-19-post-friendship-and-trusted",
+        "fullUrl": "/blog/2024/july-19-post-friendship-and-trusted",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">One of the big ideas of religious diplomacy is that we must move beyond suspicion and contempt regarding those we strongly disagree with in the area of values, worldviews, politics, and religion.</p>",
+        "publishOn": "2024-07-19T09:52:33.628000-07:00",
+        "updatedOn": "2024-10-27T14:10:36.987000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 6329,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_body_chars": 6329
     },
     "https://www.frdiplomacy.org/home": {
       "url": "https://www.frdiplomacy.org/home",
@@ -911,8 +1463,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/home",
       "html_path": "raw/html/home.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/home.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "1.0",
@@ -1007,7 +1559,24 @@
         "https://www.woolf.cam.ac.uk/research/projects/effectiveness-of-interfaith-initiatives",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "f62bcda7a56349b5fe7a9445ba78c8fd47cc428f90f17c6bdf27569b2cbcd684"
+      "body_sha256": "f62bcda7a56349b5fe7a9445ba78c8fd47cc428f90f17c6bdf27569b2cbcd684",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/home?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6ce02079dcf66a092b98c",
+      "collection_title": "Home",
+      "navigation_title": "Home",
+      "collection_url": "/",
+      "collection_type": "page",
+      "collection_updated_on": "2026-04-03T07:47:18.242000-07:00",
+      "homepage_flag": true,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/frd-services": {
       "url": "https://www.frdiplomacy.org/frd-services",
@@ -1029,8 +1598,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/frd-services",
       "html_path": "raw/html/frd-services.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/frd-services.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1094,7 +1663,24 @@
         "https://youtu.be/0juLRi90kRg?si=pk1p_1ElGQHJ7YhM",
         "https://youtu.be/e4-OyKDfRMI?si=Ypb58No-NRSaiNDE"
       ],
-      "body_sha256": "5d399227e270756869207f894fb21f47b23555a9967bd56404bed9c4733785d9"
+      "body_sha256": "5d399227e270756869207f894fb21f47b23555a9967bd56404bed9c4733785d9",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/frd-services?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d10a1878582ed1cf04b6",
+      "collection_title": "Services",
+      "navigation_title": "Services",
+      "collection_url": "/frd-services",
+      "collection_type": "page",
+      "collection_updated_on": "2026-05-09T10:19:39.974000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/about": {
       "url": "https://www.frdiplomacy.org/about",
@@ -1116,8 +1702,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/about",
       "html_path": "raw/html/about.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/about.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1190,7 +1776,24 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "0555343ec56379023dc044cce10cc548510ba74fc05e550f2b52d5cfc6c6ccda"
+      "body_sha256": "0555343ec56379023dc044cce10cc548510ba74fc05e550f2b52d5cfc6c6ccda",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/about?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d12c92423e713bc40d03",
+      "collection_title": "About Us",
+      "navigation_title": "About Us",
+      "collection_url": "/about",
+      "collection_type": "page",
+      "collection_updated_on": "2025-10-06T17:40:41.734000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/practicing-diplomacy": {
       "url": "https://www.frdiplomacy.org/practicing-diplomacy",
@@ -1212,8 +1815,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/practicing-diplomacy",
       "html_path": "raw/html/practicing-diplomacy.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/practicing-diplomacy.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1311,7 +1914,24 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "fbebe6fe8f5d8a5d80d9e4b370a1f28847c28c4f97868cf00c151f2436cce47c"
+      "body_sha256": "fbebe6fe8f5d8a5d80d9e4b370a1f28847c28c4f97868cf00c151f2436cce47c",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/practicing-diplomacy?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d147bd1516572167ecdc",
+      "collection_title": "Practicing Diplomacy",
+      "navigation_title": "Practicing Diplomacy",
+      "collection_url": "/practicing-diplomacy",
+      "collection_type": "page",
+      "collection_updated_on": "2025-08-09T18:44:02.015000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/contact": {
       "url": "https://www.frdiplomacy.org/contact",
@@ -1333,8 +1953,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/contact",
       "html_path": "raw/html/contact.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/contact.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1374,7 +1994,24 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "2e13f7957463508ecef811ee4afaa7b78862f1b5e7c05d03fb8d9fe051fe8ef7"
+      "body_sha256": "2e13f7957463508ecef811ee4afaa7b78862f1b5e7c05d03fb8d9fe051fe8ef7",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/contact?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "6606333754ce2c5c319046be",
+      "collection_title": "Contact",
+      "navigation_title": "Contact",
+      "collection_url": "/contact",
+      "collection_type": "page",
+      "collection_updated_on": "2024-10-16T19:12:11.508000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/team": {
       "url": "https://www.frdiplomacy.org/team",
@@ -1396,8 +2033,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/team",
       "html_path": "raw/html/team.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/team.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1455,7 +2092,24 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "bd479de77cc75e0b505f7f5b154372e791533b6eddd40eea061f65f80bfefd8d"
+      "body_sha256": "bd479de77cc75e0b505f7f5b154372e791533b6eddd40eea061f65f80bfefd8d",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/team?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "6606481854ce2c5c3193dc7d",
+      "collection_title": "Meet the Team",
+      "navigation_title": "Team",
+      "collection_url": "/team",
+      "collection_type": "page",
+      "collection_updated_on": "2025-06-25T18:51:09.180000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/senior-fellows": {
       "url": "https://www.frdiplomacy.org/senior-fellows",
@@ -1477,8 +2131,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/senior-fellows",
       "html_path": "raw/html/senior-fellows.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/senior-fellows.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1723,7 +2377,24 @@
         "https://www.theothersideacademy.com/joseph-grenny",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "1be6711b27a84f405120f3c4bea23d84e9409a67667dfd68ed9d630cc7e0770f"
+      "body_sha256": "1be6711b27a84f405120f3c4bea23d84e9409a67667dfd68ed9d630cc7e0770f",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/senior-fellows?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66064e67f97fa37d84b7d22b",
+      "collection_title": "Senior Fellows",
+      "navigation_title": "Senior Fellows",
+      "collection_url": "/senior-fellows",
+      "collection_type": "page",
+      "collection_updated_on": "2025-09-15T18:31:29.294000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/lds-chapter": {
       "url": "https://www.frdiplomacy.org/lds-chapter",
@@ -1745,8 +2416,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/lds-chapter",
       "html_path": "raw/html/lds-chapter.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/lds-chapter.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1788,7 +2459,24 @@
         "https://youtu.be/rzOgsszHbDc?si=hxS1TfLKnG4qW4Nj",
         "https://youtu.be/w4tbTZvYk0o?si=DpDO5H_KNphG3J4m"
       ],
-      "body_sha256": "185f0a613dc5f830cf48e57b183d213c32c9274c33efedcf159cbdb214b970ea"
+      "body_sha256": "185f0a613dc5f830cf48e57b183d213c32c9274c33efedcf159cbdb214b970ea",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/lds-chapter?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fac4a549bf0c66f68ef807",
+      "collection_title": "LDS",
+      "navigation_title": "Latter Day Saints Chapter",
+      "collection_url": "/lds-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2025-05-24T11:06:01.975000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/evangelical-chapter": {
       "url": "https://www.frdiplomacy.org/evangelical-chapter",
@@ -1810,8 +2498,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/evangelical-chapter",
       "html_path": "raw/html/evangelical-chapter.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/evangelical-chapter.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1862,7 +2550,24 @@
         "https://www.multifaithmatters.org/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "6db210035bed93b955f6e9e46f01337854adc8d3a70d7e12ef37e62056ddd0ef"
+      "body_sha256": "6db210035bed93b955f6e9e46f01337854adc8d3a70d7e12ef37e62056ddd0ef",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/evangelical-chapter?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fac6da33fd6070fa79924f",
+      "collection_title": "Evangelical Chapter",
+      "navigation_title": "Evangelical Chapter",
+      "collection_url": "/evangelical-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2024-09-30T17:36:48.487000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/nones-chapter": {
       "url": "https://www.frdiplomacy.org/nones-chapter",
@@ -1884,8 +2589,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/nones-chapter",
       "html_path": "raw/html/nones-chapter.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/nones-chapter.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1926,7 +2631,24 @@
         "https://www.youtube.com/@foundationforreligiousdipl4729",
         "https://www.youtube.com/@thefallenape-theist"
       ],
-      "body_sha256": "e6f32debf7485c19d5be4c6aab40beafbc7b9e411c4ee75afccd01b0aaec2c22"
+      "body_sha256": "e6f32debf7485c19d5be4c6aab40beafbc7b9e411c4ee75afccd01b0aaec2c22",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/nones-chapter?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fb386d1059b7296f53d8aa",
+      "collection_title": "Nones Chapter",
+      "navigation_title": "Nones Chapter",
+      "collection_url": "/nones-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2024-10-01T16:34:00.200000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/pagan-chapter": {
       "url": "https://www.frdiplomacy.org/pagan-chapter",
@@ -1948,8 +2670,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/pagan-chapter",
       "html_path": "raw/html/pagan-chapter.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/pagan-chapter.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -1990,7 +2712,24 @@
         "https://www.thetroth.org/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "7b39d46cf20cbd851781358551669993121319fec3db957267970f81e35e9f1f"
+      "body_sha256": "7b39d46cf20cbd851781358551669993121319fec3db957267970f81e35e9f1f",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/pagan-chapter?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fb395c7fcf1457546aa6c2",
+      "collection_title": "Pagan Chapter",
+      "navigation_title": "Pagan Chapter",
+      "collection_url": "/pagan-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2024-10-01T07:19:16.073000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/sunni-chapter": {
       "url": "https://www.frdiplomacy.org/sunni-chapter",
@@ -2012,8 +2751,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/sunni-chapter",
       "html_path": "raw/html/sunni-chapter.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/sunni-chapter.json",
+      "json_status": 200,
       "error": null,
       "sitemap_changefreq": "daily",
       "sitemap_priority": "0.75",
@@ -2066,7 +2805,24 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "4887a0625b0f61478b2caa34115166d45b5f2c3ba49f9b281db257ca335e463d"
+      "body_sha256": "4887a0625b0f61478b2caa34115166d45b5f2c3ba49f9b281db257ca335e463d",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/sunni-chapter?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fb3e27520b9016454f2e95",
+      "collection_title": "Sunni Muslim Chapter",
+      "navigation_title": "Sunni Muslim Chapter",
+      "collection_url": "/sunni-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2024-10-01T07:17:52.831000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/": {
       "url": "https://www.frdiplomacy.org/",
@@ -2087,8 +2843,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/",
       "html_path": "raw/html/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2158,7 +2914,24 @@
         "https://www.woolf.cam.ac.uk/research/projects/effectiveness-of-interfaith-initiatives",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "1dc966b701574a792e2aea752fcd8f9ddca4f0cb7231bd0682d9900af863a13f"
+      "body_sha256": "1dc966b701574a792e2aea752fcd8f9ddca4f0cb7231bd0682d9900af863a13f",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6ce02079dcf66a092b98c",
+      "collection_title": "Home",
+      "navigation_title": "Home",
+      "collection_url": "/",
+      "collection_type": "page",
+      "collection_updated_on": "2026-04-03T07:47:18.242000-07:00",
+      "homepage_flag": true,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/cart": {
       "url": "https://www.frdiplomacy.org/cart",
@@ -2180,8 +2953,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/cart",
       "html_path": "raw/html/cart.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/cart.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2218,7 +2991,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "c641791baff772f45ef7f83d3f06940e79b260779911994cdd124d57ea1c6b33"
+      "body_sha256": "c641791baff772f45ef7f83d3f06940e79b260779911994cdd124d57ea1c6b33",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/cart?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/frd-method": {
       "url": "https://www.frdiplomacy.org/frd-method",
@@ -2240,8 +3022,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/frd-method",
       "html_path": "raw/html/frd-method.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/frd-method.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2279,7 +3061,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/frd-method?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/": {
       "url": "https://frdiplomacy.org/",
@@ -2390,8 +3181,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/home/",
       "html_path": "raw/html/home/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/home/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2462,7 +3253,24 @@
         "https://www.woolf.cam.ac.uk/research/projects/effectiveness-of-interfaith-initiatives",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "b7844d514ebed3426e9aad82dd4538e71a534c418011030771fc8d41381730ff"
+      "body_sha256": "b7844d514ebed3426e9aad82dd4538e71a534c418011030771fc8d41381730ff",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/home/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6ce02079dcf66a092b98c",
+      "collection_title": "Home",
+      "navigation_title": "Home",
+      "collection_url": "/",
+      "collection_type": "page",
+      "collection_updated_on": "2026-04-03T07:47:18.242000-07:00",
+      "homepage_flag": true,
+      "show_cart": false,
+      "json_main_text_chars": 0
     },
     "https://www.frdiplomacy.org/search": {
       "url": "https://www.frdiplomacy.org/search",
@@ -2484,8 +3292,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/search",
       "html_path": "raw/html/search.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/search.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2523,7 +3331,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "ae6ab80d4db208737ede8fd531ae3c01653f1d0470ac49d3502ce0a3a995b244"
+      "body_sha256": "ae6ab80d4db208737ede8fd531ae3c01653f1d0470ac49d3502ce0a3a995b244",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/search?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/method": {
       "url": "https://www.frdiplomacy.org/method",
@@ -2544,8 +3361,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/method",
       "html_path": "raw/html/method.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/method.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2584,7 +3401,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/method?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/the-frd-method": {
       "url": "https://www.frdiplomacy.org/the-frd-method",
@@ -2605,8 +3431,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/the-frd-method",
       "html_path": "raw/html/the-frd-method.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/the-frd-method.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2645,7 +3471,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/the-frd-method?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/checkout": {
       "url": "https://www.frdiplomacy.org/checkout",
@@ -2696,8 +3531,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/commerce",
       "html_path": "raw/html/commerce.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/commerce.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2736,7 +3571,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/commerce?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/store": {
       "url": "https://www.frdiplomacy.org/store",
@@ -2757,8 +3601,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/store",
       "html_path": "raw/html/store.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/store.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2797,7 +3641,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/store?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/shop": {
       "url": "https://www.frdiplomacy.org/shop",
@@ -2818,8 +3671,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/shop",
       "html_path": "raw/html/shop.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/shop.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2858,7 +3711,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/shop?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/products": {
       "url": "https://www.frdiplomacy.org/products",
@@ -2879,8 +3741,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/products",
       "html_path": "raw/html/products.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/products.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2919,7 +3781,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/products?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/donate": {
       "url": "https://www.frdiplomacy.org/donate",
@@ -2940,8 +3811,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/donate",
       "html_path": "raw/html/donate.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/donate.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -2980,7 +3851,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/donate?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/faq": {
       "url": "https://www.frdiplomacy.org/faq",
@@ -3001,8 +3881,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/faq",
       "html_path": "raw/html/faq.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/faq.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3041,7 +3921,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/faq?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/faqs": {
       "url": "https://www.frdiplomacy.org/faqs",
@@ -3062,8 +3951,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/faqs",
       "html_path": "raw/html/faqs.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/faqs.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3102,7 +3991,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/faqs?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/privacy": {
       "url": "https://www.frdiplomacy.org/privacy",
@@ -3123,8 +4021,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/privacy",
       "html_path": "raw/html/privacy.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/privacy.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3163,7 +4061,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/privacy?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/privacy-policy": {
       "url": "https://www.frdiplomacy.org/privacy-policy",
@@ -3184,8 +4091,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/privacy-policy",
       "html_path": "raw/html/privacy-policy.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/privacy-policy.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3224,7 +4131,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/privacy-policy?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/terms": {
       "url": "https://www.frdiplomacy.org/terms",
@@ -3245,8 +4161,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/terms",
       "html_path": "raw/html/terms.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/terms.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3285,7 +4201,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/terms?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/terms-of-service": {
       "url": "https://www.frdiplomacy.org/terms-of-service",
@@ -3306,8 +4231,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/terms-of-service",
       "html_path": "raw/html/terms-of-service.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/terms-of-service.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3346,7 +4271,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/terms-of-service?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/account": {
       "url": "https://www.frdiplomacy.org/account",
@@ -3367,15 +4301,24 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/account",
       "html_path": "raw/html/account.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/account.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Squarespace - Error",
       "asset_refs": [],
       "outbound_internal": [],
       "outbound_external": [],
-      "body_sha256": "af4de3819f125049c104ee4bd74afb4167637fcb1cbb6f249a26a07e8e91b6bc"
+      "body_sha256": "af4de3819f125049c104ee4bd74afb4167637fcb1cbb6f249a26a07e8e91b6bc",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/account?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/login": {
       "url": "https://www.frdiplomacy.org/login",
@@ -3396,8 +4339,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/login",
       "html_path": "raw/html/login.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/login.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3436,7 +4379,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/login?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/news": {
       "url": "https://www.frdiplomacy.org/news",
@@ -3457,8 +4409,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/news",
       "html_path": "raw/html/news.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/news.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3497,7 +4449,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/news?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/journal": {
       "url": "https://www.frdiplomacy.org/journal",
@@ -3518,8 +4479,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/journal",
       "html_path": "raw/html/journal.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/journal.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3558,7 +4519,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/journal?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/events": {
       "url": "https://www.frdiplomacy.org/events",
@@ -3579,8 +4549,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/events",
       "html_path": "raw/html/events.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/events.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3619,7 +4589,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/events?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/partners": {
       "url": "https://www.frdiplomacy.org/partners",
@@ -3640,8 +4619,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/partners",
       "html_path": "raw/html/partners.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/partners.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3680,7 +4659,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/partners?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/resources": {
       "url": "https://www.frdiplomacy.org/resources",
@@ -3701,8 +4689,8 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/resources",
       "html_path": "raw/html/resources.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/resources.json",
+      "json_status": 404,
       "error": null,
       "final_status": 404,
       "html_title": "Foundation for Religious Diplomacy",
@@ -3741,7 +4729,16 @@
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
       ],
-      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567"
+      "body_sha256": "56c67f6c1f38d1ade66be09673900cd1e54758fe4e8628d95ba8730cd5d2f567",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/resources?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/s/FAQs.pdf": {
       "url": "https://www.frdiplomacy.org/s/FAQs.pdf",
@@ -3869,11 +4866,51 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/",
       "html_path": "raw/html/blog/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "04e2bfda5d833d5fafad11c7d7f74fff8d8c00cd2d4951144b17cc680a09e656"
+      "body_sha256": "04e2bfda5d833d5fafad11c7d7f74fff8d8c00cd2d4951144b17cc680a09e656",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_item_count_returned": 12,
+      "json_item_count_reported": 15,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf",
+        "https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/",
+        "https://johnwmorehead.blogspot.com/search?q=Manti",
+        "https://outragedbook.com/",
+        "https://religionnews.com/2021/05/07/pagan-metaphysical-shops-navigate-threats-from-christian-critics/",
+        "https://vimeo.com/257502083",
+        "https://wildhunt.org/2025/02/concerns-over-targeting-of-pagan-community-in-pickens-sc.html?fbclid=IwY2xjawI_5WdleHRuA2FlbQIxMAABHcOxxmkuCYKffyFjylQodNN_SX7aj5RgoURhvPmtl7rYsCjjh9ELGcVq_Q_aem_zTLnHVooUY5-D3pEUX9kuw",
+        "https://wildhunt.org/2025/03/its-certainly-escalating-evangelical-group-targets-metaphysical-stores-with-coordinated-action.html",
+        "https://wipfandstock.com/9781666768411/evangelical-zen-second-edition/?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow",
+        "https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/",
+        "https://www.cbc.ca/news/canada/edmonton/counselling-mentorship-needed-to-help-people-leave-extremist-groups-former-neo-nazi-says-1.5113407",
+        "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html",
+        "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/",
+        "https://youtu.be/9Z-KIZKGyrA?si=gMEHMhmBCsfCZ5ct&t=120",
+        "https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5",
+        "https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0",
+        "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB",
+        "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b"
+      ]
     },
     "https://frdiplomacy.org/blog": {
       "url": "https://frdiplomacy.org/blog",
@@ -3984,11 +5021,58 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace/",
       "html_path": "raw/html/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "3a93a45e7d39eb1f166900f1623617ad89d99906b4103786c69f949ebc71e113"
+      "body_sha256": "3a93a45e7d39eb1f166900f1623617ad89d99906b4103786c69f949ebc71e113",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "6ab6daa71f6a3979109857a6",
+        "title": "Book Review: Aziz Abu Sarah and Maoz Inon – The Future is Peace",
+        "urlId": "book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
+        "fullUrl": "/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
+        "excerpt": null,
+        "publishOn": "2026-09-25T13:37:26.256000-07:00",
+        "updatedOn": "2026-09-25T13:37:26.584000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 14246,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 14246,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/"
+      ]
     },
     "https://frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace": {
       "url": "https://frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
@@ -4099,11 +5183,56 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences/",
       "html_path": "raw/html/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "a032185ff38b41494761dab03244109eab09fc6be0627551d8963ab2c12a1621"
+      "body_sha256": "a032185ff38b41494761dab03244109eab09fc6be0627551d8963ab2c12a1621",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "69e032cc5f3d2e75d69dd02c",
+        "title": "Announcing a New Collaboration with Brigham Young University to Advance Trust Amid Deep Differences",
+        "urlId": "announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
+        "fullUrl": "/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
+        "excerpt": null,
+        "publishOn": "2026-04-15T17:53:53.576000-07:00",
+        "updatedOn": "2026-04-15T17:53:54.128000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 3820,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 3820,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences": {
       "url": "https://frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
@@ -4214,11 +5343,58 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed/",
       "html_path": "raw/html/blog/leonard-swidler-has-passed/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/leonard-swidler-has-passed/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "f1cf71fc7742d5e999939d78fb077d97029a079152c03f6f62d2b577185a5208"
+      "body_sha256": "f1cf71fc7742d5e999939d78fb077d97029a079152c03f6f62d2b577185a5208",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "69c8180d05449f363356e405",
+        "title": "Leonard Swidler has passed",
+        "urlId": "leonard-swidler-has-passed",
+        "fullUrl": "/blog/leonard-swidler-has-passed",
+        "excerpt": null,
+        "publishOn": "2026-03-28T11:12:38.857000-07:00",
+        "updatedOn": "2026-03-28T11:12:39.310000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 7120,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 7120,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf"
+      ]
     },
     "https://frdiplomacy.org/blog/leonard-swidler-has-passed": {
       "url": "https://frdiplomacy.org/blog/leonard-swidler-has-passed",
@@ -4329,11 +5505,63 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement/",
       "html_path": "raw/html/blog/when-proclamation-is-really-identity-reinforcement/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/when-proclamation-is-really-identity-reinforcement/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "cd00d25f46d950a73b3ee3b570483910cf4a56a97895630b116da7d141e9e09e"
+      "body_sha256": "cd00d25f46d950a73b3ee3b570483910cf4a56a97895630b116da7d141e9e09e",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "67d3233cd6bd596617469eaa",
+        "title": "When Proclamation is Really Identity Reinforcement",
+        "urlId": "when-proclamation-is-really-identity-reinforcement",
+        "fullUrl": "/blog/when-proclamation-is-really-identity-reinforcement",
+        "excerpt": null,
+        "publishOn": "2025-03-13T12:08:29.268000-07:00",
+        "updatedOn": "2025-03-13T12:09:11.367000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 8862,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 8862,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://johnwmorehead.blogspot.com/search?q=Manti",
+        "https://religionnews.com/2021/05/07/pagan-metaphysical-shops-navigate-threats-from-christian-critics/",
+        "https://wildhunt.org/2025/02/concerns-over-targeting-of-pagan-community-in-pickens-sc.html?fbclid=IwY2xjawI_5WdleHRuA2FlbQIxMAABHcOxxmkuCYKffyFjylQodNN_SX7aj5RgoURhvPmtl7rYsCjjh9ELGcVq_Q_aem_zTLnHVooUY5-D3pEUX9kuw",
+        "https://wildhunt.org/2025/03/its-certainly-escalating-evangelical-group-targets-metaphysical-stores-with-coordinated-action.html",
+        "https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0",
+        "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b"
+      ]
     },
     "https://frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement": {
       "url": "https://frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement",
@@ -4444,11 +5672,60 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow/",
       "html_path": "raw/html/blog/outraged-by-kurt-gray-frd-senior-fellow/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/outraged-by-kurt-gray-frd-senior-fellow/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "1b9cd04fc61b2e5907672a1e78860ee4bfa107576643ea1e18bcc14d07ebd562"
+      "body_sha256": "1b9cd04fc61b2e5907672a1e78860ee4bfa107576643ea1e18bcc14d07ebd562",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "6797e64a6f1c7375ce2881aa",
+        "title": "OUTRAGED! by Kurt Gray, FRD senior fellow",
+        "urlId": "outraged-by-kurt-gray-frd-senior-fellow",
+        "fullUrl": "/blog/outraged-by-kurt-gray-frd-senior-fellow",
+        "excerpt": null,
+        "publishOn": "2025-01-27T12:14:46.057000-08:00",
+        "updatedOn": "2025-01-27T12:14:46.415000-08:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 4880,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 4880,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://outragedbook.com/",
+        "https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/",
+        "https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5"
+      ]
     },
     "https://frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow": {
       "url": "https://frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow",
@@ -4559,11 +5836,58 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition/",
       "html_path": "raw/html/blog/evangelical-zen-second-edition/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/evangelical-zen-second-edition/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "045a7eaaa132370cea7ebb2d0c64861e3a4289983e3b479c7ed29dc5b6bc4a7e"
+      "body_sha256": "045a7eaaa132370cea7ebb2d0c64861e3a4289983e3b479c7ed29dc5b6bc4a7e",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "674527d440a3a96640ca14dd",
+        "title": "Evangelical Zen, second edition",
+        "urlId": "evangelical-zen-second-edition",
+        "fullUrl": "/blog/evangelical-zen-second-edition",
+        "excerpt": null,
+        "publishOn": "2024-11-25T17:50:45.629000-08:00",
+        "updatedOn": "2025-01-27T12:01:48.491000-08:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 4154,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 4154,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://wipfandstock.com/9781666768411/evangelical-zen-second-edition/?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow"
+      ]
     },
     "https://frdiplomacy.org/blog/evangelical-zen-second-edition": {
       "url": "https://frdiplomacy.org/blog/evangelical-zen-second-edition",
@@ -4674,11 +5998,58 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn/",
       "html_path": "raw/html/blog/idl8whemo48ua7touxqjdx4n5ihvvn/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/idl8whemo48ua7touxqjdx4n5ihvvn/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "c237413c5ba7e8b251176d6a780fc5c615dd0d1717dfa79c494a8e02b8a458f1"
+      "body_sha256": "c237413c5ba7e8b251176d6a780fc5c615dd0d1717dfa79c494a8e02b8a458f1",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "6720256fa3a92e16014474cb",
+        "title": "PBS Frontline and “A Year of War”",
+        "urlId": "idl8whemo48ua7touxqjdx4n5ihvvn",
+        "fullUrl": "/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
+        "excerpt": "<p>I recently watched an edition of <em>PBS Frontline </em>titled “A Year of War: Israelis and Palestinians.” I went into the program expecting political analysis, but instead watched the gut-wrenching and graphic stories of Israelis who lost loved ones when Hamas attacked on October 7, 2023, and Palestinians who lost loved ones in the Israeli response in the bombing and devastation of Gaza.</p>",
+        "publishOn": "2024-10-28T17:05:26.595000-07:00",
+        "updatedOn": "2024-10-28T17:07:36.825000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 3457,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.0007613,
+          "markerLat": 40.7207559,
+          "markerLng": -74.0007613,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 3457,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/"
+      ]
     },
     "https://frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn": {
       "url": "https://frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
@@ -4789,11 +6160,56 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here/",
       "html_path": "raw/html/blog/2024/july-19-post-who-blogs-here/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-who-blogs-here/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "62cdf37dbb9181bddb11b30d65155edfa2618277070140d97a369a1349991fdd"
+      "body_sha256": "62cdf37dbb9181bddb11b30d65155edfa2618277070140d97a369a1349991fdd",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "669a988ea574940d094c9fd3",
+        "title": "Who Blogs Here?",
+        "urlId": "2024/july-19-post-who-blogs-here",
+        "fullUrl": "/blog/2024/july-19-post-who-blogs-here",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">For the most part the leadership team at FRD will blog here.  </p>",
+        "publishOn": "2024-10-27T14:23:34.227000-07:00",
+        "updatedOn": "2024-10-27T14:23:34.507000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 2846,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 2846,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-who-blogs-here": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-who-blogs-here",
@@ -4904,10 +6320,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/july-19-post-who-blogs-here",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/july-19-post-who-blogs-here.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/july-19-post-who-blogs-here?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-1/": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1/",
@@ -4928,11 +6353,56 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1/",
       "html_path": "raw/html/blog/2024/july-19-post-1/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-1/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "ed51d53d8e557f0617fc14eee519127380d02d38b633681a7e9d019a9d8fc794"
+      "body_sha256": "ed51d53d8e557f0617fc14eee519127380d02d38b633681a7e9d019a9d8fc794",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "65b6d151e8708d22bf7c2aee",
+        "title": "Welcome to Our First Blog!",
+        "urlId": "2024/july-19-post-1",
+        "fullUrl": "/blog/2024/july-19-post-1",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Welcome to the Blog!</p>",
+        "publishOn": "2024-10-27T14:23:10.076000-07:00",
+        "updatedOn": "2024-10-27T14:23:10.347000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 2600,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 2600,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-1": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-1",
@@ -5043,10 +6513,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/july-19-post-1",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/july-19-post-1.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/july-19-post-1?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists/": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists/",
@@ -5067,11 +6546,60 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists/",
       "html_path": "raw/html/blog/2024/july-19-post-what-about-extremists/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-what-about-extremists/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "f085d7eb6e17cfa3f4da581438da6fb99e3fc0a23b4246815ca7014fd6fb8b29"
+      "body_sha256": "f085d7eb6e17cfa3f4da581438da6fb99e3fc0a23b4246815ca7014fd6fb8b29",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "669a9af39b4b465795b8374e",
+        "title": "What About Extremists?",
+        "urlId": "2024/july-19-post-what-about-extremists",
+        "fullUrl": "/blog/2024/july-19-post-what-about-extremists",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">As we debate the best ways in which to address deep polarization people often have their limits for how far we should go, and which groups and individuals are beyond hope. One example is Nazis.</p>",
+        "publishOn": "2024-07-19T09:59:05.411000-07:00",
+        "updatedOn": "2024-10-27T14:09:30.029000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 4011,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 4011,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://www.cbc.ca/news/canada/edmonton/counselling-mentorship-needed-to-help-people-leave-extremist-groups-former-neo-nazi-says-1.5113407",
+        "https://youtu.be/9Z-KIZKGyrA?si=gMEHMhmBCsfCZ5ct&t=120",
+        "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB"
+      ]
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-what-about-extremists": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-what-about-extremists",
@@ -5182,10 +6710,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/july-19-post-what-about-extremists",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/july-19-post-what-about-extremists.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/july-19-post-what-about-extremists?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal/": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal/",
@@ -5206,11 +6743,59 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal/",
       "html_path": "raw/html/blog/2024/july-19-post-power-shared-meal/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-power-shared-meal/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "2ad43e442f60838cffa852ade8e89a622595d19b0b76336f1e97c40ad87904ea"
+      "body_sha256": "2ad43e442f60838cffa852ade8e89a622595d19b0b76336f1e97c40ad87904ea",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "669a99e304b03b42eeb55495",
+        "title": "The Power of a Shared Meal",
+        "urlId": "2024/july-19-post-power-shared-meal",
+        "fullUrl": "/blog/2024/july-19-post-power-shared-meal",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">There’s something incredible that happens when people sit down together and break bread. </p>",
+        "publishOn": "2024-07-19T09:56:32.089000-07:00",
+        "updatedOn": "2024-10-27T14:10:06.825000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 3888,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 3888,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": [
+        "https://vimeo.com/257502083",
+        "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html"
+      ]
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-power-shared-meal": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-power-shared-meal",
@@ -5321,10 +6906,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/july-19-post-power-shared-meal",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/july-19-post-power-shared-meal.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/july-19-post-power-shared-meal?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted/": {
       "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted/",
@@ -5345,11 +6939,56 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted/",
       "html_path": "raw/html/blog/2024/july-19-post-friendship-and-trusted/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/2024/july-19-post-friendship-and-trusted/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "6c8cb214c16fdcab2f8be44407a9061e879c0a713eb9a7a1a6431840f600df4d"
+      "body_sha256": "6c8cb214c16fdcab2f8be44407a9061e879c0a713eb9a7a1a6431840f600df4d",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "blog_item": {
+        "id": "669a99446f13e734f6058ec1",
+        "title": "Friendship and Trusted Rivals",
+        "urlId": "2024/july-19-post-friendship-and-trusted",
+        "fullUrl": "/blog/2024/july-19-post-friendship-and-trusted",
+        "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">One of the big ideas of religious diplomacy is that we must move beyond suspicion and contempt regarding those we strongly disagree with in the area of values, worldviews, politics, and religion.</p>",
+        "publishOn": "2024-07-19T09:52:33.628000-07:00",
+        "updatedOn": "2024-10-27T14:10:36.987000-07:00",
+        "author": "John Morehead",
+        "workflowState": 1,
+        "body_chars": 6329,
+        "tags": [],
+        "categories": [],
+        "location": {
+          "mapZoom": 12.0,
+          "mapLat": 40.7207559,
+          "mapLng": -74.00076130000002,
+          "markerLat": 40.7207559,
+          "markerLng": -74.00076130000002,
+          "addressTitle": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "addressCountry": ""
+        }
+      },
+      "json_body_chars": 6329,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted": {
       "url": "https://frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted",
@@ -5460,10 +7099,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/blog/july-19-post-friendship-and-trusted",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog/july-19-post-friendship-and-trusted.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog/july-19-post-friendship-and-trusted?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/home": {
       "url": "https://frdiplomacy.org/home",
@@ -5574,11 +7222,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/frd-services/",
       "html_path": "raw/html/frd-services/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/frd-services/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "88f292195295d5c5453ede325b92e00528f739dc06d62accf56b83556ae6b6b4"
+      "body_sha256": "88f292195295d5c5453ede325b92e00528f739dc06d62accf56b83556ae6b6b4",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/frd-services/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d10a1878582ed1cf04b6",
+      "collection_title": "Services",
+      "navigation_title": "Services",
+      "collection_url": "/frd-services",
+      "collection_type": "page",
+      "collection_updated_on": "2026-05-09T10:19:39.974000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/frd-services": {
       "url": "https://frdiplomacy.org/frd-services",
@@ -5689,11 +7357,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/about/",
       "html_path": "raw/html/about/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/about/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "4d93c98494d4c2d3503d7a91eb96fb8d460b9ec4718aba95c553797f6280f909"
+      "body_sha256": "4d93c98494d4c2d3503d7a91eb96fb8d460b9ec4718aba95c553797f6280f909",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/about/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d12c92423e713bc40d03",
+      "collection_title": "About Us",
+      "navigation_title": "About Us",
+      "collection_url": "/about",
+      "collection_type": "page",
+      "collection_updated_on": "2025-10-06T17:40:41.734000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/about": {
       "url": "https://frdiplomacy.org/about",
@@ -5804,11 +7492,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/practicing-diplomacy/",
       "html_path": "raw/html/practicing-diplomacy/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/practicing-diplomacy/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "33227bfdc58bd020b28454bfe829da15cf7b92f5be1122512b29c3cddd39a79f"
+      "body_sha256": "33227bfdc58bd020b28454bfe829da15cf7b92f5be1122512b29c3cddd39a79f",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/practicing-diplomacy/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d147bd1516572167ecdc",
+      "collection_title": "Practicing Diplomacy",
+      "navigation_title": "Practicing Diplomacy",
+      "collection_url": "/practicing-diplomacy",
+      "collection_type": "page",
+      "collection_updated_on": "2025-08-09T18:44:02.015000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/practicing-diplomacy": {
       "url": "https://frdiplomacy.org/practicing-diplomacy",
@@ -5919,11 +7627,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/contact/",
       "html_path": "raw/html/contact/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/contact/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "9cb47eb25315c70959e86cc8bf150a5b8c10b11d57b03fc50f644df071358274"
+      "body_sha256": "9cb47eb25315c70959e86cc8bf150a5b8c10b11d57b03fc50f644df071358274",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/contact/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "6606333754ce2c5c319046be",
+      "collection_title": "Contact",
+      "navigation_title": "Contact",
+      "collection_url": "/contact",
+      "collection_type": "page",
+      "collection_updated_on": "2024-10-16T19:12:11.508000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/contact": {
       "url": "https://frdiplomacy.org/contact",
@@ -6034,11 +7762,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/team/",
       "html_path": "raw/html/team/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/team/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "5d82953c01dc34476d3bd08732f97d064b1ad75615705ae9e1553e66852c8064"
+      "body_sha256": "5d82953c01dc34476d3bd08732f97d064b1ad75615705ae9e1553e66852c8064",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/team/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "6606481854ce2c5c3193dc7d",
+      "collection_title": "Meet the Team",
+      "navigation_title": "Team",
+      "collection_url": "/team",
+      "collection_type": "page",
+      "collection_updated_on": "2025-06-25T18:51:09.180000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "http://www.frdiplomacy.org/team": {
       "url": "http://www.frdiplomacy.org/team",
@@ -6119,11 +7867,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/senior-fellows/",
       "html_path": "raw/html/senior-fellows/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/senior-fellows/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "1ec7fbf6500d50f18d8e9e81a45553c609c6db1e96661656bf9c71cd7befae7b"
+      "body_sha256": "1ec7fbf6500d50f18d8e9e81a45553c609c6db1e96661656bf9c71cd7befae7b",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/senior-fellows/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66064e67f97fa37d84b7d22b",
+      "collection_title": "Senior Fellows",
+      "navigation_title": "Senior Fellows",
+      "collection_url": "/senior-fellows",
+      "collection_type": "page",
+      "collection_updated_on": "2025-09-15T18:31:29.294000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "http://www.frdiplomacy.org/senior-fellows": {
       "url": "http://www.frdiplomacy.org/senior-fellows",
@@ -6204,11 +7972,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/lds-chapter/",
       "html_path": "raw/html/lds-chapter/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/lds-chapter/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "16e91fa6a8239f99d6013f3f425a47f3e97a47ac465e51ed4107473f5377ecac"
+      "body_sha256": "16e91fa6a8239f99d6013f3f425a47f3e97a47ac465e51ed4107473f5377ecac",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/lds-chapter/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fac4a549bf0c66f68ef807",
+      "collection_title": "LDS",
+      "navigation_title": "Latter Day Saints Chapter",
+      "collection_url": "/lds-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2025-05-24T11:06:01.975000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/lds-chapter": {
       "url": "https://frdiplomacy.org/lds-chapter",
@@ -6319,11 +8107,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/evangelical-chapter/",
       "html_path": "raw/html/evangelical-chapter/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/evangelical-chapter/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "49d605c8b33a1e1ae08f2128fd1b4de49955112b3d2ebab6582fe28f0612ec48"
+      "body_sha256": "49d605c8b33a1e1ae08f2128fd1b4de49955112b3d2ebab6582fe28f0612ec48",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/evangelical-chapter/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fac6da33fd6070fa79924f",
+      "collection_title": "Evangelical Chapter",
+      "navigation_title": "Evangelical Chapter",
+      "collection_url": "/evangelical-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2024-09-30T17:36:48.487000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/evangelical-chapter": {
       "url": "https://frdiplomacy.org/evangelical-chapter",
@@ -6434,11 +8242,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/nones-chapter/",
       "html_path": "raw/html/nones-chapter/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/nones-chapter/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "d0dbc03ae92870840a465405448439884ce9a8c16096c4cc6eba517816055fae"
+      "body_sha256": "d0dbc03ae92870840a465405448439884ce9a8c16096c4cc6eba517816055fae",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/nones-chapter/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fb386d1059b7296f53d8aa",
+      "collection_title": "Nones Chapter",
+      "navigation_title": "Nones Chapter",
+      "collection_url": "/nones-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2024-10-01T16:34:00.200000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/nones-chapter": {
       "url": "https://frdiplomacy.org/nones-chapter",
@@ -6549,11 +8377,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/pagan-chapter/",
       "html_path": "raw/html/pagan-chapter/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/pagan-chapter/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "5e37d046b3c57950a73c7bd68d09aa4d0a8a57b1ff0c08014f9f5756cae24f45"
+      "body_sha256": "5e37d046b3c57950a73c7bd68d09aa4d0a8a57b1ff0c08014f9f5756cae24f45",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/pagan-chapter/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fb395c7fcf1457546aa6c2",
+      "collection_title": "Pagan Chapter",
+      "navigation_title": "Pagan Chapter",
+      "collection_url": "/pagan-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2024-10-01T07:19:16.073000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/pagan-chapter": {
       "url": "https://frdiplomacy.org/pagan-chapter",
@@ -6664,11 +8512,31 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/sunni-chapter/",
       "html_path": "raw/html/sunni-chapter/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/sunni-chapter/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "ecd8ef0ab1f2f865caf7e024a2f1e8a71dac08a1f96066b8501af10cf7024e6f"
+      "body_sha256": "ecd8ef0ab1f2f865caf7e024a2f1e8a71dac08a1f96066b8501af10cf7024e6f",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/sunni-chapter/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "66fb3e27520b9016454f2e95",
+      "collection_title": "Sunni Muslim Chapter",
+      "navigation_title": "Sunni Muslim Chapter",
+      "collection_url": "/sunni-chapter",
+      "collection_type": "page",
+      "collection_updated_on": "2024-10-01T07:17:52.831000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "json_main_text_chars": 0,
+      "asset_refs": [],
+      "outbound_internal": [],
+      "outbound_external": []
     },
     "https://frdiplomacy.org/sunni-chapter": {
       "url": "https://frdiplomacy.org/sunni-chapter",
@@ -6779,11 +8647,20 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/cart/",
       "html_path": "raw/html/cart/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/cart/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "63adc007545b7c3800e3760c470004e75eb0df225222bfb0382bdcdcc02b8cdf"
+      "body_sha256": "63adc007545b7c3800e3760c470004e75eb0df225222bfb0382bdcdcc02b8cdf",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/cart/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/cart": {
       "url": "https://frdiplomacy.org/cart",
@@ -6894,10 +8771,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/frd-method/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/frd-method/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/frd-method/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/frd-method": {
       "url": "https://frdiplomacy.org/frd-method",
@@ -7098,11 +8984,20 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/search/",
       "html_path": "raw/html/search/index.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/search/index.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
-      "body_sha256": "1415c4a4566e1c693c8c575f65dfbbdc22bac6f7d89f9c6bf14f1a6cd501b300"
+      "body_sha256": "1415c4a4566e1c693c8c575f65dfbbdc22bac6f7d89f9c6bf14f1a6cd501b300",
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/search/?format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/search": {
       "url": "https://frdiplomacy.org/search",
@@ -7213,10 +9108,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/method/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/method/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/method/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/method": {
       "url": "https://frdiplomacy.org/method",
@@ -7327,10 +9231,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/the-frd-method/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/the-frd-method/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/the-frd-method/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/the-frd-method": {
       "url": "https://frdiplomacy.org/the-frd-method",
@@ -7585,10 +9498,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/commerce/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/commerce/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/commerce/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/commerce": {
       "url": "https://frdiplomacy.org/commerce",
@@ -7699,10 +9621,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/store/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/store/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/store/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/store": {
       "url": "https://frdiplomacy.org/store",
@@ -7813,10 +9744,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/shop/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/shop/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/shop/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/shop": {
       "url": "https://frdiplomacy.org/shop",
@@ -7927,10 +9867,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/products/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/products/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/products/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/products": {
       "url": "https://frdiplomacy.org/products",
@@ -8041,10 +9990,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/donate/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/donate/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/donate/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/donate": {
       "url": "https://frdiplomacy.org/donate",
@@ -8155,10 +10113,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/faq/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/faq/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/faq/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/faq": {
       "url": "https://frdiplomacy.org/faq",
@@ -8269,10 +10236,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/faqs/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/faqs/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/faqs/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/faqs": {
       "url": "https://frdiplomacy.org/faqs",
@@ -8383,10 +10359,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/privacy/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/privacy/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/privacy/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/privacy": {
       "url": "https://frdiplomacy.org/privacy",
@@ -8497,10 +10482,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/privacy-policy/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/privacy-policy/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/privacy-policy/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/privacy-policy": {
       "url": "https://frdiplomacy.org/privacy-policy",
@@ -8611,10 +10605,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/terms/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/terms/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/terms/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/terms": {
       "url": "https://frdiplomacy.org/terms",
@@ -8725,10 +10728,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/terms-of-service/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/terms-of-service/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/terms-of-service/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/terms-of-service": {
       "url": "https://frdiplomacy.org/terms-of-service",
@@ -8839,10 +10851,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/account/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/account/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/account/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/account": {
       "url": "https://frdiplomacy.org/account",
@@ -8953,10 +10974,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/login/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/login/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/login/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/login": {
       "url": "https://frdiplomacy.org/login",
@@ -9067,10 +11097,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/news/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/news/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/news/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/news": {
       "url": "https://frdiplomacy.org/news",
@@ -9181,10 +11220,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/journal/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/journal/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/journal/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/journal": {
       "url": "https://frdiplomacy.org/journal",
@@ -9295,10 +11343,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/events/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/events/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/events/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/events": {
       "url": "https://frdiplomacy.org/events",
@@ -9409,10 +11466,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/partners/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/partners/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/partners/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/partners": {
       "url": "https://frdiplomacy.org/partners",
@@ -9523,10 +11589,19 @@
       "content_type": "text/html;charset=utf-8",
       "final_url": "https://www.frdiplomacy.org/resources/",
       "html_path": null,
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/resources/index.json",
+      "json_status": 404,
       "error": null,
-      "final_status": 404
+      "final_status": 404,
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/resources/?format=json-pretty",
+          "status": 404,
+          "location": null
+        }
+      ],
+      "json_ok": false,
+      "json_error": "not json: Expecting value: line 1 column 1 (char 0)"
     },
     "https://frdiplomacy.org/resources": {
       "url": "https://frdiplomacy.org/resources",
@@ -9621,24 +11696,25 @@
     "https://www.frdiplomacy.org/blog?offset=12": {
       "url": "https://www.frdiplomacy.org/blog?offset=12",
       "sources": [
-        "crawl"
+        "crawl",
+        "blog-collection"
       ],
       "in_sitemap_xml": false,
       "lastmod": null,
       "redirect_chain": [
         {
-          "url": "https://www.frdiplomacy.org/blog?offset=12",
+          "url": "https://www.frdiplomacy.org/blog?offset=12&format=json-pretty",
           "status": 200,
           "location": null,
           "error": null
         }
       ],
       "http_status": 200,
-      "content_type": "text/html;charset=utf-8",
-      "final_url": "https://www.frdiplomacy.org/blog?offset=12",
+      "content_type": "application/json;charset=utf-8",
+      "final_url": "https://www.frdiplomacy.org/blog?offset=12&format=json-pretty",
       "html_path": "raw/html/blog--offset-12.html",
-      "json_path": null,
-      "json_status": null,
+      "json_path": "raw/json/blog--offset-12.json",
+      "json_status": 200,
       "error": null,
       "final_status": 200,
       "body_sha256": "1f23710e424965d480ee141424477c436a0023729b6f84bcc45a824b47910bce",
@@ -9671,7 +11747,24 @@
         "https://www.facebook.com/profile.php?id=100070105651644",
         "https://www.instagram.com/frdiplomacy/",
         "https://www.youtube.com/@foundationforreligiousdipl4729"
-      ]
+      ],
+      "json_redirect_chain": [
+        {
+          "url": "https://www.frdiplomacy.org/blog?offset=12&format=json-pretty",
+          "status": 200,
+          "location": null
+        }
+      ],
+      "json_ok": true,
+      "collection_id": "65b6d151e8708d22bf7c2ae1",
+      "collection_title": "Blog",
+      "navigation_title": "Blog",
+      "collection_url": "/blog",
+      "collection_type": "blog-basic-grid",
+      "collection_updated_on": "2026-09-25T13:37:26.599000-07:00",
+      "homepage_flag": false,
+      "show_cart": false,
+      "kind": "feed"
     }
   },
   "header_nav": [
@@ -9740,8 +11833,323 @@
       "href": "https://www.youtube.com/@foundationforreligiousdipl4729"
     }
   ],
-  "blog_items": [],
-  "notes": [],
+  "blog_items": [
+    {
+      "id": "6ab6daa71f6a3979109857a6",
+      "title": "Book Review: Aziz Abu Sarah and Maoz Inon – The Future is Peace",
+      "urlId": "book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
+      "fullUrl": "/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace",
+      "excerpt": null,
+      "publishOn": "2026-09-25T13:37:26.256000-07:00",
+      "updatedOn": "2026-09-25T13:37:26.584000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 14246,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/book-review-aziz-abu-sarah-and-maoz-inon-the-future-is-peace"
+    },
+    {
+      "id": "69e032cc5f3d2e75d69dd02c",
+      "title": "Announcing a New Collaboration with Brigham Young University to Advance Trust Amid Deep Differences",
+      "urlId": "announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
+      "fullUrl": "/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences",
+      "excerpt": null,
+      "publishOn": "2026-04-15T17:53:53.576000-07:00",
+      "updatedOn": "2026-04-15T17:53:54.128000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 3820,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/announcing-a-new-collaboration-with-brigham-young-university-to-advance-trust-amid-deep-differences"
+    },
+    {
+      "id": "69c8180d05449f363356e405",
+      "title": "Leonard Swidler has passed",
+      "urlId": "leonard-swidler-has-passed",
+      "fullUrl": "/blog/leonard-swidler-has-passed",
+      "excerpt": null,
+      "publishOn": "2026-03-28T11:12:38.857000-07:00",
+      "updatedOn": "2026-03-28T11:12:39.310000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 7120,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/leonard-swidler-has-passed"
+    },
+    {
+      "id": "67d3233cd6bd596617469eaa",
+      "title": "When Proclamation is Really Identity Reinforcement",
+      "urlId": "when-proclamation-is-really-identity-reinforcement",
+      "fullUrl": "/blog/when-proclamation-is-really-identity-reinforcement",
+      "excerpt": null,
+      "publishOn": "2025-03-13T12:08:29.268000-07:00",
+      "updatedOn": "2025-03-13T12:09:11.367000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 8862,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/when-proclamation-is-really-identity-reinforcement"
+    },
+    {
+      "id": "6797e64a6f1c7375ce2881aa",
+      "title": "OUTRAGED! by Kurt Gray, FRD senior fellow",
+      "urlId": "outraged-by-kurt-gray-frd-senior-fellow",
+      "fullUrl": "/blog/outraged-by-kurt-gray-frd-senior-fellow",
+      "excerpt": null,
+      "publishOn": "2025-01-27T12:14:46.057000-08:00",
+      "updatedOn": "2025-01-27T12:14:46.415000-08:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 4880,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/outraged-by-kurt-gray-frd-senior-fellow"
+    },
+    {
+      "id": "674527d440a3a96640ca14dd",
+      "title": "Evangelical Zen, second edition",
+      "urlId": "evangelical-zen-second-edition",
+      "fullUrl": "/blog/evangelical-zen-second-edition",
+      "excerpt": null,
+      "publishOn": "2024-11-25T17:50:45.629000-08:00",
+      "updatedOn": "2025-01-27T12:01:48.491000-08:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 4154,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/evangelical-zen-second-edition"
+    },
+    {
+      "id": "6720256fa3a92e16014474cb",
+      "title": "PBS Frontline and “A Year of War”",
+      "urlId": "idl8whemo48ua7touxqjdx4n5ihvvn",
+      "fullUrl": "/blog/idl8whemo48ua7touxqjdx4n5ihvvn",
+      "excerpt": "<p>I recently watched an edition of <em>PBS Frontline </em>titled “A Year of War: Israelis and Palestinians.” I went into the program expecting political analysis, but instead watched the gut-wrenching and graphic stories of Israelis who lost loved ones when Hamas attacked on October 7, 2023, and Palestinians who lost loved ones in the Israeli response in the bombing and devastation of Gaza.</p>",
+      "publishOn": "2024-10-28T17:05:26.595000-07:00",
+      "updatedOn": "2024-10-28T17:07:36.825000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 3457,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.0007613,
+        "markerLat": 40.7207559,
+        "markerLng": -74.0007613,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/idl8whemo48ua7touxqjdx4n5ihvvn"
+    },
+    {
+      "id": "669a988ea574940d094c9fd3",
+      "title": "Who Blogs Here?",
+      "urlId": "2024/july-19-post-who-blogs-here",
+      "fullUrl": "/blog/2024/july-19-post-who-blogs-here",
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">For the most part the leadership team at FRD will blog here.  </p>",
+      "publishOn": "2024-10-27T14:23:34.227000-07:00",
+      "updatedOn": "2024-10-27T14:23:34.507000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 2846,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-who-blogs-here"
+    },
+    {
+      "id": "65b6d151e8708d22bf7c2aee",
+      "title": "Welcome to Our First Blog!",
+      "urlId": "2024/july-19-post-1",
+      "fullUrl": "/blog/2024/july-19-post-1",
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">Welcome to the Blog!</p>",
+      "publishOn": "2024-10-27T14:23:10.076000-07:00",
+      "updatedOn": "2024-10-27T14:23:10.347000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 2600,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-1"
+    },
+    {
+      "id": "669a9af39b4b465795b8374e",
+      "title": "What About Extremists?",
+      "urlId": "2024/july-19-post-what-about-extremists",
+      "fullUrl": "/blog/2024/july-19-post-what-about-extremists",
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">As we debate the best ways in which to address deep polarization people often have their limits for how far we should go, and which groups and individuals are beyond hope. One example is Nazis.</p>",
+      "publishOn": "2024-07-19T09:59:05.411000-07:00",
+      "updatedOn": "2024-10-27T14:09:30.029000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 4011,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-what-about-extremists"
+    },
+    {
+      "id": "669a99e304b03b42eeb55495",
+      "title": "The Power of a Shared Meal",
+      "urlId": "2024/july-19-post-power-shared-meal",
+      "fullUrl": "/blog/2024/july-19-post-power-shared-meal",
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">There’s something incredible that happens when people sit down together and break bread. </p>",
+      "publishOn": "2024-07-19T09:56:32.089000-07:00",
+      "updatedOn": "2024-10-27T14:10:06.825000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 3888,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-power-shared-meal"
+    },
+    {
+      "id": "669a99446f13e734f6058ec1",
+      "title": "Friendship and Trusted Rivals",
+      "urlId": "2024/july-19-post-friendship-and-trusted",
+      "fullUrl": "/blog/2024/july-19-post-friendship-and-trusted",
+      "excerpt": "<p class=\"\" style=\"white-space:pre-wrap;\">One of the big ideas of religious diplomacy is that we must move beyond suspicion and contempt regarding those we strongly disagree with in the area of values, worldviews, politics, and religion.</p>",
+      "publishOn": "2024-07-19T09:52:33.628000-07:00",
+      "updatedOn": "2024-10-27T14:10:36.987000-07:00",
+      "author": "John Morehead",
+      "workflowState": 1,
+      "body_chars": 6329,
+      "tags": [],
+      "categories": [],
+      "location": {
+        "mapZoom": 12.0,
+        "mapLat": 40.7207559,
+        "mapLng": -74.00076130000002,
+        "markerLat": 40.7207559,
+        "markerLng": -74.00076130000002,
+        "addressTitle": "",
+        "addressLine1": "",
+        "addressLine2": "",
+        "addressCountry": ""
+      },
+      "url": "https://www.frdiplomacy.org/blog/2024/july-19-post-friendship-and-trusted"
+    }
+  ],
+  "notes": [
+    "Blog offset 12 returned no items. Collection itemCount is 15; public items returned on the first page: 12."
+  ],
   "sitemap_count": 25,
   "sitemap_redirect_chain": [
     {
@@ -9756,5 +12164,5 @@
     }
   ],
   "nav_source_url": "https://www.frdiplomacy.org/",
-  "updated_at": "2026-10-13T18:27:12.347459+00:00"
+  "updated_at": "2026-10-13T18:29:42.712991+00:00"
 }
