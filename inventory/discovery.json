@@ -12792,7 +12792,7 @@
     }
   ],
   "nav_source_url": "https://www.frdiplomacy.org/",
-  "updated_at": "2026-10-13T18:38:29.361159+00:00",
+  "updated_at": "2026-10-13T18:44:08.570691+00:00",
   "firecrawl_authenticated": true,
   "asset_records": [
     {
@@ -13490,5 +13490,1448 @@
     "https://www.frdiplomacy.org/s/FAQs.pdf": "assets/FAQs.pdf",
     "https://www.frdiplomacy.org/s/FRD-Commitment-to-Ethical-Persuasion.pdf": "assets/FRD-Commitment-to-Ethical-Persuasion.pdf",
     "https://www.frdiplomacy.org/s/Guide-for-Developing-Religious-Diplomacy-Chapters-52t2.pdf": "assets/Guide-for-Developing-Religious-Diplomacy-Chapters-52t2.pdf"
+  },
+  "external_status": {
+    "http://b.sc/": {
+      "status": 0,
+      "final_url": "https://b.sc/",
+      "error": "curl: (35) LibreSSL/3.3.6: error:1404B42E:SSL routines:ST_CONNECT:tlsv1 alert protocol version",
+      "chain": [
+        {
+          "url": "http://b.sc/",
+          "status": 301,
+          "location": "https://b.sc/"
+        },
+        {
+          "url": "https://b.sc/",
+          "status": 0,
+          "location": null
+        }
+      ]
+    },
+    "http://m.sc/": {
+      "status": 403,
+      "final_url": "https://sedo.com/search/details/?domain=m.sc&campaignId=329145&origin=sales_lander_15",
+      "error": null,
+      "chain": [
+        {
+          "url": "http://m.sc/",
+          "status": 301,
+          "location": "https://sedo.com/search/details/?domain=m.sc&campaignId=329145&origin=sales_lander_15"
+        },
+        {
+          "url": "https://sedo.com/search/details/?domain=m.sc&campaignId=329145&origin=sales_lander_15",
+          "status": 403,
+          "location": null
+        }
+      ]
+    },
+    "http://www.wasatiamovement.com/": {
+      "status": 0,
+      "final_url": "http://www.wasatiamovement.com/",
+      "error": "curl: (52) Empty reply from server",
+      "chain": [
+        {
+          "url": "http://www.wasatiamovement.com/",
+          "status": 0,
+          "location": null
+        }
+      ]
+    },
+    "https://baskervilleinstitute.org/": {
+      "status": 200,
+      "final_url": "https://baskervilleinstitute.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://baskervilleinstitute.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://braverangels.org/": {
+      "status": 200,
+      "final_url": "https://braverangels.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://braverangels.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf": {
+      "status": 200,
+      "final_url": "https://static1.squarespace.com/static/5464ade0e4b055bfb204446e/t/5c6eff080d9297feece59829/1763567022966/DIALOGUE-DECALOGUE%2BEDITED%2BWITH%2BSKIT%2B%26%2BAIR%2B5-5-18.pdf",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://dialogueinstitute.org/s/DIALOGUE-DECALOGUEEDITEDWITHSKITAIR5-5-18.pdf",
+          "status": 302,
+          "location": "https://static1.squarespace.com/static/5464ade0e4b055bfb204446e/t/5c6eff080d9297feece59829/1763567022966/DIALOGUE-DECALOGUE%2BEDITED%2BWITH%2BSKIT%2B%26%2BAIR%2B5-5-18.pdf"
+        },
+        {
+          "url": "https://static1.squarespace.com/static/5464ade0e4b055bfb204446e/t/5c6eff080d9297feece59829/1763567022966/DIALOGUE-DECALOGUE%2BEDITED%2BWITH%2BSKIT%2B%26%2BAIR%2B5-5-18.pdf",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://donorbox.org/trust-between-rivals-1": {
+      "status": 200,
+      "final_url": "https://donorbox.org/trust-between-rivals-1",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://donorbox.org/trust-between-rivals-1",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/": {
+      "status": 200,
+      "final_url": "https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://englewoodreview.org/aziz-abu-sarah-and-maoz-inon-the-future-is-peace-feature-review/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://file.squarespace-cdn.com/": {
+      "status": 200,
+      "final_url": "https://file.squarespace-cdn.com/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://file.squarespace-cdn.com/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://ibnrushd.org/": {
+      "status": 200,
+      "final_url": "https://ibnrushd.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://ibnrushd.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://interfaith-encounter.org/en/": {
+      "status": 200,
+      "final_url": "https://interfaith-encounter.org/en/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://interfaith-encounter.org/en/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://interfaith-encounter.org/en/our-activity/": {
+      "status": 200,
+      "final_url": "https://interfaith-encounter.org/en/our-activity/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://interfaith-encounter.org/en/our-activity/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://johnwmorehead.blogspot.com/search?q=Manti": {
+      "status": 200,
+      "final_url": "https://johnwmorehead.blogspot.com/search?q=Manti",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://johnwmorehead.blogspot.com/search?q=Manti",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://multifaithmatters.org/": {
+      "status": 200,
+      "final_url": "https://www.multifaithmatters.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://multifaithmatters.org/",
+          "status": 301,
+          "location": "https://www.multifaithmatters.org/"
+        },
+        {
+          "url": "https://www.multifaithmatters.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Connecting-Christ-Discuss-Jesus-Diverse/dp/0849947243/ref=sr_1_1?ie=UTF8&qid=1440120526&sr=8-1&keywords=Connecting+Christ%25253A+How+to+Discuss+Jesus+in+a+World+of+Diverse+Paths&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=3MAh3tL65SRIL1yK8U5DC0ZcmnTBKYdfzjCdtj41xhg=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Connecting-Christ-Discuss-Jesus-Diverse/dp/0849947243/ref=sr_1_1?ie=UTF8&qid=1440120526&sr=8-1&keywords=Connecting+Christ%25253A+How+to+Discuss+Jesus+in+a+World+of+Diverse+Paths&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=3MAh3tL65SRIL1yK8U5DC0ZcmnTBKYdfzjCdtj41xhg=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Connecting-Christ-Discuss-Jesus-Diverse/dp/0849947243/ref=sr_1_1?ie=UTF8&qid=1440120526&sr=8-1&keywords=Connecting+Christ%25253A+How+to+Discuss+Jesus+in+a+World+of+Diverse+Paths&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=3MAh3tL65SRIL1yK8U5DC0ZcmnTBKYdfzjCdtj41xhg=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Consuming-Jesus-Beyond-Divisions-Consumer/dp/0802830684/ref=sr_1_1?ie=UTF8&qid=1440120676&sr=8-1&keywords=Consuming+Jesus%25253A+Beyond+Race+and+Class+Divisions+in+a+Consumer+Church&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=Cgc0wbscYwZVlBFrlsA8QLgmWZjOGqSBexVvc3eEteQ=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Consuming-Jesus-Beyond-Divisions-Consumer/dp/0802830684/ref=sr_1_1?ie=UTF8&qid=1440120676&sr=8-1&keywords=Consuming+Jesus%25253A+Beyond+Race+and+Class+Divisions+in+a+Consumer+Church&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=Cgc0wbscYwZVlBFrlsA8QLgmWZjOGqSBexVvc3eEteQ=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Consuming-Jesus-Beyond-Divisions-Consumer/dp/0802830684/ref=sr_1_1?ie=UTF8&qid=1440120676&sr=8-1&keywords=Consuming+Jesus%25253A+Beyond+Race+and+Class+Divisions+in+a+Consumer+Church&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=Cgc0wbscYwZVlBFrlsA8QLgmWZjOGqSBexVvc3eEteQ=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Exploring-Ecclesiology-Evangelical-Ecumenical-Introduction/dp/1587431734/ref=sr_1_1?ie=UTF8&qid=1440120648&sr=8-1&keywords=exploring+ecclesiology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=JPCG0v4brJU3k8Bp9ez12zL6zC5q7od4FawVndJhDqM=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Exploring-Ecclesiology-Evangelical-Ecumenical-Introduction/dp/1587431734/ref=sr_1_1?ie=UTF8&qid=1440120648&sr=8-1&keywords=exploring+ecclesiology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=JPCG0v4brJU3k8Bp9ez12zL6zC5q7od4FawVndJhDqM=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Exploring-Ecclesiology-Evangelical-Ecumenical-Introduction/dp/1587431734/ref=sr_1_1?ie=UTF8&qid=1440120648&sr=8-1&keywords=exploring+ecclesiology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=JPCG0v4brJU3k8Bp9ez12zL6zC5q7od4FawVndJhDqM=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Gospel-John-When-Comes-Resonate/dp/0830836411/ref=sr_1_1?ie=UTF8&qid=1440120609&sr=8-1&keywords=gospel+of+john+when+love+comes+to+town&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=hgJ1VcdTm1khvgb9LTfvFYUBRxp6kjhW9mVxMGGLB60=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Gospel-John-When-Comes-Resonate/dp/0830836411/ref=sr_1_1?ie=UTF8&qid=1440120609&sr=8-1&keywords=gospel+of+john+when+love+comes+to+town&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=hgJ1VcdTm1khvgb9LTfvFYUBRxp6kjhW9mVxMGGLB60=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Gospel-John-When-Comes-Resonate/dp/0830836411/ref=sr_1_1?ie=UTF8&qid=1440120609&sr=8-1&keywords=gospel+of+john+when+love+comes+to+town&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=hgJ1VcdTm1khvgb9LTfvFYUBRxp6kjhW9mVxMGGLB60=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/New-Wine-Tastings-Theological-Engagement/dp/1606085387/ref=sr_1_3?ie=UTF8&qid=1440120570&sr=8-3&keywords=new+wine+tastings&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=ghsoNscMG3g7C64jGO1dyGL6eJMGYSPvkuqj/aJx9eU=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/New-Wine-Tastings-Theological-Engagement/dp/1606085387/ref=sr_1_3?ie=UTF8&qid=1440120570&sr=8-3&keywords=new+wine+tastings&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=ghsoNscMG3g7C64jGO1dyGL6eJMGYSPvkuqj/aJx9eU=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/New-Wine-Tastings-Theological-Engagement/dp/1606085387/ref=sr_1_3?ie=UTF8&qid=1440120570&sr=8-3&keywords=new+wine+tastings&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=ghsoNscMG3g7C64jGO1dyGL6eJMGYSPvkuqj/aJx9eU=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Trinitarian-Soundings-Systematic-Theology-Metzger/dp/0567084108/ref=sr_1_1?ie=UTF8&qid=1440120753&sr=8-1&keywords=Trinitarian+Soundings+in+Systematic+Theology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=wk6nlgqCUX1wkTyo7cbssx5vdGRW+8bPyyJI2lEwd00=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Trinitarian-Soundings-Systematic-Theology-Metzger/dp/0567084108/ref=sr_1_1?ie=UTF8&qid=1440120753&sr=8-1&keywords=Trinitarian+Soundings+in+Systematic+Theology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=wk6nlgqCUX1wkTyo7cbssx5vdGRW+8bPyyJI2lEwd00=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Trinitarian-Soundings-Systematic-Theology-Metzger/dp/0567084108/ref=sr_1_1?ie=UTF8&qid=1440120753&sr=8-1&keywords=Trinitarian+Soundings+in+Systematic+Theology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=wk6nlgqCUX1wkTyo7cbssx5vdGRW+8bPyyJI2lEwd00=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Word-Christ-World-Culture-Theology/dp/1597524077/ref=sr_1_1?ie=UTF8&qid=1440120705&sr=8-1&keywords=The+Word+of+Christ+and+the+World+of+Culture%25253A+Sacred+and+Secular+through+the+Theology+of+Karl+Barth&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=Zslzbldwl4fsyEc3HQ0WxnWD0w2Cf2isLkVdduweZ9M=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Word-Christ-World-Culture-Theology/dp/1597524077/ref=sr_1_1?ie=UTF8&qid=1440120705&sr=8-1&keywords=The+Word+of+Christ+and+the+World+of+Culture%25253A+Sacred+and+Secular+through+the+Theology+of+Karl+Barth&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=Zslzbldwl4fsyEc3HQ0WxnWD0w2Cf2isLkVdduweZ9M=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/Word-Christ-World-Culture-Theology/dp/1597524077/ref=sr_1_1?ie=UTF8&qid=1440120705&sr=8-1&keywords=The+Word+of+Christ+and+the+World+of+Culture%25253A+Sacred+and+Secular+through+the+Theology+of+Karl+Barth&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=Zslzbldwl4fsyEc3HQ0WxnWD0w2Cf2isLkVdduweZ9M=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/World-All-Political-Trinitarian-Theology/dp/080282742X/ref=sr_1_1?ie=UTF8&qid=1440120727&sr=8-1&keywords=A+World+for+All%25253F%25253A+Global+Civil+Society+in+Political+Theory+and+Trinitarian+Theology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=e7TPpgZ/NdEUcDWwBLhR+mauTkCOsKHP03fO6SPoEQU=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/World-All-Political-Trinitarian-Theology/dp/080282742X/ref=sr_1_1?ie=UTF8&qid=1440120727&sr=8-1&keywords=A+World+for+All%25253F%25253A+Global+Civil+Society+in+Political+Theory+and+Trinitarian+Theology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=e7TPpgZ/NdEUcDWwBLhR+mauTkCOsKHP03fO6SPoEQU=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.amazon.com/World-All-Political-Trinitarian-Theology/dp/080282742X/ref=sr_1_1?ie=UTF8&qid=1440120727&sr=8-1&keywords=A+World+for+All%25253F%25253A+Global+Civil+Society+in+Political+Theory+and+Trinitarian+Theology&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=e7TPpgZ/NdEUcDWwBLhR+mauTkCOsKHP03fO6SPoEQU=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.culturalencountersjournal.com/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959070440%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=aw2bxlJrbHNJeOieqNVCEWEMtAP2D42pOzBWsByt+LM=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.culturalencountersjournal.com/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959070440%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=aw2bxlJrbHNJeOieqNVCEWEMtAP2D42pOzBWsByt+LM=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.culturalencountersjournal.com/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959070440%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=aw2bxlJrbHNJeOieqNVCEWEMtAP2D42pOzBWsByt+LM=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.new-wineskins.org/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959070440%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=CH9d3fSb46BcZqLXtlD+Anh0MVnONNw6LLLhq3qwhHA=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.new-wineskins.org/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959070440%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=CH9d3fSb46BcZqLXtlD+Anh0MVnONNw6LLLhq3qwhHA=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.new-wineskins.org/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959070440%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=CH9d3fSb46BcZqLXtlD+Anh0MVnONNw6LLLhq3qwhHA=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.omsc.org/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=zQ1/+Ye0i4inDVQtf8LHvxehZI5MOhdNX+efbqbH0Ks=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=http://www.omsc.org/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=zQ1/+Ye0i4inDVQtf8LHvxehZI5MOhdNX+efbqbH0Ks=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.omsc.org/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=zQ1/+Ye0i4inDVQtf8LHvxehZI5MOhdNX+efbqbH0Ks=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=http://www.patheos.com/blogs/uncommongodcommongood/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=4BaFka43NOzakHqvELPfNPjRcmmE082cXyTiHuZpqC4=&reserved=0": {
+      "status": 200,
+      "final_url": "https://www.patheos.com/blogs/uncommongodcommongood/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=http://www.patheos.com/blogs/uncommongodcommongood/&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=4BaFka43NOzakHqvELPfNPjRcmmE082cXyTiHuZpqC4=&reserved=0",
+          "status": 302,
+          "location": "http://www.patheos.com/blogs/uncommongodcommongood/"
+        },
+        {
+          "url": "http://www.patheos.com/blogs/uncommongodcommongood/",
+          "status": 301,
+          "location": "https://www.patheos.com/blogs/uncommongodcommongood/"
+        },
+        {
+          "url": "https://www.patheos.com/blogs/uncommongodcommongood/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.amazon.com/Beatitudes-Not-Platitudes-Jesus%2525C2%252592-Invitation/dp/1532633157/ref=sr_1_1?s=books&ie=UTF8&qid=1512687892&sr=1-1&keywords=metzger+beatitudes+not+platitudes&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=r7AIq5cTKB4iuyv30/PkVEtQ2Gr6iJSDtKWKhbCWuHE=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=https://www.amazon.com/Beatitudes-Not-Platitudes-Jesus%2525C2%252592-Invitation/dp/1532633157/ref=sr_1_1?s=books&ie=UTF8&qid=1512687892&sr=1-1&keywords=metzger+beatitudes+not+platitudes&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=r7AIq5cTKB4iuyv30/PkVEtQ2Gr6iJSDtKWKhbCWuHE=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.amazon.com/Beatitudes-Not-Platitudes-Jesus%2525C2%252592-Invitation/dp/1532633157/ref=sr_1_1?s=books&ie=UTF8&qid=1512687892&sr=1-1&keywords=metzger+beatitudes+not+platitudes&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=r7AIq5cTKB4iuyv30/PkVEtQ2Gr6iJSDtKWKhbCWuHE=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.amazon.com/Evangelical-Zen-Christians-Spiritual-Buddhist/dp/1939221277/ref=sr_1_1?s=books&ie=UTF8&qid=1512677201&sr=1-1&keywords=evangelical+zen&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=eq3YjaRpqusgAzndjziNKPLTBOIrtFgHbYQPXhzSXNE=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=https://www.amazon.com/Evangelical-Zen-Christians-Spiritual-Buddhist/dp/1939221277/ref=sr_1_1?s=books&ie=UTF8&qid=1512677201&sr=1-1&keywords=evangelical+zen&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=eq3YjaRpqusgAzndjziNKPLTBOIrtFgHbYQPXhzSXNE=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.amazon.com/Evangelical-Zen-Christians-Spiritual-Buddhist/dp/1939221277/ref=sr_1_1?s=books&ie=UTF8&qid=1512677201&sr=1-1&keywords=evangelical+zen&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=eq3YjaRpqusgAzndjziNKPLTBOIrtFgHbYQPXhzSXNE=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.amazon.com/gp/product/1725258706/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i8&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=rcZQnxruMkYE09ManhmOGoAiCQhBQ7yJeQegGX5LXKo=&reserved=0": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/gp/product/1725258706/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i8",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.amazon.com/gp/product/1725258706/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i8&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=rcZQnxruMkYE09ManhmOGoAiCQhBQ7yJeQegGX5LXKo=&reserved=0",
+          "status": 302,
+          "location": "https://www.amazon.com/gp/product/1725258706/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i8"
+        },
+        {
+          "url": "https://www.amazon.com/gp/product/1725258706/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i8",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/reel/10157011528114224?fs=e&mibextid=0VwfS7&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380170281%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=vEOLoFL7Fw15eL3lsZvIpX6Qka1a0OebW32sT8+Ij0g=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/reel/10157011528114224?fs=e&mibextid=0VwfS7&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380170281%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=vEOLoFL7Fw15eL3lsZvIpX6Qka1a0OebW32sT8+Ij0g=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/reel/10157011528114224?fs=e&mibextid=0VwfS7&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380170281%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=vEOLoFL7Fw15eL3lsZvIpX6Qka1a0OebW32sT8+Ij0g=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/share/4CJ5DUjH6r6EsQCq/?mibextid=0VwfS7&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380166607%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=ogrg/yN2Ayeumv6FPrh+nnU2bBALZcoJBvZJvvH/HtE=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/share/4CJ5DUjH6r6EsQCq/?mibextid=0VwfS7&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380166607%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=ogrg/yN2Ayeumv6FPrh+nnU2bBALZcoJBvZJvvH/HtE=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/share/4CJ5DUjH6r6EsQCq/?mibextid=0VwfS7&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380166607%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=ogrg/yN2Ayeumv6FPrh+nnU2bBALZcoJBvZJvvH/HtE=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/share/v/Mop5v4X1Wiruurt5/?mibextid=w8EBqM&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380162845%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=fbS0JtgPWXT3FLiqAG6u3LvmyJnEBO+U5wbadklTDTw=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/share/v/Mop5v4X1Wiruurt5/?mibextid=w8EBqM&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380162845%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=fbS0JtgPWXT3FLiqAG6u3LvmyJnEBO+U5wbadklTDTw=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.facebook.com/share/v/Mop5v4X1Wiruurt5/?mibextid=w8EBqM&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380162845%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=fbS0JtgPWXT3FLiqAG6u3LvmyJnEBO+U5wbadklTDTw=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.ivpress.com/more-than-things&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=hnl6NCRVARqVnJBBSMqLmwm46aDX1lSxA5+ePCpsVwU=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=https://www.ivpress.com/more-than-things&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=hnl6NCRVARqVnJBBSMqLmwm46aDX1lSxA5+ePCpsVwU=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.ivpress.com/more-than-things&data=05%257C01%257C%257Cc41484275a9b445898bf08dbe8b259d6%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638359624959226733%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C3000%257C%257C%257C&sdata=hnl6NCRVARqVnJBBSMqLmwm46aDX1lSxA5+ePCpsVwU=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=JsQhWH1syXM&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380151341%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=95X9koEh55IJcrRvHD079AImtUDAfHNVCCMDHjRabPI=&reserved=0": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=JsQhWH1syXM",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=JsQhWH1syXM&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380151341%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=95X9koEh55IJcrRvHD079AImtUDAfHNVCCMDHjRabPI=&reserved=0",
+          "status": 302,
+          "location": "https://www.youtube.com/watch?v=JsQhWH1syXM"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=JsQhWH1syXM",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=WxuHBTES2-s&t=3s&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380143314%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=iTLin9hfDP3+eOYA/QUvpTo8UADAD4jLCBTrPYh8ZoM=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=WxuHBTES2-s&t=3s&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380143314%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=iTLin9hfDP3+eOYA/QUvpTo8UADAD4jLCBTrPYh8ZoM=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=WxuHBTES2-s&t=3s&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380143314%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=iTLin9hfDP3+eOYA/QUvpTo8UADAD4jLCBTrPYh8ZoM=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=foNaMDvYLPo&t=1s&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380159073%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=0Mr3EVeTBpsjeMfxm2FUcKO/Rr7ehyMwi8ktVvubUqk=&reserved=0": {
+      "status": 200,
+      "final_url": "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=foNaMDvYLPo&t=1s&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380159073%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=0Mr3EVeTBpsjeMfxm2FUcKO/Rr7ehyMwi8ktVvubUqk=&reserved=0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=foNaMDvYLPo&t=1s&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380159073%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=0Mr3EVeTBpsjeMfxm2FUcKO/Rr7ehyMwi8ktVvubUqk=&reserved=0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=k2ExG9Nc_aA&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380155277%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=m0dZ7ahOC1yi5YqMKnB4o7bMDhO3WF2I6jxYBn9nv3k=&reserved=0": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=k2ExG9Nc_aA",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://na01.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v=k2ExG9Nc_aA&data=05%257C02%257C%257C6ec99f9139934e57745a08dc2ca4c351%257C84df9e7fe9f640afb435aaaaaaaaaaaa%257C1%257C0%257C638434333380155277%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%257C0%257C%257C%257C&sdata=m0dZ7ahOC1yi5YqMKnB4o7bMDhO3WF2I6jxYBn9nv3k=&reserved=0",
+          "status": 302,
+          "location": "https://www.youtube.com/watch?v=k2ExG9Nc_aA"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=k2ExG9Nc_aA",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://oneamericamovement.org/": {
+      "status": 200,
+      "final_url": "https://oneamericamovement.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://oneamericamovement.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://outragedbook.com/": {
+      "status": 200,
+      "final_url": "https://outragedbook.com/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://outragedbook.com/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://parliamentofreligions.org/": {
+      "status": 200,
+      "final_url": "https://parliamentofreligions.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://parliamentofreligions.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://ppw.kuleuven.be/cscp": {
+      "status": 200,
+      "final_url": "https://ppw.kuleuven.be/cscp",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://ppw.kuleuven.be/cscp",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://psycnet.apa.org/fulltext/2023-14262-001.html": {
+      "status": 200,
+      "final_url": "https://psycnet.apa.org/record/2023-14262-001",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://psycnet.apa.org/fulltext/2023-14262-001.html",
+          "status": 302,
+          "location": "https://psycnet.apa.org/record/2023-14262-001"
+        },
+        {
+          "url": "https://psycnet.apa.org/record/2023-14262-001",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://religionnews.com/2021/05/07/pagan-metaphysical-shops-navigate-threats-from-christian-critics/": {
+      "status": 403,
+      "final_url": "https://religionnews.com/2021/05/07/pagan-metaphysical-shops-navigate-threats-from-christian-critics/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://religionnews.com/2021/05/07/pagan-metaphysical-shops-navigate-threats-from-christian-critics/",
+          "status": 403,
+          "location": null
+        }
+      ]
+    },
+    "https://rqn.com/attorney/gerald-t-snow/": {
+      "status": 404,
+      "final_url": "https://rqn.com/attorney/gerald-t-snow/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://rqn.com/attorney/gerald-t-snow/",
+          "status": 404,
+          "location": null
+        }
+      ]
+    },
+    "https://rsc.byu.edu/author/peterson-daniel-c": {
+      "status": 200,
+      "final_url": "https://rsc.byu.edu/author/peterson-daniel-c",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://rsc.byu.edu/author/peterson-daniel-c",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://twitter.com/FRDiplomacy": {
+      "status": 200,
+      "final_url": "https://x.com/FRDiplomacy",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://twitter.com/FRDiplomacy",
+          "status": 301,
+          "location": "https://x.com/FRDiplomacy"
+        },
+        {
+          "url": "https://x.com/FRDiplomacy",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://vimeo.com/257502083": {
+      "status": 200,
+      "final_url": "https://vimeo.com/257502083",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://vimeo.com/257502083",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://wildhunt.org/2025/02/concerns-over-targeting-of-pagan-community-in-pickens-sc.html?fbclid=IwY2xjawI_5WdleHRuA2FlbQIxMAABHcOxxmkuCYKffyFjylQodNN_SX7aj5RgoURhvPmtl7rYsCjjh9ELGcVq_Q_aem_zTLnHVooUY5-D3pEUX9kuw": {
+      "status": 200,
+      "final_url": "https://wildhunt.org/2025/02/concerns-over-targeting-of-pagan-community-in-pickens-sc.html?fbclid=IwY2xjawI_5WdleHRuA2FlbQIxMAABHcOxxmkuCYKffyFjylQodNN_SX7aj5RgoURhvPmtl7rYsCjjh9ELGcVq_Q_aem_zTLnHVooUY5-D3pEUX9kuw",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://wildhunt.org/2025/02/concerns-over-targeting-of-pagan-community-in-pickens-sc.html?fbclid=IwY2xjawI_5WdleHRuA2FlbQIxMAABHcOxxmkuCYKffyFjylQodNN_SX7aj5RgoURhvPmtl7rYsCjjh9ELGcVq_Q_aem_zTLnHVooUY5-D3pEUX9kuw",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://wildhunt.org/2025/03/its-certainly-escalating-evangelical-group-targets-metaphysical-stores-with-coordinated-action.html": {
+      "status": 200,
+      "final_url": "https://wildhunt.org/2025/03/its-certainly-escalating-evangelical-group-targets-metaphysical-stores-with-coordinated-action.html",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://wildhunt.org/2025/03/its-certainly-escalating-evangelical-group-targets-metaphysical-stores-with-coordinated-action.html",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://wipfandstock.com/9781666768411/evangelical-zen-second-edition/?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow": {
+      "status": 200,
+      "final_url": "https://wipfandstock.com/products/evangelical-zen_-second-edition-9781666768411?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow&variant=59025629970767",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://wipfandstock.com/9781666768411/evangelical-zen-second-edition/?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow",
+          "status": 301,
+          "location": "https://wipfandstock.com/products/evangelical-zen_-second-edition-9781666768411?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow&variant=59025629970767"
+        },
+        {
+          "url": "https://wipfandstock.com/products/evangelical-zen_-second-edition-9781666768411?fbclid=IwY2xjawGyBphleHRuA2FlbQIxMAABHbzY7iV20ZdSpZ38JrBhf_0muH4QXKCrHkRvv8818V6ZosfP19rTtyDTEQ_aem_fAe_moCNmeL9a1W4reM9ow&variant=59025629970767",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.academia.edu/72319964/Harm_Mediates_the_Disgust_Immorality_Link": {
+      "status": 403,
+      "final_url": "https://www.academia.edu/72319964/Harm_Mediates_the_Disgust_Immorality_Link",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.academia.edu/72319964/Harm_Mediates_the_Disgust_Immorality_Link",
+          "status": 403,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Alien-Gods-American-Christianity-today/dp/0896935450/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Alien-Gods-American-Christianity-today/dp/0896935450/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Alien-Gods-American-Christianity-today/dp/0896935450/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Between-Us-Cultures-Create-Emotions/dp/1324002441/ref=tmm_hrd_swatch_0": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Between-Us-Cultures-Create-Emotions/dp/1324002441/ref=tmm_hrd_swatch_0",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Between-Us-Cultures-Create-Emotions/dp/1324002441/ref=tmm_hrd_swatch_0",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Beyond-Burning-Times-Christian-Dialogue/dp/0745952720/ref=sr_1_1?s=books&ie=UTF8&qid=1542340922&sr=1-1&keywords=beyond+the+burning+times": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Beyond-Burning-Times-Christian-Dialogue/dp/0745952720/ref=sr_1_1?s=books&ie=UTF8&qid=1542340922&sr=1-1&keywords=beyond+the+burning+times",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Beyond-Burning-Times-Christian-Dialogue/dp/0745952720/ref=sr_1_1?s=books&ie=UTF8&qid=1542340922&sr=1-1&keywords=beyond+the+burning+times",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Buddhists-about-Jesus-Christians-Buddha/dp/0826411967/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Buddhists-about-Jesus-Christians-Buddha/dp/0826411967/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Buddhists-about-Jesus-Christians-Buddha/dp/0826411967/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Charitable-Orthopathy-Perspectives-Multifaith-Engagement/dp/1532654138": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Charitable-Orthopathy-Perspectives-Multifaith-Engagement/dp/1532654138",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Charitable-Orthopathy-Perspectives-Multifaith-Engagement/dp/1532654138",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Christianity-Encountering-World-Religions-Twenty-first/dp/0801026601/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Christianity-Encountering-World-Religions-Twenty-first/dp/0801026601/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Christianity-Encountering-World-Religions-Twenty-first/dp/0801026601/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Christians-Buddhist-Meditation-Buddhists-Christian/dp/0826414397/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Christians-Buddhist-Meditation-Buddhists-Christian/dp/0826414397/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Christians-Buddhist-Meditation-Buddhists-Christian/dp/0826414397/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Encountering-New-Religious-Movements-Evangelical/dp/B013J91JQW/ref=sr_1_cc_2?s=aps&ie=UTF8&qid=1542340885&sr=1-2-catcorr&keywords=encountering+new+religious+movements": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Encountering-New-Religious-Movements-Evangelical/dp/B013J91JQW/ref=sr_1_cc_2?s=aps&ie=UTF8&qid=1542340885&sr=1-2-catcorr&keywords=encountering+new+religious+movements",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Encountering-New-Religious-Movements-Evangelical/dp/B013J91JQW/ref=sr_1_cc_2?s=aps&ie=UTF8&qid=1542340885&sr=1-2-catcorr&keywords=encountering+new+religious+movements",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Handbook-Religion-Christian-Engagement-Traditions/dp/080103776X/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Handbook-Religion-Christian-Engagement-Traditions/dp/080103776X/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Handbook-Religion-Christian-Engagement-Traditions/dp/080103776X/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/How-Study-Religion-Beginning-Method/dp/0977163601": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/How-Study-Religion-Beginning-Method/dp/0977163601",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/How-Study-Religion-Beginning-Method/dp/0977163601",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Missing-Peace-Religion-Arab-Israeli-Conflict/dp/0996592431": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Missing-Peace-Religion-Arab-Israeli-Conflict/dp/0996592431",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Missing-Peace-Religion-Arab-Israeli-Conflict/dp/0996592431",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Mysterious-Beyond-Basic-Studying-Religion/dp/0801063035/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Mysterious-Beyond-Basic-Studying-Religion/dp/0801063035/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Mysterious-Beyond-Basic-Studying-Religion/dp/0801063035/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Outraged-Morality-Politics-Common-Ground/dp/0593317432/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Seek-Peace-Jerusalem-Religious-Arab-Israeli/dp/1512789712": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Seek-Peace-Jerusalem-Religious-Arab-Israeli/dp/1512789712",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Seek-Peace-Jerusalem-Religious-Arab-Israeli/dp/1512789712",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Struggle-Holy-Land-Harmony-between-ebook/dp/B017YDN3R2/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Struggle-Holy-Land-Harmony-between-ebook/dp/B017YDN3R2/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Struggle-Holy-Land-Harmony-between-ebook/dp/B017YDN3R2/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Those-Other-Religions-Your-Neighborhood/dp/0310540410/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Those-Other-Religions-Your-Neighborhood/dp/0310540410/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Those-Other-Religions-Your-Neighborhood/dp/0310540410/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.amazon.com/Why-Study-Religion-Understanding-Humanitys/dp/0801049954/": {
+      "status": 200,
+      "final_url": "https://www.amazon.com/Why-Study-Religion-Understanding-Humanitys/dp/0801049954/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.amazon.com/Why-Study-Religion-Understanding-Humanitys/dp/0801049954/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.batjamesquita.com/": {
+      "status": 200,
+      "final_url": "https://www.batjamesquita.com/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.batjamesquita.com/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.bethel.edu/academics/faculty/sabates-angela": {
+      "status": 404,
+      "final_url": "https://www.bethel.edu/academics/faculty/sabates-angela",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.bethel.edu/academics/faculty/sabates-angela",
+          "status": 404,
+          "location": null
+        }
+      ]
+    },
+    "https://www.cbc.ca/news/canada/edmonton/counselling-mentorship-needed-to-help-people-leave-extremist-groups-former-neo-nazi-says-1.5113407": {
+      "status": 200,
+      "final_url": "https://www.cbc.ca/news/canada/edmonton/counselling-mentorship-needed-to-help-people-leave-extremist-groups-former-neo-nazi-says-1.5113407",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.cbc.ca/news/canada/edmonton/counselling-mentorship-needed-to-help-people-leave-extremist-groups-former-neo-nazi-says-1.5113407",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.deepestbeliefslab.com/": {
+      "status": 200,
+      "final_url": "https://www.deepestbeliefslab.com/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.deepestbeliefslab.com/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.facebook.com/profile.php?id=100070105651644": {
+      "status": 200,
+      "final_url": "https://www.facebook.com/people/Foundation-for-Religious-Diplomacy/100070105651644/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.facebook.com/profile.php?id=100070105651644",
+          "status": 301,
+          "location": "https://www.facebook.com/people/Foundation-for-Religious-Diplomacy/100070105651644/"
+        },
+        {
+          "url": "https://www.facebook.com/people/Foundation-for-Religious-Diplomacy/100070105651644/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.feminist.com/resources/artspeech/genwom/talkingwith.html": {
+      "status": 200,
+      "final_url": "https://www.feminist.com/resources/artspeech/genwom/talkingwith.html",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.feminist.com/resources/artspeech/genwom/talkingwith.html",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.heathensagainst.org/": {
+      "status": 404,
+      "final_url": "https://www.heathensagainst.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.heathensagainst.org/",
+          "status": 404,
+          "location": null
+        }
+      ]
+    },
+    "https://www.instagram.com/frdiplomacy/": {
+      "status": 200,
+      "final_url": "https://www.instagram.com/frdiplomacy/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.instagram.com/frdiplomacy/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.ivpress.com/angela-m-sabates": {
+      "status": 403,
+      "final_url": "https://www.ivpress.com/angela-m-sabates",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.ivpress.com/angela-m-sabates",
+          "status": 403,
+          "location": null
+        }
+      ]
+    },
+    "https://www.kuleuven.be/english/kuleuven/": {
+      "status": 200,
+      "final_url": "https://www.kuleuven.be/english/kuleuven/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.kuleuven.be/english/kuleuven/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.lausanne.org/content/lop/religious-non-religious-spirituality-western-world-lop-45": {
+      "status": 200,
+      "final_url": "https://lausanne.org/occasional-paper/religious-non-religious-spirituality-western-world-lop-45",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.lausanne.org/content/lop/religious-non-religious-spirituality-western-world-lop-45",
+          "status": 301,
+          "location": "https://lausanne.org/content/lop/religious-non-religious-spirituality-western-world-lop-45"
+        },
+        {
+          "url": "https://lausanne.org/content/lop/religious-non-religious-spirituality-western-world-lop-45",
+          "status": 301,
+          "location": "https://lausanne.org/occasional-paper/religious-non-religious-spirituality-western-world-lop-45"
+        },
+        {
+          "url": "https://lausanne.org/occasional-paper/religious-non-religious-spirituality-western-world-lop-45",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.multifaithmatters.org/": {
+      "status": 200,
+      "final_url": "https://www.multifaithmatters.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.multifaithmatters.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.multnomah.edu/faculty-and-staff/paul-louis-metzger/": {
+      "status": 404,
+      "final_url": "https://www.multnomah.edu/faculty-and-staff/paul-louis-metzger/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.multnomah.edu/faculty-and-staff/paul-louis-metzger/",
+          "status": 404,
+          "location": null
+        }
+      ]
+    },
+    "https://www.nationalgeographic.com/culture/article/where-to-go-to-explore-pagan-culture": {
+      "status": 200,
+      "final_url": "https://www.nationalgeographic.com/culture/article/where-to-go-to-explore-pagan-culture",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.nationalgeographic.com/culture/article/where-to-go-to-explore-pagan-culture",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.new-wineskins.org/": {
+      "status": 200,
+      "final_url": "https://www.new-wineskins.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.new-wineskins.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html": {
+      "status": 403,
+      "final_url": "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.nytimes.com/2023/12/25/opinion/culinary-diplomacy-state-dinners.html",
+          "status": 403,
+          "location": null
+        }
+      ]
+    },
+    "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/": {
+      "status": 200,
+      "final_url": "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.pbs.org/wgbh/frontline/documentary/a-year-of-war-israelis-and-palestinians/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.pewresearch.org/religion/2024/01/24/religious-nones-in-america-who-they-are-and-what-they-believe/": {
+      "status": 200,
+      "final_url": "https://www.pewresearch.org/religion/2024/01/24/religious-nones-in-america-who-they-are-and-what-they-believe/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.pewresearch.org/religion/2024/01/24/religious-nones-in-america-who-they-are-and-what-they-believe/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.pewresearch.org/short-reads/2019/10/31/in-u-s-familiarity-with-religious-groups-is-associated-with-warmer-feelings-toward-them/": {
+      "status": 200,
+      "final_url": "https://www.pewresearch.org/short-reads/2019/10/31/in-u-s-familiarity-with-religious-groups-is-associated-with-warmer-feelings-toward-them/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.pewresearch.org/short-reads/2019/10/31/in-u-s-familiarity-with-religious-groups-is-associated-with-warmer-feelings-toward-them/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.rajanzed.com/": {
+      "status": 403,
+      "final_url": "https://www.rajanzed.com/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.rajanzed.com/",
+          "status": 403,
+          "location": null
+        }
+      ]
+    },
+    "https://www.resettingthetable.org/": {
+      "status": 200,
+      "final_url": "https://www.resettingthetable.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.resettingthetable.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.shu.edu/profiles/alanbrill.html": {
+      "status": 200,
+      "final_url": "https://www.shu.edu/profiles/alanbrill.html",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.shu.edu/profiles/alanbrill.html",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.theothersideacademy.com/joseph-grenny": {
+      "status": 200,
+      "final_url": "https://www.theothersideacademy.com/joseph-grenny",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.theothersideacademy.com/joseph-grenny",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.thetroth.org/": {
+      "status": 200,
+      "final_url": "https://thetroth.org/",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.thetroth.org/",
+          "status": 301,
+          "location": "https://thetroth.org/"
+        },
+        {
+          "url": "https://thetroth.org/",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.threads.net/@thefallenape_theist/post/C_flAT7xs66": {
+      "status": 200,
+      "final_url": "https://www.threads.com/@thefallenape_theist/post/C_flAT7xs66",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.threads.net/@thefallenape_theist/post/C_flAT7xs66",
+          "status": 301,
+          "location": "https://www.threads.com/@thefallenape_theist/post/C_flAT7xs66"
+        },
+        {
+          "url": "https://www.threads.com/@thefallenape_theist/post/C_flAT7xs66",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.woolf.cam.ac.uk/research/projects/effectiveness-of-interfaith-initiatives": {
+      "status": 200,
+      "final_url": "https://www.woolf.cam.ac.uk/research/projects/effectiveness-of-interfaith-initiatives",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.woolf.cam.ac.uk/research/projects/effectiveness-of-interfaith-initiatives",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.youtube.com/@foundationforreligiousdipl4729": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/@foundationforreligiousdipl4729",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.youtube.com/@foundationforreligiousdipl4729",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://www.youtube.com/@thefallenape-theist": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/@thefallenape-theist",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://www.youtube.com/@thefallenape-theist",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/-D1kA5Jhiu8?si=8YRQQ1hQJs0MvVx9": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=8YRQQ1hQJs0MvVx9&v=-D1kA5Jhiu8&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/-D1kA5Jhiu8?si=8YRQQ1hQJs0MvVx9",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=8YRQQ1hQJs0MvVx9&v=-D1kA5Jhiu8&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=8YRQQ1hQJs0MvVx9&v=-D1kA5Jhiu8&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/0juLRi90kRg?si=pk1p_1ElGQHJ7YhM": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=pk1p_1ElGQHJ7YhM&v=0juLRi90kRg&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/0juLRi90kRg?si=pk1p_1ElGQHJ7YhM",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=pk1p_1ElGQHJ7YhM&v=0juLRi90kRg&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=pk1p_1ElGQHJ7YhM&v=0juLRi90kRg&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/5URfQQyxecs?si=OVXxIJIZadewcRJt": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=OVXxIJIZadewcRJt&v=5URfQQyxecs&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/5URfQQyxecs?si=OVXxIJIZadewcRJt",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=OVXxIJIZadewcRJt&v=5URfQQyxecs&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=OVXxIJIZadewcRJt&v=5URfQQyxecs&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/9Z-KIZKGyrA?si=gMEHMhmBCsfCZ5ct&t=120": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=gMEHMhmBCsfCZ5ct&t=120&v=9Z-KIZKGyrA&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/9Z-KIZKGyrA?si=gMEHMhmBCsfCZ5ct&t=120",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=gMEHMhmBCsfCZ5ct&t=120&v=9Z-KIZKGyrA&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=gMEHMhmBCsfCZ5ct&t=120&v=9Z-KIZKGyrA&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=FNB3QuxVRsPp48I5&v=9mbQ0ul9Jo4&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/9mbQ0ul9Jo4?si=FNB3QuxVRsPp48I5",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=FNB3QuxVRsPp48I5&v=9mbQ0ul9Jo4&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=FNB3QuxVRsPp48I5&v=9mbQ0ul9Jo4&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/GZ_qfvNfhtY?si=WhRM1I7wWwKMYe3u": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=WhRM1I7wWwKMYe3u&v=GZ_qfvNfhtY&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/GZ_qfvNfhtY?si=WhRM1I7wWwKMYe3u",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=WhRM1I7wWwKMYe3u&v=GZ_qfvNfhtY&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=WhRM1I7wWwKMYe3u&v=GZ_qfvNfhtY&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=s94usNvwCvpJA3O0&v=UYqe6D87_lA&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/UYqe6D87_lA?si=s94usNvwCvpJA3O0",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=s94usNvwCvpJA3O0&v=UYqe6D87_lA&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=s94usNvwCvpJA3O0&v=UYqe6D87_lA&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=4h0XasHtRl7UDVaB&v=_wlbWUazel8&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/_wlbWUazel8?si=4h0XasHtRl7UDVaB",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=4h0XasHtRl7UDVaB&v=_wlbWUazel8&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=4h0XasHtRl7UDVaB&v=_wlbWUazel8&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/e4-OyKDfRMI?si=Ypb58No-NRSaiNDE": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=Ypb58No-NRSaiNDE&v=e4-OyKDfRMI&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/e4-OyKDfRMI?si=Ypb58No-NRSaiNDE",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=Ypb58No-NRSaiNDE&v=e4-OyKDfRMI&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=Ypb58No-NRSaiNDE&v=e4-OyKDfRMI&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/rzOgsszHbDc?si=hxS1TfLKnG4qW4Nj": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=hxS1TfLKnG4qW4Nj&v=rzOgsszHbDc&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/rzOgsszHbDc?si=hxS1TfLKnG4qW4Nj",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=hxS1TfLKnG4qW4Nj&v=rzOgsszHbDc&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=hxS1TfLKnG4qW4Nj&v=rzOgsszHbDc&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=YidwJnUMQOj61c6b&v=vjRuVDB94yE&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/vjRuVDB94yE?si=YidwJnUMQOj61c6b",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=YidwJnUMQOj61c6b&v=vjRuVDB94yE&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=YidwJnUMQOj61c6b&v=vjRuVDB94yE&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    },
+    "https://youtu.be/w4tbTZvYk0o?si=DpDO5H_KNphG3J4m": {
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?si=DpDO5H_KNphG3J4m&v=w4tbTZvYk0o&feature=youtu.be",
+      "error": null,
+      "chain": [
+        {
+          "url": "https://youtu.be/w4tbTZvYk0o?si=DpDO5H_KNphG3J4m",
+          "status": 303,
+          "location": "https://www.youtube.com/watch?si=DpDO5H_KNphG3J4m&v=w4tbTZvYk0o&feature=youtu.be"
+        },
+        {
+          "url": "https://www.youtube.com/watch?si=DpDO5H_KNphG3J4m&v=w4tbTZvYk0o&feature=youtu.be",
+          "status": 200,
+          "location": null
+        }
+      ]
+    }
   }
 }

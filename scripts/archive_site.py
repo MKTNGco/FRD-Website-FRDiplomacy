@@ -1676,9 +1676,12 @@ def write_assets_csv(records: list[dict]) -> None:
         writer.writerows(records)
 
 
-def check_external(urls: list[str]) -> dict[str, dict]:
-    results = {}
+def check_external(urls: list[str], existing: dict | None = None) -> dict[str, dict]:
+    results = dict(existing or {})
     for url in urls:
+        prior = results.get(url)
+        if prior and prior.get("status") not in {None, ""}:
+            continue
         log(f"inventory: external {url}")
         try:
             followed = follow(url)
@@ -1717,7 +1720,7 @@ def inventory() -> None:
         if (urllib.parse.urlsplit(u).hostname or "") not in SKIP_ASSET_HOSTS | CONTENT_ASSET_HOSTS
         and not is_asset_url(u)
     ]
-    external_status = check_external(external_urls)
+    external_status = check_external(external_urls, data.get("external_status"))
     data["external_status"] = external_status
 
     rows = []
@@ -1817,6 +1820,9 @@ def write_issues(data: dict, external_status: dict, nav: dict, footer_hrefs: set
     any_ext = False
     for url, info in sorted(external_status.items()):
         status = info.get("status")
+        if url in {"http://b.sc/", "https://b.sc/", "http://m.sc/", "https://m.sc/"}:
+            lines.append(f"- `{url}` status {status}. This is the degree abbreviation B.Sc. or M.Sc. on the senior-fellows page, which the renderer turned into a link. It is not an intentional outbound URL.")
+            continue
         if status in {404, 410} or status == 0:
             any_ext = True
             lines.append(f"- `{url}` status {status} {info.get('error') or ''}".rstrip())
@@ -1840,12 +1846,30 @@ def write_issues(data: dict, external_status: dict, nav: dict, footer_hrefs: set
             by_hash.setdefault(digest, []).append(url)
     dupes = {h: urls for h, urls in by_hash.items() if len(urls) > 1}
     if not dupes:
-        lines.append("No two 200 responses shared a body hash.")
+        lines.append("No two 200 responses shared a byte-for-byte body hash. Trailing-slash copies and `/home` still return 200, but the HTML embeds the requested URL, so the bytes differ.")
     for digest, urls in dupes.items():
         lines.append(f"- identical body `{digest[:12]}`:")
         for url in sorted(urls):
             entry = data["urls"][url]
             lines.append(f"  - `{url}` collection `{entry.get('collection_id')}` sources {', '.join(entry.get('sources') or [])}")
+    by_collection: dict[str, list[str]] = {}
+    for url, entry in data["urls"].items():
+        cid = entry.get("collection_id")
+        parts = urllib.parse.urlsplit(url)
+        if not cid or entry.get("http_status") != 200:
+            continue
+        if parts.scheme != "https" or parts.netloc != "www.frdiplomacy.org" or parts.query:
+            continue
+        by_collection.setdefault(cid, []).append(url)
+    lines.append("")
+    lines.append("Same Squarespace collection id on more than one 200 URL:")
+    lines.append("")
+    for cid, urls in sorted(by_collection.items()):
+        if len(urls) < 2:
+            continue
+        lines.append(f"- `{cid}`")
+        for url in sorted(urls):
+            lines.append(f"  - `{url}`")
     lines.append("")
 
     lines.append("## Conflicting URL patterns")
@@ -1875,7 +1899,7 @@ def write_issues(data: dict, external_status: dict, nav: dict, footer_hrefs: set
             reasons.append("urlId is empty")
         if re.fullmatch(r"[a-z0-9]{16,}", last):
             reasons.append("urlId is an unedited Squarespace token with no hyphens")
-        if re.search(r"(^|/)[-a-z]*post-1$", url_id):
+        if re.search(r"(^|/)[a-z0-9-]*post-1$", url_id):
             reasons.append("urlId ends in the placeholder post-1 and does not describe the title")
         if reasons:
             flagged = True
@@ -1941,7 +1965,7 @@ def write_issues(data: dict, external_status: dict, nav: dict, footer_hrefs: set
         re.I,
     )
     city_re = re.compile(r"\b[A-Z][a-z]+(?:\s[A-Z][a-z]+)*,\s*[A-Z]{2}\s+\d{5}(?:-\d{4})?\b")
-    email_re = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+    email_re = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.(?!png\b|jpe?g\b|gif\b|webp\b|svg\b|pdf\b|html\b)[A-Za-z]{2,}\b")
     phone_re = re.compile(r"(?:\+1[\s.-]?)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}")
     addresses: dict[str, list[str]] = {}
     emails: dict[str, list[str]] = {}
@@ -1991,6 +2015,34 @@ def write_issues(data: dict, external_status: dict, nav: dict, footer_hrefs: set
         for url, line1, line2, lat, lng in pins:
             lines.append(f"- `{url}` addressLine1 `{line1}` addressLine2 `{line2}` lat `{lat}` lng `{lng}`")
     lines.append("")
+    name_for = []
+    name_of = []
+    nyc = []
+    for url, entry in sorted(data["urls"].items()):
+        if entry.get("http_status") != 200 or not entry.get("content_path"):
+            continue
+        if path_of(url).endswith("/") and path_of(url) != "/":
+            continue
+        text = page_text(entry)
+        if "Foundation for Religious Diplomacy" in text:
+            name_for.append(url)
+        if "Foundation of Religious Diplomacy" in text:
+            name_of.append(url)
+        if "New York City" in text and "Foundation" in text:
+            nyc.append(url)
+    lines.append("Organization name strings on canonical pages:")
+    lines.append(f"- `Foundation for Religious Diplomacy` appears on {len(name_for)} pages.")
+    if name_of:
+        lines.append("- `Foundation of Religious Diplomacy` (different preposition) appears on:")
+        for url in name_of:
+            lines.append(f"  - `{url}`")
+    else:
+        lines.append("- `Foundation of Religious Diplomacy` was not found.")
+    if nyc:
+        lines.append("- Pages that mention both Foundation and New York City:")
+        for url in nyc:
+            lines.append(f"  - `{url}`")
+    lines.append("")
 
     lines.append("## Forms and cart scaffolding")
     lines.append("")
@@ -2033,8 +2085,17 @@ def write_issues(data: dict, external_status: dict, nav: dict, footer_hrefs: set
     for url, entry in sorted(data["urls"].items()):
         if entry.get("http_status") != 200 or not entry.get("content_path"):
             continue
+        if path_of(url).endswith("/") and path_of(url) != "/":
+            continue
         if not entry.get("seo_description"):
             lines.append(f"- `{url}`")
+    lines.append("")
+    lines.append("## Placeholder SEO titles")
+    lines.append("")
+    for url, entry in sorted(data["urls"].items()):
+        title = entry.get("seo_title") or ""
+        if title.startswith("General ") or title in {"General 2", "General 6"}:
+            lines.append(f"- `{url}` seo_title `{title}`")
     lines.append("")
 
     lines.append("## Known issues from the prior review")
@@ -2065,6 +2126,9 @@ def write_issues(data: dict, external_status: dict, nav: dict, footer_hrefs: set
     lines.append("")
     lines.append("### Ecommerce and cart scaffolding")
     lines.append("")
+    home_cart = (data["urls"].get(ORIGIN + "/") or {}).get("show_cart")
+    lines.append(f"Homepage JSON `showCart` is `{home_cart}`. The cart page itself did not return JSON, so its flag is empty.")
+    lines.append("")
     for path in ("/cart", "/checkout", "/commerce", "/store", "/shop", "/products"):
         matches = [u for u in data["urls"] if path_of(u) == path and urllib.parse.urlsplit(u).netloc == "www.frdiplomacy.org" and urllib.parse.urlsplit(u).scheme == "https"]
         if not matches:
@@ -2084,14 +2148,14 @@ def write_issues(data: dict, external_status: dict, nav: dict, footer_hrefs: set
     lines.append("")
     lines.append("### Inconsistent physical address")
     lines.append("")
-    if len(addresses) <= 1:
-        lines.append("Refuted as a visible contradiction. Captured page text has fewer than two distinct address-bearing pages. Details are in the contact section above.")
+    street_pages = [u for u, found in addresses.items() if any("Avenue" in item or "Street" in item for item in found)]
+    if len({tuple(v) for v in addresses.values()}) <= 1 and street_pages:
+        lines.append("The only street address in captured page text is on the contact routes. It is the same string on each of those routes.")
+        lines.append("A separate location claim appears in prose: the senior-fellows page calls the organization the Foundation of Religious Diplomacy, New York City. Blog item location fields also carry a New York coordinate pin with empty address lines. Those are not a second street address, and they do not match Syracuse, UT.")
+    elif len(addresses) <= 1:
+        lines.append("Fewer than two pages contain a street address. See the contact section for the strings that were found, including any New York City mention.")
     else:
-        unique = {tuple(v) for v in addresses.values()}
-        if len(unique) == 1:
-            lines.append("The same address string appears on every page that has one.")
-        else:
-            lines.append("Confirmed. More than one address string is present. See the contact section above.")
+        lines.append("More than one address string is present. See the contact section above.")
     lines.append("")
 
     lines.append("## Capture failures")
@@ -2131,8 +2195,8 @@ def write_readme(data: dict, external_status: dict) -> None:
         "",
         f"- URLs recorded: {len(data.get('urls') or {})}",
         f"- Sitemap URLs: {data.get('sitemap_count')}",
-        f"- Content pages: {len(pages)}",
-        f"- Content posts: {len(posts)}",
+        f"- Content pages: {len(pages)} files ({sum(1 for e in pages if not str(e.get('content_path','')).endswith('--slash.md'))} without a trailing-slash twin in the filename, including both `/` and `/home`)",
+        f"- Content posts: {len(posts)} files ({sum(1 for e in posts if not str(e.get('content_path','')).endswith('--slash.md'))} canonical posts, plus a trailing-slash file for each)",
         f"- Assets referenced: {len(assets)} ({len(asset_ok)} downloaded, {len(asset_bad)} failed)",
         f"- Redirecting URLs: {len(redirects)}",
         f"- External links checked: {len(external_status)} ({len(broken_ext)} broken or unreachable)",
